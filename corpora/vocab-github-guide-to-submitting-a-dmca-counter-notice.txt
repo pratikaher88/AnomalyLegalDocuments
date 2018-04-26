@@ -1,0 +1,168 @@
+this guide describes information that github needs in order to process counter notice to dmca takedown request
+if you have more general questions about what dmca is how github processes dmca takedown requests please review our dmca takedown policy
+if you believe your content on github was mistakenly disabled by dmca takedown request you have right to contest takedown by submitting counter notice
+if you do we will wait days then re enable your content unless copyright owner initiates legal action against you before then
+our counter notice form set forth below is consistent with form suggested by dmca statute which can be found at u s
+copyright office s official website http www copyright gov
+as with all legal matters it is always best to consult with professional about your specific questions situation
+we strongly encourage you to do so before taking any action that might impact your rights
+this guide isn t legal advice shouldn t be taken as such
+tell truth
+dmca requires that you swear to your counter notice under penalty of perjury
+it is federal crime to intentionally lie in sworn declaration
+see u s code title section
+submitting false information could also result in civil liability that is you could get sued for money damages
+investigate
+submitting dmca counter notice can have real legal consequences
+if complaining party disagrees that their takedown notice was mistaken they might decide to file lawsuit against you to keep content disabled
+you should conduct thorough investigation into allegations made in takedown notice probably talk to lawyer before submitting counter notice
+you must have good reason to submit counter notice
+in order to file counter notice you must have good faith belief that material was removed disabled as result of mistake misidentification of material to be removed disabled
+u s code title section g
+whether you decide to explain why you believe there was mistake is up to you your lawyer but you do need to identify mistake before you submit counter notice
+in past we have received counter notices citing mistakes in takedown notice such as complaining party doesn t have copyright i have license code has been released under open source license that permits my use complaint doesn t account for fact that my use is protected by fair use doctrine
+of course there could be other defects with takedown notice
+copyright laws are complicated
+sometimes takedown notice might allege infringement in way that seems odd indirect
+copyright laws are complicated can lead to some unexpected results
+in some cases takedown notice might allege that your source code infringes because of what it can do after it is compiled run
+for example
+these are just few examples of complexities of copyright law
+since there are many nuances to law some unsettled questions in these types of cases it is especially important to get professional advice if infringement allegations do not seem straightforward
+your counter notice will be published
+as noted in our dmca takedown policy after redacting personal information we publish all complete actionable counter notices at https github com github dmca
+additional resources
+if you need additional help there are many self help resources online
+chilling effects has informative set of faqs about copyright dmca safe harbor
+if you are involved with open source project in need of legal advice you can contact software freedom law center
+if you think you have particularly challenging case non profit organizations such as electronic frontier foundation may also be willing to help directly refer you to lawyer
+include following statement i have read understand github s guide to filing dmca counter notice
+we won t refuse to process otherwise complete counter notice if you don t include this statement however we will know that you haven t read these guidelines may ask you to go back do so
+identify content that was disabled location where it appeared
+disabled content should have been identified by url in takedown notice
+you simply need to copy url s that you want to challenge
+provide your contact information
+include your email address name telephone number physical address
+include following statement i swear under penalty of perjury that i have good faith belief that material was removed disabled as result of mistake misidentification of material to be removed disabled
+you may also choose to communicate reasons why you believe there was mistake misidentification
+if you think of your counter notice as note to complaining party this is chance to explain why they should not take next step file lawsuit in response
+this is yet another reason to work with lawyer when submitting counter notice
+include following statement i consent to jurisdiction of federal district court for judicial district in which my address is located if in united states otherwise northern district of california where github is located i will accept service of process from person who provided dmca notification agent of such person
+include your physical electronic signature
+fastest way to get response is to send email notification to copyright github com
+you may include attachment if you like but please also include plain text version of your letter in body of your message
+if you must send your notice by physical mail you can do that too but it will take substantially longer for us to receive respond to it day waiting period starts from when we receive your counter notice
+notices we receive via plain text email have much faster turnaround than pdf attachments physical mail
+if you still wish to mail us your notice our physical address is
+this guide describes information that github needs in order to process counter notice to dmca takedown request
+if you have more general questions about what dmca is how github processes dmca takedown requests please review our dmca takedown policy
+if you believe your content on github was mistakenly disabled by dmca takedown request you have right to contest takedown by submitting counter notice
+if you do we will wait days then re enable your content unless copyright owner initiates legal action against you before then
+our counter notice form set forth below is consistent with form suggested by dmca statute which can be found at u s
+copyright office s official website http www copyright gov
+as with all legal matters it is always best to consult with professional about your specific questions situation
+we strongly encourage you to do so before taking any action that might impact your rights
+this guide isn t legal advice shouldn t be taken as such
+tell truth
+dmca requires that you swear to your counter notice under penalty of perjury
+it is federal crime to intentionally lie in sworn declaration
+see u s code title section
+submitting false information could also result in civil liability that is you could get sued for money damages
+investigate
+submitting dmca counter notice can have real legal consequences
+if complaining party disagrees that their takedown notice was mistaken they might decide to file lawsuit against you to keep content disabled
+you should conduct thorough investigation into allegations made in takedown notice probably talk to lawyer before submitting counter notice
+you must have good reason to submit counter notice
+in order to file counter notice you must have good faith belief that material was removed disabled as result of mistake misidentification of material to be removed disabled
+u s code title section g
+whether you decide to explain why you believe there was mistake is up to you your lawyer but you do need to identify mistake before you submit counter notice
+in past we have received counter notices citing mistakes in takedown notice such as complaining party doesn t have copyright i have license code has been released under open source license that permits my use complaint doesn t account for fact that my use is protected by fair use doctrine
+of course there could be other defects with takedown notice
+copyright laws are complicated
+sometimes takedown notice might allege infringement in way that seems odd indirect
+copyright laws are complicated can lead to some unexpected results
+in some cases takedown notice might allege that your source code infringes because of what it can do after it is compiled run
+for example
+these are just few examples of complexities of copyright law
+since there are many nuances to law some unsettled questions in these types of cases it is especially important to get professional advice if infringement allegations do not seem straightforward
+your counter notice will be published
+as noted in our dmca takedown policy after redacting personal information we publish all complete actionable counter notices at https github com github dmca
+additional resources
+if you need additional help there are many self help resources online
+chilling effects has informative set of faqs about copyright dmca safe harbor
+if you are involved with open source project in need of legal advice you can contact software freedom law center
+if you think you have particularly challenging case non profit organizations such as electronic frontier foundation may also be willing to help directly refer you to lawyer
+include following statement i have read understand github s guide to filing dmca counter notice
+we won t refuse to process otherwise complete counter notice if you don t include this statement however we will know that you haven t read these guidelines may ask you to go back do so
+identify content that was disabled location where it appeared
+disabled content should have been identified by url in takedown notice
+you simply need to copy url s that you want to challenge
+provide your contact information
+include your email address name telephone number physical address
+include following statement i swear under penalty of perjury that i have good faith belief that material was removed disabled as result of mistake misidentification of material to be removed disabled
+you may also choose to communicate reasons why you believe there was mistake misidentification
+if you think of your counter notice as note to complaining party this is chance to explain why they should not take next step file lawsuit in response
+this is yet another reason to work with lawyer when submitting counter notice
+include following statement i consent to jurisdiction of federal district court for judicial district in which my address is located if in united states otherwise northern district of california where github is located i will accept service of process from person who provided dmca notification agent of such person
+include your physical electronic signature
+fastest way to get response is to send email notification to copyright github com
+you may include attachment if you like but please also include plain text version of your letter in body of your message
+if you must send your notice by physical mail you can do that too but it will take substantially longer for us to receive respond to it day waiting period starts from when we receive your counter notice
+notices we receive via plain text email have much faster turnaround than pdf attachments physical mail
+if you still wish to mail us your notice our physical address is
+this guide describes information that github needs in order to process counter notice to dmca takedown request
+if you have more general questions about what dmca is how github processes dmca takedown requests please review our dmca takedown policy
+if you believe your content on github was mistakenly disabled by dmca takedown request you have right to contest takedown by submitting counter notice
+if you do we will wait days then re enable your content unless copyright owner initiates legal action against you before then
+our counter notice form set forth below is consistent with form suggested by dmca statute which can be found at u s
+copyright office s official website http www copyright gov
+as with all legal matters it is always best to consult with professional about your specific questions situation
+we strongly encourage you to do so before taking any action that might impact your rights
+this guide isn t legal advice shouldn t be taken as such
+tell truth
+dmca requires that you swear to your counter notice under penalty of perjury
+it is federal crime to intentionally lie in sworn declaration
+see u s code title section
+submitting false information could also result in civil liability that is you could get sued for money damages
+investigate
+submitting dmca counter notice can have real legal consequences
+if complaining party disagrees that their takedown notice was mistaken they might decide to file lawsuit against you to keep content disabled
+you should conduct thorough investigation into allegations made in takedown notice probably talk to lawyer before submitting counter notice
+you must have good reason to submit counter notice
+in order to file counter notice you must have good faith belief that material was removed disabled as result of mistake misidentification of material to be removed disabled
+u s code title section g
+whether you decide to explain why you believe there was mistake is up to you your lawyer but you do need to identify mistake before you submit counter notice
+in past we have received counter notices citing mistakes in takedown notice such as complaining party doesn t have copyright i have license code has been released under open source license that permits my use complaint doesn t account for fact that my use is protected by fair use doctrine
+of course there could be other defects with takedown notice
+copyright laws are complicated
+sometimes takedown notice might allege infringement in way that seems odd indirect
+copyright laws are complicated can lead to some unexpected results
+in some cases takedown notice might allege that your source code infringes because of what it can do after it is compiled run
+for example
+these are just few examples of complexities of copyright law
+since there are many nuances to law some unsettled questions in these types of cases it is especially important to get professional advice if infringement allegations do not seem straightforward
+your counter notice will be published
+as noted in our dmca takedown policy after redacting personal information we publish all complete actionable counter notices at https github com github dmca
+additional resources
+if you need additional help there are many self help resources online
+chilling effects has informative set of faqs about copyright dmca safe harbor
+if you are involved with open source project in need of legal advice you can contact software freedom law center
+if you think you have particularly challenging case non profit organizations such as electronic frontier foundation may also be willing to help directly refer you to lawyer
+include following statement i have read understand github s guide to filing dmca counter notice
+we won t refuse to process otherwise complete counter notice if you don t include this statement however we will know that you haven t read these guidelines may ask you to go back do so
+identify content that was disabled location where it appeared
+disabled content should have been identified by url in takedown notice
+you simply need to copy url s that you want to challenge
+provide your contact information
+include your email address name telephone number physical address
+include following statement i swear under penalty of perjury that i have good faith belief that material was removed disabled as result of mistake misidentification of material to be removed disabled
+you may also choose to communicate reasons why you believe there was mistake misidentification
+if you think of your counter notice as note to complaining party this is chance to explain why they should not take next step file lawsuit in response
+this is yet another reason to work with lawyer when submitting counter notice
+include following statement i consent to jurisdiction of federal district court for judicial district in which my address is located if in united states otherwise northern district of california where github is located i will accept service of process from person who provided dmca notification agent of such person
+include your physical electronic signature
+fastest way to get response is to send email notification to copyright github com
+you may include attachment if you like but please also include plain text version of your letter in body of your message
+if you must send your notice by physical mail you can do that too but it will take substantially longer for us to receive respond to it day waiting period starts from when we receive your counter notice
+notices we receive via plain text email have much faster turnaround than pdf attachments physical mail
+if you still wish to mail us your notice our physical address is

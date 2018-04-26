@@ -1,0 +1,124 @@
+this atlassian reseller agreement reseller agreement is between applicable reseller you reseller atlassian pty ltd abn
+if you are agreeing to this reseller agreement not as individual but on behalf of your company then reseller you means your company you are binding your company to this reseller agreement
+this reseller agreement is separate agreement from agreement that atlassian has with its end users at https www atlassian com end user agreement as may be modified by atlassian from time to time atlassian customer agreement
+for convenience consistency however definitions of certain terms related to our products services namely software hosted services products authorized users will be same as those in atlassian customer agreement
+this reseller agreement does not have to be signed in order to be binding
+you indicate your assent to terms by clicking on i agree similar button that is presented to you at time of your order
+to extent that we make products available for resale you may order such products for resale by following directions set forth on our website currently at http www atlassian com licensing resellers licensing
+you must provide all of requested information including without limitation identity of end user end user s business email addresses specific software licenses hosted services subscriptions other products to be resold in your order reseller order
+all such information must be accurate complete must reflect bona fide orders you have received from end users
+subject to this reseller agreement we grant you one time non exclusive non transferable right to resell products specified in your reseller order to end user specified in reseller order solely for use by such end user in accordance with atlassian customer agreement
+this right to resell does not apply to any other end user products including without limitation any sale to any related party organization affiliate to any subsequent additional renewal sale to same party
+
+end user terms
+all use of products by end users is subject to atlassian customer agreement you may not purport to impose any other terms pertaining to their use of products
+you are responsible for ensuring that each end user enters into atlassian customer agreement which includes all limitations on authorized users other quantity restrictions applicable to end user s order in manner that is legally binding upon end user
+this may require you to notify each end user that atlassian products are subject to atlassian customer agreement that by placing order with reseller end user agrees to atlassian customer agreement b include either copy of link to atlassian customer agreement in each quotation order form you issue to end user c obtain from each end user written confirmation of acceptance of atlassian customer agreement prior to earlier to occur of acceptance of order by reseller delivery of product
+you must provide evidence of such acceptance by end user to atlassian upon request
+
+enforcement cooperation
+you agree to immediately notify us of any known suspected breach of atlassian customer agreement other unauthorized use of products to assist us in enforcement of terms of atlassian customer agreement
+subject to this reseller agreement you are permitted to identify yourself as atlassian reseller solely in connection with your resales of products
+you may not use any atlassian trademark logo service mark atlassian marks except as permitted by atlassian s trademark guidelines at https www atlassian com company trademark
+all goodwill arising from your use of atlassian marks inures to benefit of atlassian
+
+fees
+your non refundable non cancelable payment to atlassian is due when you submit your reseller order
+
+delivery
+upon receipt of payment we will deliver applicable software license key hosted services login information other information necessary for end users to use access applicable products directly to delivery contact specified in reseller order in accordance with our standard delivery procedures
+if we deliver license keys logins to you you agree that you will in turn deliver them directly to end user specified in reseller order not to use access software hosted services other products in any way
+you must either delete all license keys promptly thereafter maintain them in confidence
+
+taxes
+payments made by you under this reseller agreement exclude any taxes duties payable in respect of products in jurisdiction where payment is either made received
+to extent that any such taxes duties are payable by atlassian you must pay to atlassian amount of such taxes duties in addition to any fees owed under this reseller agreement
+notwithstanding foregoing you may have obtained exemption from relevant taxes duties as of time such taxes duties are levied assessed
+in that case you will have right to provide to atlassian any such exemption information atlassian will use reasonable efforts to provide such invoicing documents as may enable you to obtain refund credit for amount so paid from any relevant revenue authority if such refund credit is available
+
+end user pricing payment refunds
+you will independently set your own pricing to each end user
+you bear all risk of non payment by end users you are solely responsible for all of your costs expenses
+you may not terminate reseller order receive any refunds due to non payment by end user
+if atlassian provides any refund to end user under our standard return policy atlassian at its option will refund applicable amounts either directly to end user to you for distribution to end user
+you agree to cooperate with atlassian in connection with any such refund
+if you provide any feedback comments suggestions ideas description of processes other information to us about in connection with products our reseller program including without limitation any ideas concepts know how techniques contained therein feedback then you grant us worldwide royalty free non exclusive perpetual irrevocable license to use copy modify otherwise exploit feedback for any purpose without any compensation to you any restriction obligation on account of intellectual property rights otherwise
+for clarity no feedback will be deemed your confidential information nothing in this reseller agreement including without limitation section confidentiality limits atlassian s right to independently use develop evaluate market products whether incorporating feedback otherwise
+entering into this reseller agreement does not qualify you as atlassian expert grant you any related rights
+if you are interested in our separate atlassian expert program please contact us at experts atlassian com
+only end user customer of products its authorized users may use products
+you are not permitted to use any products resold under this reseller agreement for your own benefit
+to extent that you nevertheless gain any access to products all license restrictions in atlassian customer agreement apply to you
+notwithstanding anything to contrary contained in this reseller agreement except for limited resale right in section above atlassian its suppliers have will retain all rights title interest including without limitation all patent copyright trademark trade secret other intellectual property rights in to all products service descriptions documentation underlying technology atlassian technology all copies modifications derivative works thereof including without limitation as may incorporate feedback
+you acknowledge that you are obtaining only limited right to resell products that irrespective of any use of words purchase sale like terms hereunder no ownership rights are being conveyed to you under this reseller agreement otherwise
+
+end user relationships business practices
+you agree not to represent yourself as agent employee of atlassian agree that we will have primary control over any end user communication regarding products once you submit reseller order
+you will not make any representations regarding atlassian on atlassian s behalf about any products
+you agree not to engage in any deceptive misleading illegal unethical practices that may be detrimental to atlassian its products agree to comply with all applicable federal state local laws regulations while operating under this reseller agreement including without limitation u s foreign corrupt practices act any similar laws regulations in any applicable jurisdiction
+you further agree to comply with all applicable export import laws regulations including u s embargo sanctions regulations prohibitions on export for certain end uses to certain users
+
+indemnity
+you are fully responsible for all liabilities expenses of any type whatsoever that may arise on account of your resale of products
+you will indemnify hold harmless at atlassian s option defend atlassian from against any claim loss cost liability damage including attorneys fees for which atlassian becomes liable arising from relating to any breach alleged by you of any term of this reseller agreement b issuance by you of any warranty representation regarding atlassian its products services not specified in atlassian customer agreement c any of your other acts omissions in connection with marketing resale of products under this reseller agreement
+
+termination
+we may terminate this reseller agreement if you materially breach any provision in this reseller agreement fail to cure such breach within five days of written notice of such breach
+in addition either party may terminate this reseller agreement for any reason no reason upon thirty days written notice to other party
+atlassian may also terminate this reseller agreement immediately upon notice to you if it ceases to offer current reseller program b it reasonably believes that continuing hereunder could result in business legal liability for atlassian otherwise harm atlassian its end users
+
+effect of termination
+you expressly agree that atlassian will have no obligation liability to you resulting from termination expiration of this reseller agreement in accordance with its terms
+upon termination expiration of this reseller agreement you must immediately cease identifying yourself as atlassian reseller using atlassian marks in connection with your resale activities hereunder b you must destroy all confidential information in your possession certify destruction unless we request that you return such materials to us c sections payment delivery but only with respect to reseller orders completed during term feedback no use rights atlassian reserved rights through general will survive
+from time to time we may modify this reseller agreement
+version of this reseller agreement in place at time you submit each reseller order is version that will govern such order
+we will use reasonable efforts to notify you of these changes through communications through our website other forms of communication but we also suggest that you bookmark this reseller agreement read it periodically
+except as otherwise set forth in this reseller agreement each party agrees that all code inventions know how business technical financial information it obtains as receiving party from disclosing party disclosing party constitute confidential property of disclosing party confidential information provided that it is identified as confidential at time of disclosure should be reasonably known by receiving party to be confidential information due to nature of information disclosed circumstances surrounding disclosure
+any atlassian technology any performance information relating to products shall be deemed confidential information of atlassian without any marking further designation
+except as expressly authorized herein receiving party will hold in confidence not use disclose any confidential information
+receiving party s nondisclosure obligation shall not apply to information which receiving party can document i was rightfully in its possession known to it prior to receipt of confidential information ii is has become public knowledge through no fault of receiving party iii is rightfully obtained by receiving party from third party without breach of any confidentiality obligation iv is independently developed by employees of receiving party who had no access to such information v is required to be disclosed pursuant to regulation law court order but only to minimum extent required to comply with such regulation order with advance notice to disclosing party
+receiving party acknowledges that disclosure of confidential information would cause substantial harm for which damages alone would not be sufficient remedy therefore that upon any such disclosure by receiving party disclosing party shall be entitled to appropriate equitable relief in addition to whatever other remedies it might have at law
+for avoidance of doubt any all commitments indemnities other terms conditions offered by atlassian with respect to use of products are made directly by atlassian to end user in accordance with atlassian customer agreement do not extend to you as reseller
+we make no warranties express implied statutory otherwise to you as reseller including but not limited to implied warranties of merchantability fitness for particular purpose title non infringement
+
+waiver of consequential damages
+to fullest extent allowed by law neither atlassian nor its suppliers shall be liable for any loss of use lost data failure of security mechanisms interruption of business any indirect special incidental consequential damages of any kind including lost profits regardless of form of action whether in contract tort including negligence strict liability otherwise even if informed of possibility of such damages in advance
+
+liability cap
+to fullest extent allowed by law atlassian s its third party suppliers entire liability under this reseller agreement shall not exceed amounts actually paid by reseller to atlassian in respect of reseller order that is subject of this reseller agreement
+
+dispute resolution arbitration
+in event of any controversy claim arising out of relating to this reseller agreement parties hereto shall consult negotiate with each other recognizing their mutual interests attempt to reach solution satisfactory to both parties
+if parties do not reach settlement within period of days any unresolved controversy claim arising out of relating to this reseller agreement shall proceed to binding arbitration under rules of arbitration of international chamber of commerce
+parties shall seek to mutually appoint arbitrator
+if parties cannot agree on single arbitrator then there shall be three arbitrators one selected by each party third selected by first two
+arbitration will take place in one of following cities as mutually agreed between parties sydney australia amsterdam netherlands san francisco ca usa
+if parties are unable to agree to one of these cities then arbitration shall proceed in san francisco ca usa
+all negotiations arbitration proceedings pursuant to this section will be confidential treated as compromise settlement negotiations for purposes of all similar rules codes of evidence of applicable legislation jurisdictions
+language of arbitration shall be english
+
+governing law jurisdiction
+this reseller agreement will be governed by construed in accordance with applicable laws of state of california usa without giving effect to principles of that state relating to conflicts of laws
+each party irrevocably agrees that any legal action suit proceeding that is not otherwise subject to arbitration provisions of section dispute resolution arbitration must be brought solely exclusively in will be subject to service of process other applicable procedural rules of state federal court in san francisco california usa each party irrevocably submits to sole exclusive personal jurisdiction of courts in san francisco california usa generally unconditionally with respect to any action suit proceeding brought by it against it by other party
+notwithstanding foregoing atlassian may bring claim for equitable relief in any court with proper jurisdiction
+
+injunctive relief enforcement
+notwithstanding provisions of this section nothing in this reseller agreement shall prevent either party from seeking injunctive relief with respect to violation of intellectual property rights confidentiality obligations enforcement recognition of any award order in any appropriate jurisdiction
+
+exclusion of un convention ucita
+terms of united nations convention on contracts for sale of goods do not apply to this reseller agreement
+uniform computer information transactions act ucita shall not apply to this reseller agreement regardless of when where adopted
+products are commercial computer software
+if user licensee of products is agency department other entity of united states government use duplication reproduction release modification disclosure transfer of software any related documentation of any kind including technical data manuals is restricted by license agreement by terms of this reseller agreement in accordance with federal acquisition regulation for civilian purposes defense federal acquisition regulation supplement for military purposes
+products were developed fully at private expense
+all other use is prohibited
+this reseller agreement is entire agreement between you atlassian relating to resale of atlassian products as described in this reseller agreement supersedes all prior contemporaneous oral written communications proposals representations with respect to products any other subject matter covered by this reseller agreement
+if any provision of this reseller agreement is held to be void invalid unenforceable illegal other provisions shall continue in full force effect
+this reseller agreement may not be modified amended except as described in section changes to agreement otherwise with written agreement of atlassian which may be withheld in its complete discretion without any requirement to provide reasons
+as used herein including its variants means including without limitation its variants
+if either party to this reseller agreement breaches any provision of this reseller agreement relating to confidential information intellectual property rights there may not be adequate remedy available solely at law therefore injunction specific performance other form of equitable relief monetary damages any combination thereof may be sought by injured party to this reseller agreement
+no failure delay by injured party to this reseller agreement in exercising any right power privilege hereunder shall operate as waiver thereof nor shall any single partial exercise thereof preclude any other further exercise thereof exercise of any right power privilege hereunder at law equity
+parties are independent contractors
+this reseller agreement shall not be construed as constituting either party as partner of other to create any other form of legal association that would give on party express implied right power authority to create any duty obligation of other party
+should you have any questions concerning this reseller agreement if you desire to contact atlassian for any reason please contact us
+last revised november

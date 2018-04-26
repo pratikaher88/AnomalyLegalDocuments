@@ -1,0 +1,69 @@
+thanks for signing up to participate in github pre release programs
+as trusted member of our community your feedback on new experimental features is important to us
+in order to share these new products services with you many of which are still secret in development we ll need you to agree to special set of terms
+welcome to pre release program agreement agreement
+this agreement is legal agreement between you you github inc github we us
+be sure to read this agreement carefully you can only be pre release program participant if you accept all terms of this agreement
+by clicking register for github pre release program button by participating as pre release program participant in any way for example by accessing information about github products services that aren t yet available to general public you re agreeing to be bound by all terms of this agreement
+if you re entering into this agreement on behalf of company other legal entity you represent that you have legal authority to bind entity to this agreement in which case you will mean entity you represent
+if you don t have such authority if you don t agree with terms conditions of this agreement you must not click register for github pre release program button you can t be pre release program participant
+if you re company other legal entity you represent that person clicking register for github pre release program button has authority to bind you to this agreement
+you need to have account on github com on licensed instance of github enterprise in order to be pre release program participant
+in addition to github com terms of service your aplicable github enterprise license agreement as applicable generally applicable terms by clicking register for github pre release program button you are also agreeing to be bound by this agreement such that both agreements will apply to you concurrently
+in event of direct conflict between this agreement generally applicable terms your generally applicable terms will control except with respect to any use of pre release materials in which case this agreement will control
+as pre release program participant you may get access to special information that isn t available to rest of world
+due to sensitive nature of this information it s important for us to make sure that you keep that information secret
+you agree that any non public information we give you that you may have access to as pre release program participant will be considered github s confidential information collectively confidential information regardless of whether it is marked identified as such
+you agree to only use such confidential information for purpose of testing evaluation purpose not for any other purpose
+you should take reasonable precautions to prevent any unauthorized use disclosure publication dissemination of our confidential information
+you promise not to disclose publish disseminate any confidential information to any third party other than your employees contractors then only to extent that i they need to know confidential information for purpose ii you make them aware of confidential nature of confidential information iii you remain responsible for acts omissions of such employees contractors iv we don t otherwise prohibit restrict such disclosure
+you understand that unauthorized disclosure use of our confidential information could cause us irreparable harm significant injury that may be difficult for us to quantify
+accordingly you agree that we ll have right to seek immediate injunctive relief to make sure you comply with this agreement in addition to any other rights remedies we may have
+if you are required by law regulation valid binding order of court of competent jurisdiction to disclose our confidential information you may do so but only if you notify us before you do do your best to limit such disclosure to seek confidential protective treatment of such information
+obligations in this section won t apply to information that you can prove i was generally available to public before we disclosed it to you ii became generally available to public after we disclosed it to you through no action inaction on your part on part of your employees contractors iii you knew about before we disclosed it to you iv was disclosed to you by third party who didn t have any confidentiality obligations with respect to it v you independently developed without breach of any confidentiality obligation to us any third party vi we gave you permission to disclose in writing signed by one of our authorized representatives
+if we give you access to any software pre release software related documentation materials which may include videos other forms of content pre release materials then subject to your compliance with terms conditions of this agreement your generally applicable terms we hereby grant you nonexclusive nontransferable revocable right license to use pre release materials during term of this agreement solely for purpose
+if pre release materials are accompanied by separate license agreement you agree that separate license agreement in addition to any more restrictive provisions contained in this agreement your generally applicable terms will apply
+you agree not to decompile reverse engineer disassemble otherwise reduce pre release materials to human perceivable form you promise not to modify network rent lease transmit sell loan pre release materials in whole in part
+you understand that we re under no obligation to provide any pre release materials to you to provide you with updates enhancements corrections to pre release materials to notify you of changes that we make to our products services now in future
+this agreement begins on date you click agree continues for period of one year
+this agreement will automatically renew for successive one year terms unless either party gives written notice at least thirty days before current term expires that it wants to terminate one of us terminates it earlier in accordance with this section
+either you github may terminate this agreement for any reason without cause upon thirty days prior written notice to other
+this agreement will terminate immediately without requirement of notice if you breach any term of this agreement your generally applicable terms
+rights obligations in sections through will survive termination expiration of this agreement
+upon termination expiration of this agreement all of rights licenses we granted you in this agreement will immediately cease to exist you will return at our request destroy all of our confidential information any copies including electronic copies which are in your possession control you will certify in writing that you ve complied with these requirements
+you warrant to us that you i have authority to execute this agreement to perform its obligations ii will make no false misleading statements representations regarding github our products services iii will not take on any obligation responsibility make any representation warranty guarantee endorsement to anyone on our behalf including without limitation any of our products services
+you understand agree that any materials information that we give you that you have access to under this agreement including without limitation any confidential information pre release materials are provided as is without warranty of any kind express implied
+we specifically disclaim any all implied warranties conditions of merchantability fitness for particular purpose non infringement
+we ll be giving you access to lots of useful pre release stuff there are ways that you could use that stuff improperly that could cause us harm
+with that in mind since we can t control ways that you use stuff we give you you agree that you will indemnify defend hold us harmless from against any all claims which may arise under out of your participation in any beta program your negligence intentional misconduct any misrepresentations you make with respect to us our products services your violation of any part of this agreement
+in no event will we be liable to you to any third party for any indirect special incidental consequential exemplary punitive damages including but not limited to damages for lost data lost profits costs of procurement of substitute goods services however caused under any theory of liability whether in contract tort including without limitation products liability strict liability negligence any other theory whether not we knew should have known about possibility of such damage
+in no event will our aggregate liability to you arising out of related to this agreement for any cause whatsoever regardless of form of action whether in contract in tort exceed greater of i amounts you actually paid us under this agreement ii five hundred dollars
+foregoing limitations will apply notwithstanding failure of essential purpose of any limited remedy stated in this agreement
+you aren t allowed to export re export any of our confidential information except as authorized by united states law laws of jurisdiction in which confidential information was obtained
+in particular you aren t allowed to export re export our confidential information into any u s embargoed countries to anyone on u s treasury department s list of specially designated nationals to anyone on u s department of commerce denied person s list entity list
+by participating in pre release program receiving any of our confidential information you represent warrant that you are not located in any such country on any such list
+you agree that github its licensors own all right title interest in to pre release materials all other github products services all information data relating to their configurations combinations all modifications to derivative works of any of foregoing
+you agree not to remove alter cover obfuscate any copyright other proprietary rights notices we place on embed in pre release materials any other github products services
+if you are government entity this section applies to you
+certain of our confidential information may be considered commercial items as that term is defined at c f r
+consisting of commercial computer software commercial computer software documentation as such terms are used in c f r
+c f r
+as applicable
+consistent with c f r
+c f r
+through as applicable commercial computer software commercial computer software documentation are being licensed to u s government end users only as commercial items b with only those rights as are granted to all other end users pursuant to terms conditions herein
+github inc colin p kelly street san francisco ca
+nothing in this agreement will impair our right to develop acquire license market promote distribute products software technologies that might compete with yours
+we re always trying to improve of products services your feedback as pre release program participant will help us do that
+if you choose to give us feedback suggestions recommendations for our products services collectively feedback you acknowledge agree that we re free to use that feedback in any way we want without restriction subject to any applicable patents copyrights of course
+parties to this agreement are independent contractors
+neither of us will be deemed to be employee agent partner franchisor franchisee legal representative of other for any purpose neither of us will have any right power authority to create any obligation responsibility on behalf of other
+you aren t allowed to assign transfer this agreement any of your rights under it in whole in part by operation of law otherwise without our prior written consent
+this agreement will be interpreted construed in accordance with laws of state of california without regard to conflict of law principles
+all disputes arising out of this agreement will be subject to exclusive jurisdiction of state federal courts located in san francisco county california each of us hereby consents to personal jurisdiction there
+this agreement may not be changed except by writing signed by both parties
+any waiver of provisions of this agreement of party s rights remedies under this agreement must be in writing to be effective
+if any term condition provision in this agreement is found to be invalid unenforceable remaining terms will continue to be valid enforceable to fullest extent permitted by law
+we each expressly agree that there are no third party beneficiaries to this agreement
+this agreement your generally applicable terms contain entire agreement of parties with respect to its subject matter supersede all prior communications representations understandings agreements whether written oral
+terms conditions of any of your purchase orders acknowledgements other documents that you send us in connection with this agreement will be null void of no effect

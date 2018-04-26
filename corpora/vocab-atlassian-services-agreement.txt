@@ -1,0 +1,172 @@
+view all products
+purchase product
+view all resources
+create support ticket
+effective starting february
+this atlassian professional services agreement agreement is between you you customer atlassian pty ltd abn atlassian we
+if you are agreeing to this agreement not as individual but on behalf of your company then customer you means your company you are binding your company to this agreement represent warrant that you have all necessary authority to do so
+this agreement sets forth terms under which atlassian will provide you with certain professional services described on order forms including online order flows referencing this agreement order forms such services services
+services are provided on subscription basis for set term designated on order form subscription term
+this agreement governs customer s initial purchase of services as well as any future purchases made by customer that reference this agreement
+agreement also includes any atlassian policies documents attached to referenced in this document as well as any order forms entered into by parties
+this agreement is separate from agreement that atlassian has with its end users at https www atlassian com end user agreement as may be modified by atlassian from time to time atlassian customer agreement regarding use of atlassian products products
+this agreement does not have to be signed in order to be binding
+you indicate your assent to terms by clicking on i agree similar button that is presented to you at time of your order by signing order form
+during applicable subscription term atlassian agrees to use diligent efforts to render services by delivery dates specified on applicable order form if any
+subject to section atlassian products below any reports recommendations other deliverables provided by atlassian to you as part of services are deliverables
+atlassian grants you perpetual worldwide royalty free non exclusive license to use deliverables internally in connection with applicable products
+customer agrees to provide atlassian with reasonable access to customer materials personnel equipment facilities including without limitation customer s instances of products to extent such access is necessary for performance of services
+to extent that customer does not timely provide foregoing access required for atlassian to perform services deliver deliverables atlassian shall be excused from performance until such items are provided
+customer hereby grants atlassian limited right to use any customer materials provided to atlassian in connection with services customer materials solely for purpose of performing services for customer
+customer owns will retain ownership including all intellectual property rights in to customer materials subject to atlassian s ownership of any underlying products service descriptions documentation underlying technology atlassian technology
+atlassian owns will retain ownership including all intellectual property rights in to deliverables any modifications improvements derivative works thereof including any such materials to extent incorporating any feedback
+if customer provides any feedback comments suggestions ideas description of processes other information to atlassian about in connection with products deliverables services including without limitation any ideas concepts know how techniques contained therein feedback then customer grants atlassian worldwide royalty free non exclusive perpetual irrevocable license to use copy modify otherwise exploit feedback for any purpose without any compensation to customer any restriction obligation on account of intellectual property rights otherwise
+for clarity no feedback will be deemed customer s confidential information nothing in this agreement including without limitation section confidential information limits atlassian s right to independently use develop evaluate market products whether incorporating feedback otherwise
+for avoidance of doubt rights to delivery use of any atlassian technology including any product is governed by terms of atlassian customer agreement not terms of this agreement even if listed in order form no atlassian technology including any product updates upgrades patches bug fixes shall be considered deliverable hereunder
+customer acknowledges that services are being purchased separately from any product licenses subscriptions that no such license subscription is being provided offered under this agreement
+fees for services are separate from any fees paid for products customer s payment obligations hereunder are not contingent on purchase use of any product
+
+subscription term renewals
+unless otherwise specified on applicable order form each subscription term for services will automatically renew for additional successive subscription terms of same length at atlassian s then current rates unless either party gives other written notice of non renewal at least thirty days prior to expiration of then current subscription term
+
+payment
+customer will pay atlassian amounts at times set forth on applicable order form
+customer agrees to reimburse atlassian for pre approved travel lodging meal expenses incurred in course of performing services at any location other than atlassian s site unless otherwise specified on order form including any data sheet incorporated therein by reference
+atlassian will invoice customer for expenses incurred at customer s request expense atlassian will provide copies of receipts for which charges are incurred
+all payments are non refundable all payment obligations non cancellable unless otherwise specified on order form
+payments shall be made in u s dollars within thirty days from date of atlassian s invoice
+customer will be responsible for all taxes withholdings duties levies in connection with services excluding taxes based on net income of atlassian
+upon termination all payments for services shall be accelerated become immediately due payable
+any late payments shall be subject to service charge equal to per month of amount due maximum amount allowed by law whichever is less
+this agreement takes effect on effective date unless earlier terminated in accordance with this section remains in effect until expiration termination of all subscription terms
+effective date of this agreement is date which is earlier of customer s initial receipt of services b effective date of first order form referencing this agreement
+either party may terminate this agreement any order form if other party i fails to cure any material breach of this agreement within thirty days after written notice of such breach ii ceases operation without successor iii seeks protection under any bankruptcy receivership trust deed creditors arrangement composition comparable proceeding if any such proceeding is instituted against such party not dismissed within sixty days thereafter
+sections ownership of deliverables feedback atlassian products payment but only with respect to orders placed during term hereof warranty disclaimer limitation of liability confidential information publicity dispute resolution governing law assignment general will survive any termination expiration of this agreement
+unless termination is for customer s breach customer s right under section services deliverables to use deliverables shall survive so long as customer has valid right under atlassian customer agreement to use applicable product provided that customer remains in compliance with applicable use restrictions confidentiality obligations in sections herein
+all services deliverables are provided as is atlassian expressly disclaims any all warranties of any kind nature whether express implied statutory including without limitation implied warranties of title non infringement merchantability fitness for particular purpose
+
+waiver of consequential damages
+to fullest extent allowed by law neither atlassian nor its suppliers shall be liable for any loss of use lost data failure of security mechanisms interruption of business any indirect special incidental consequential damages of any kind including lost profits regardless of form of action whether in contract tort including negligence strict liability otherwise even if informed of possibility of such damages in advance
+liability cap
+to fullest extent allowed by law atlassian s its third party suppliers entire liability under this agreement shall not exceed amounts actually paid by customer to atlassian under this agreement during twelve months prior to date claim arose
+each party as receiving party agrees that all code inventions know how business technical financial information it obtains from disclosing party as disclosing party constitute confidential property of disclosing party confidential information provided that it is identified as confidential at time of disclosure should be reasonably known by receiving party to be confidential information due to nature of information disclosed circumstances surrounding disclosure
+deliverables any software documentation technical information provided by atlassian its agents shall be deemed confidential information of atlassian without any marking further designation
+except as expressly authorized herein receiving party will hold in confidence not use disclose any confidential information
+receiving party s nondisclosure obligation shall not apply to information which receiving party can document was rightfully in its possession known to it prior to receipt of confidential information b is has become public knowledge through no fault of receiving party c is rightfully obtained by receiving party from third party without breach of any confidentiality obligation d is independently developed by employees of receiving party who had no access to such information
+receiving party may also disclose confidential information if so required pursuant to regulation law court order but only to minimum extent required to comply with such regulation order with advance notice to disclosing party
+
+dispute resolution arbitration
+in event of any controversy claim arising out of relating to this agreement parties hereto shall consult negotiate with each other recognizing their mutual interests attempt to reach solution satisfactory to both parties
+if parties do not reach settlement within period of days any unresolved controversy claim arising out of relating to this agreement shall proceed to binding arbitration under rules of arbitration of international chamber of commerce
+parties shall seek to mutually appoint arbitrator
+if parties cannot agree on single arbitrator then there shall be three arbitrators one selected by each party third selected by first two
+arbitration will take place in one of following cities as mutually agreed between parties sydney australia amsterdam netherlands san francisco ca usa
+if parties are unable to agree to one of these cities then arbitration shall proceed in san francisco ca usa
+all negotiations arbitration proceedings pursuant to this section will be confidential treated as compromise settlement negotiations for purposes of all similar rules codes of evidence of applicable legislation jurisdictions
+language of arbitration shall be english
+
+governing law jurisdiction
+this agreement will be governed by construed in accordance with applicable laws of state of california usa without giving effect to principles of that state relating to conflicts of laws
+each party irrevocably agrees that any legal action suit proceeding that is not otherwise subject to arbitration provisions of section dispute resolution arbitration must be brought solely exclusively in will be subject to service of process other applicable procedural rules of state federal court in san francisco california usa each party irrevocably submits to sole exclusive personal jurisdiction of courts in san francisco california usa generally unconditionally with respect to any action suit proceeding brought by it against it by other party
+notwithstanding foregoing atlassian may bring claim for equitable relief in any court with proper jurisdiction
+
+injunctive relief enforcement
+notwithstanding provisions of this section nothing in this agreement shall prevent either party from seeking injunctive relief with respect to violation of intellectual property rights confidentiality obligations enforcement recognition of any award order in any appropriate jurisdiction
+
+exclusion of un convention ucita
+terms of united nations convention on contracts for sale of goods do not apply to this agreement
+uniform computer information transactions act ucita shall not apply to this agreement regardless of when where adopted
+neither party shall be liable to other for any delay failure to perform any obligation under this agreement except for failure to pay fees if delay failure is due to events which are beyond reasonable control of such party including but not limited to any strike blockade war act of terrorism riot natural disaster failure diminishment of power of telecommunications data networks services refusal of approval license by government agency
+atlassian may use services of subcontractors for performance of services under this agreement provided that atlassian remains responsible for compliance of any such subcontractor with terms of this agreement b for overall performance of services as required under this agreement
+customer may not assign this agreement without prior written consent of atlassian which consent will not be unreasonably withheld provided that assignee agrees to be bound by terms conditions contained in this agreement
+atlassian may assign its rights obligations under this agreement in whole in part without consent of customer
+any permitted assignee shall be bound by terms conditions of this agreement
+this agreement is entire agreement between you atlassian relating to services supersedes all prior contemporaneous oral written communications proposals representations with respect to services any other subject matter covered by this agreement
+if any provision of this agreement is held to be void invalid unenforceable illegal other provisions shall continue in full force effect
+no supplement modification amendment of this agreement shall be binding unless executed in writing by duly authorized representative of each party to this agreement
+as used herein including its variants means including without limitation its variants
+if either party to this agreement breaches any provision of this agreement relating to confidential information intellectual property rights there may not be adequate remedy available solely at law therefore injunction specific performance other form of equitable relief monetary damages any combination thereof may be sought by injured party to this agreement
+no failure delay by injured party to this agreement in exercising any right power privilege hereunder shall operate as waiver thereof nor shall any single partial exercise thereof preclude any other further exercise thereof exercise of any right power privilege hereunder at law equity
+parties are independent contractors
+this agreement shall not be construed as constituting either party as partner of other to create any other form of legal association that would give on party express implied right power authority to create any duty obligation of other party
+any notice report approval consent required permitted under this agreement will be in writing to address specified on order form such other address as may be given in writing by either party to other
+view all resources
+create support ticket
+during applicable subscription term atlassian agrees to use diligent efforts to render services by delivery dates specified on applicable order form if any
+subject to section atlassian products below any reports recommendations other deliverables provided by atlassian to you as part of services are deliverables
+atlassian grants you perpetual worldwide royalty free non exclusive license to use deliverables internally in connection with applicable products
+customer agrees to provide atlassian with reasonable access to customer materials personnel equipment facilities including without limitation customer s instances of products to extent such access is necessary for performance of services
+to extent that customer does not timely provide foregoing access required for atlassian to perform services deliver deliverables atlassian shall be excused from performance until such items are provided
+customer hereby grants atlassian limited right to use any customer materials provided to atlassian in connection with services customer materials solely for purpose of performing services for customer
+customer owns will retain ownership including all intellectual property rights in to customer materials subject to atlassian s ownership of any underlying products service descriptions documentation underlying technology atlassian technology
+atlassian owns will retain ownership including all intellectual property rights in to deliverables any modifications improvements derivative works thereof including any such materials to extent incorporating any feedback
+if customer provides any feedback comments suggestions ideas description of processes other information to atlassian about in connection with products deliverables services including without limitation any ideas concepts know how techniques contained therein feedback then customer grants atlassian worldwide royalty free non exclusive perpetual irrevocable license to use copy modify otherwise exploit feedback for any purpose without any compensation to customer any restriction obligation on account of intellectual property rights otherwise
+for clarity no feedback will be deemed customer s confidential information nothing in this agreement including without limitation section confidential information limits atlassian s right to independently use develop evaluate market products whether incorporating feedback otherwise
+for avoidance of doubt rights to delivery use of any atlassian technology including any product is governed by terms of atlassian customer agreement not terms of this agreement even if listed in order form no atlassian technology including any product updates upgrades patches bug fixes shall be considered deliverable hereunder
+customer acknowledges that services are being purchased separately from any product licenses subscriptions that no such license subscription is being provided offered under this agreement
+fees for services are separate from any fees paid for products customer s payment obligations hereunder are not contingent on purchase use of any product
+
+subscription term renewals
+unless otherwise specified on applicable order form each subscription term for services will automatically renew for additional successive subscription terms of same length at atlassian s then current rates unless either party gives other written notice of non renewal at least thirty days prior to expiration of then current subscription term
+
+payment
+customer will pay atlassian amounts at times set forth on applicable order form
+customer agrees to reimburse atlassian for pre approved travel lodging meal expenses incurred in course of performing services at any location other than atlassian s site unless otherwise specified on order form including any data sheet incorporated therein by reference
+atlassian will invoice customer for expenses incurred at customer s request expense atlassian will provide copies of receipts for which charges are incurred
+all payments are non refundable all payment obligations non cancellable unless otherwise specified on order form
+payments shall be made in u s dollars within thirty days from date of atlassian s invoice
+customer will be responsible for all taxes withholdings duties levies in connection with services excluding taxes based on net income of atlassian
+upon termination all payments for services shall be accelerated become immediately due payable
+any late payments shall be subject to service charge equal to per month of amount due maximum amount allowed by law whichever is less
+this agreement takes effect on effective date unless earlier terminated in accordance with this section remains in effect until expiration termination of all subscription terms
+effective date of this agreement is date which is earlier of customer s initial receipt of services b effective date of first order form referencing this agreement
+either party may terminate this agreement any order form if other party i fails to cure any material breach of this agreement within thirty days after written notice of such breach ii ceases operation without successor iii seeks protection under any bankruptcy receivership trust deed creditors arrangement composition comparable proceeding if any such proceeding is instituted against such party not dismissed within sixty days thereafter
+sections ownership of deliverables feedback atlassian products payment but only with respect to orders placed during term hereof warranty disclaimer limitation of liability confidential information publicity dispute resolution governing law assignment general will survive any termination expiration of this agreement
+unless termination is for customer s breach customer s right under section services deliverables to use deliverables shall survive so long as customer has valid right under atlassian customer agreement to use applicable product provided that customer remains in compliance with applicable use restrictions confidentiality obligations in sections herein
+all services deliverables are provided as is atlassian expressly disclaims any all warranties of any kind nature whether express implied statutory including without limitation implied warranties of title non infringement merchantability fitness for particular purpose
+
+waiver of consequential damages
+to fullest extent allowed by law neither atlassian nor its suppliers shall be liable for any loss of use lost data failure of security mechanisms interruption of business any indirect special incidental consequential damages of any kind including lost profits regardless of form of action whether in contract tort including negligence strict liability otherwise even if informed of possibility of such damages in advance
+liability cap
+to fullest extent allowed by law atlassian s its third party suppliers entire liability under this agreement shall not exceed amounts actually paid by customer to atlassian under this agreement during twelve months prior to date claim arose
+each party as receiving party agrees that all code inventions know how business technical financial information it obtains from disclosing party as disclosing party constitute confidential property of disclosing party confidential information provided that it is identified as confidential at time of disclosure should be reasonably known by receiving party to be confidential information due to nature of information disclosed circumstances surrounding disclosure
+deliverables any software documentation technical information provided by atlassian its agents shall be deemed confidential information of atlassian without any marking further designation
+except as expressly authorized herein receiving party will hold in confidence not use disclose any confidential information
+receiving party s nondisclosure obligation shall not apply to information which receiving party can document was rightfully in its possession known to it prior to receipt of confidential information b is has become public knowledge through no fault of receiving party c is rightfully obtained by receiving party from third party without breach of any confidentiality obligation d is independently developed by employees of receiving party who had no access to such information
+receiving party may also disclose confidential information if so required pursuant to regulation law court order but only to minimum extent required to comply with such regulation order with advance notice to disclosing party
+
+dispute resolution arbitration
+in event of any controversy claim arising out of relating to this agreement parties hereto shall consult negotiate with each other recognizing their mutual interests attempt to reach solution satisfactory to both parties
+if parties do not reach settlement within period of days any unresolved controversy claim arising out of relating to this agreement shall proceed to binding arbitration under rules of arbitration of international chamber of commerce
+parties shall seek to mutually appoint arbitrator
+if parties cannot agree on single arbitrator then there shall be three arbitrators one selected by each party third selected by first two
+arbitration will take place in one of following cities as mutually agreed between parties sydney australia amsterdam netherlands san francisco ca usa
+if parties are unable to agree to one of these cities then arbitration shall proceed in san francisco ca usa
+all negotiations arbitration proceedings pursuant to this section will be confidential treated as compromise settlement negotiations for purposes of all similar rules codes of evidence of applicable legislation jurisdictions
+language of arbitration shall be english
+
+governing law jurisdiction
+this agreement will be governed by construed in accordance with applicable laws of state of california usa without giving effect to principles of that state relating to conflicts of laws
+each party irrevocably agrees that any legal action suit proceeding that is not otherwise subject to arbitration provisions of section dispute resolution arbitration must be brought solely exclusively in will be subject to service of process other applicable procedural rules of state federal court in san francisco california usa each party irrevocably submits to sole exclusive personal jurisdiction of courts in san francisco california usa generally unconditionally with respect to any action suit proceeding brought by it against it by other party
+notwithstanding foregoing atlassian may bring claim for equitable relief in any court with proper jurisdiction
+
+injunctive relief enforcement
+notwithstanding provisions of this section nothing in this agreement shall prevent either party from seeking injunctive relief with respect to violation of intellectual property rights confidentiality obligations enforcement recognition of any award order in any appropriate jurisdiction
+
+exclusion of un convention ucita
+terms of united nations convention on contracts for sale of goods do not apply to this agreement
+uniform computer information transactions act ucita shall not apply to this agreement regardless of when where adopted
+neither party shall be liable to other for any delay failure to perform any obligation under this agreement except for failure to pay fees if delay failure is due to events which are beyond reasonable control of such party including but not limited to any strike blockade war act of terrorism riot natural disaster failure diminishment of power of telecommunications data networks services refusal of approval license by government agency
+atlassian may use services of subcontractors for performance of services under this agreement provided that atlassian remains responsible for compliance of any such subcontractor with terms of this agreement b for overall performance of services as required under this agreement
+customer may not assign this agreement without prior written consent of atlassian which consent will not be unreasonably withheld provided that assignee agrees to be bound by terms conditions contained in this agreement
+atlassian may assign its rights obligations under this agreement in whole in part without consent of customer
+any permitted assignee shall be bound by terms conditions of this agreement
+this agreement is entire agreement between you atlassian relating to services supersedes all prior contemporaneous oral written communications proposals representations with respect to services any other subject matter covered by this agreement
+if any provision of this agreement is held to be void invalid unenforceable illegal other provisions shall continue in full force effect
+no supplement modification amendment of this agreement shall be binding unless executed in writing by duly authorized representative of each party to this agreement
+as used herein including its variants means including without limitation its variants
+if either party to this agreement breaches any provision of this agreement relating to confidential information intellectual property rights there may not be adequate remedy available solely at law therefore injunction specific performance other form of equitable relief monetary damages any combination thereof may be sought by injured party to this agreement
+no failure delay by injured party to this agreement in exercising any right power privilege hereunder shall operate as waiver thereof nor shall any single partial exercise thereof preclude any other further exercise thereof exercise of any right power privilege hereunder at law equity
+parties are independent contractors
+this agreement shall not be construed as constituting either party as partner of other to create any other form of legal association that would give on party express implied right power authority to create any duty obligation of other party
+any notice report approval consent required permitted under this agreement will be in writing to address specified on order form such other address as may be given in writing by either party to other

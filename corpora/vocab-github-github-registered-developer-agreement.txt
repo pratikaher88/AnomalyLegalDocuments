@@ -1,0 +1,512 @@
+github is fortunate to have many developers integrating with our platform
+we think that s awesome we want to make that experience even better
+github s developer program program helps us to connect with you share information with you support your creative efforts better than ever before
+special relationship between github developer community that program creates requires special set of terms
+welcome to registered developer agreement agreement
+this agreement is legal agreement between you you github inc github we us
+be sure to read this agreement carefully it governs your participation in program we re only willing to let you participate in program if you accept all terms of this agreement
+by clicking i agree below by participating in program in any way for example by accessing information about github products features that aren t yet available to general public you re agreeing to be bound by all terms of this agreement
+if you re entering into this agreement on behalf of company other legal entity you represent that you have legal authority to bind entity to this agreement in which case you will mean entity you represent
+if you don t have such authority if you don t agree with terms conditions of this agreement you must select cancel button you may not participate in program
+if you re company other legal entity you represent that person clicking i agree has authority to bind you to this agreement
+github com s terms of use will apply you need to have account on github com in order to participate in program
+by clicking i agree at bottom of this agreement you are also agreeing to be bound by github com terms of service tos
+in event of direct conflict between this agreement thetos this agreement will control otherwise both agreements will apply to you concurrently
+program terms we post program s benefits guidelines program overview
+as you might expect program overview will change from time to time
+these changes will apply to you as participant in program so we encourage you to periodically review program overview to keep apprised of any changes
+for variety of reasons we might need to change suspend discontinue program some of benefits we offer
+you agree that we can do those things without liability to you except as specified in section
+api license so long as you remain compliant with tos this agreement program terms we grant you limited worldwide non exclusive non transferable license during term of this agreement to access use our api as defined in tos solely for purpose of developing demonstrating testing supporting interoperability integrations between your products services our products services
+you promise not to do bad things with our api
+among other things this means you won t won t allow permit others to modify publish sell lease license distribute sublicense our api decompile disassemble reverse engineer otherwise attempt to derive source code from our api reproduce modify create derivative works from our api use our api to provide service bureau application hosting processing services to third parties incorporate otherwise combine integrate our api with any of your products services use our api to engage in support enable any kind of illegal activity
+we reserve right at any time to modify discontinue temporarily permanently your access to api any part of it with without notice
+it s your sole responsibility to ensure that your use of api is compatible with then current api
+other than rights we expressly give you in this agreement tos we don t grant you any rights licenses to our api to any other github products services
+your products services integrations your products services integrations collectively your products are your responsibility
+that means that you re solely responsible for developing operating maintaining all aspects of your products ensuring that all materials used with in your products are legal in all jurisdictions where your products are used don t promote illegal activities obtaining any rights licenses necessary to use distribute any third party software that you use include integrate distribute with your products providing your end user customers with same high quality technical support for your products when they operate in conjunction with our api any other of our products services as you do when they operate on their own
+marketing publicity marketing publicizing your integrations with github is valuable to both of us
+we want to be sure that happens in right way so we ve included some language here to help clarify some basic dos don ts
+you agree that you won t make any representations warranties guarantees endorsements to anyone on behalf of github including among other things any github products services
+unless we specifically say it s okay in program terms you promise not to state imply that we have developed endorsed reviewed otherwise approved of any of your products
+if you decide to promote publicize any of our products services in connection with your products you ll need to make sure that you abide by terms of this agreement program terms tos our trademark policy any other applicable github policies
+subject to terms conditions of this agreement tos during term of this agreement we grant you limited revocable worldwide non exclusive non transferable license to use our trademarks service marks logos collectively github marks in accordance with our trademark policy as specified in program terms solely for purpose of publicizing your membership in program
+we want to tell world about you your participation in program
+to help us do that you grant us limited revocable worldwide non exclusive non transferable license to use your trademarks service marks logos collectively partner marks in our marketing materials solely for purpose of promoting program publicizing your participation in it
+except as set forth in this agreement tos nothing in this agreement will be deemed to grant to one party any right title interest in to other party s marks
+you agree not to whether during after term of this agreement i challenge assist others in challenging github marks our registration enforcement of github marks ii attempt to adopt use apply for register any trademark service mark logo url internet domain name symbol that is confusingly similar to github marks iii make any negative false disparaging statements whether written oral to any third party about us our products our services
+confidentiality pre release materials as registered developer in program you may get access to special information not available to rest of world
+due to sensitive nature of this information it s important for us to make sure that you keep that information secret
+you agree that any non public information we give you that you may have access to as part of program will be considered github s confidential information collectively confidential information regardless of whether it is marked identified as such
+you agree to only use such confidential information for your authorized purposes as participant in program purpose not for any other purpose
+you should take reasonable precautions to prevent any unauthorized use disclosure publication dissemination of our confidential information
+you promise not to disclose publish disseminate any confidential information to any third party other than your employees contractors then only to extent that i they need to know confidential information for purpose ii you make them aware of confidential nature of confidential information iii you remain responsible for acts omissions of such employees contractors iv we don t otherwise prohibit restrict such disclosure
+you understand that unauthorized disclosure use of our confidential information could cause us irreparable harm significant injury that may be difficult for us to quantify
+accordingly you agree that we ll have right to seek immediate injunctive relief to make sure you comply with this agreement in addition to any other rights remedies we may have
+if you are required by law regulation valid binding order of court of competent jurisdiction to disclose our confidential information you may do so but only if you notify us before you do do your best to limit such disclosure to seek confidential protective treatment of such information
+obligations in this section won t apply to information that you can prove i was generally available to public before we disclosed it to you ii became generally available to public after we disclosed it to you through no action inaction on your part on part of your employees contractors iii you knew about before we disclosed it to you iv was disclosed to you by third party who didn t have any confidentiality obligations with respect to it v you independently developed without breach of any confidentiality obligation to us any third party vi we gave you permission to disclose in writing signed by one of our authorized representatives
+if we give you any pre release software related documentation materials which may include videos other forms of content pre release materials then subject to your compliance with terms conditions of this agreement tos we hereby grant you nonexclusive nontransferable revocable right license to use pre release materials solely to support your testing development of products services that are designed to operate in combination with systems programs for which pre release materials are designed
+if pre release materials are accompanied by separate license agreement you agree that separate license agreement in addition to any more restrictive provisions contained in this agreement tos will apply
+you agree not to decompile reverse engineer disassemble otherwise reduce pre release materials to human perceivable form you promise not to modify network rent lease transmit sell loan pre release materials in whole in part
+you understand that we re under no obligation to provide any pre release materials to you to provide you with updates enhancements corrections to pre release materials to notify you of changes that we make to our products services now in future
+fees payment there may be fees associated with participating in program
+we ll tell you what those fees are in program terms as we update them from time to time program fees
+if you gave us your payment information before you agree that we can charge same credit card paypal account as part of this agreement
+otherwise you ll need to give us valid payment account other supporting information
+except as otherwise expressly provided in section any payments you make to us for program are non refundable you give us permission to automatically charge your payment account on anniversary of your first payment date to cover all of coming year s program fees unless you terminate this agreement first according to section
+all fees are due in u s
+dollars are exclusive of all taxes levies duties imposed by taxing authorities you re responsible for all of those except for taxes based on our income
+term termination this agreement begins on date you click agree continues for period of one year
+this agreement will automatically renew for successive one year terms unless either party gives written notice at least thirty days before current term expires that it wants to terminate one of us terminates it earlier in accordance with this section
+either you github may terminate this agreement for any reason without cause upon thirty days prior written notice to other
+if we terminate this agreement discontinue your access to program for any reason other than your breach of this agreement program terms tos we will as your sole remedy our sole obligation for such termination refund you pro rata portion of program fees you paid us for current term of this agreement
+this agreement will terminate immediately without requirement of notice if you breach any term of this agreement program terms tos
+rights obligations in sections second third paragraphs second last paragraphs through of this agreement will survive termination expiration of this agreement
+upon termination expiration of this agreement all of rights licenses we granted you in this agreement will immediately cease to exist you will return at our request destroy all of our confidential information any copies including electronic copies which are in your possession control you will certify in writing that you ve complied with these requirements
+warranties disclaimers you warrant to us that you i have authority to execute this agreement to perform its obligations ii will conduct business in manner that reflects favorably at all times on github s products services our good name goodwill reputation iii will make no false misleading statements representations regarding github our products services iv will not take on any obligation responsibility make any representation warranty guarantee endorsement to anyone on our behalf including without limitation any of our products services v will not state imply that we have developed endorsed reviewed otherwise approved of any of your products
+program api any confidential information we give you including without limitation pre release materials are provided as is without warranty of any kind express implied
+we specifically disclaim any all implied warranties conditions of merchantability fitness for particular purpose non infringement
+we do not warrant that any services products we make available to you will meet your your end users requirements
+indemnity we re giving you lots of useful pre release stuff as part of program there are ways that you could use that stuff improperly that could cause us harm
+with that in mind since we can t control ways that you participate in program you agree that you will indemnify defend hold us harmless from against any all claims which may arise under out of your participation in program your use of api our confidential information any other github products services your negligence intentional misconduct your products any integrations you develop design promote distribute using our api any confidential information any misrepresentations you make with respect to us our products services your violation of any part of this agreement
+limitation of liability in no event will we be liable to you to any third party for any indirect special incidental consequential exemplary punitive damages including but not limited to damages for lost data lost profits costs of procurement of substitute goods services however caused under any theory of liability whether in contract tort including without limitation products liability strict liability negligence any other theory whether not we knew should have known about possibility of such damage
+in no event will our aggregate liability to you arising out of related to this agreement for any cause whatsoever regardless of form of action whether in contract in tort exceed greater of i amounts you actually paid us under this agreement ii five hundred dollars
+foregoing limitations will apply notwithstanding failure of essential purpose of any limited remedy stated in this agreement
+export control you aren t allowed to export re export any of our confidential information except as authorized by united states law laws of jurisdiction in which confidential information was obtained
+in particular you aren t allowed to export re export our confidential information into any u s embargoed countries to anyone on u s treasury department s list of specially designated nationals to anyone on u s department of commerce denied person s list entity list
+by joining program receiving any of our confidential information you represent warrant that you are not located in any such country on any such list
+proprietary rights you agree that github its licensors own all right title interest in to api pre release materials all other github products services all information data relating to their configurations combinations all modifications to derivative works of any of foregoing
+you agree not to remove alter cover obfuscate any copyright other proprietary rights notices we place on embed in api pre release materials any other other github products services
+government users if you are government entity this section applies to you
+certain of our confidential information may be considered commercial items as that term is defined at c f r
+consisting of commercial computer software commercial computer software documentation as such terms are used in c f r
+c f r
+as applicable
+consistent with c f r
+c f r
+through as applicable commercial computer software commercial computer software documentation are being licensed to u s government end users only as commercial items b with only those rights as are granted to all other end users pursuant to terms conditions herein
+github inc colin p kelly street san francisco ca
+independent development nothing in this agreement will impair our right to develop acquire license market promote distribute products software technologies that may compete with your products
+feedback we re always trying to improve your feedback will help us do that
+if you choose to give us feedback suggestions recommendations for program for our products services collectively feedback you acknowledge agree that we re free to use that feedback in any way we want without restriction subject to any applicable patents copyrights of course
+independent contractors parties to this agreement are independent contractors
+neither of us will be deemed to be employee agent partner franchisor franchisee legal representative of other for any purpose neither of us will have any right power authority to create any obligation responsibility on behalf of other
+assignment you aren t allowed to assign transfer this agreement any of your rights under it in whole in part by operation of law otherwise without our prior written consent
+governing law venue this agreement will be interpreted construed in accordance with laws of state of california without regard to conflict of law principles
+all disputes arising out of this agreement will be subject to exclusive jurisdiction of state federal courts located in san francisco county california each of us hereby consents to personal jurisdiction there
+amendments waivers no third party beneficiaries this agreement may not be changed except by writing signed by both parties
+any waiver of provisions of this agreement of party s rights remedies under this agreement must be in writing to be effective
+if any term condition provision in this agreement is found to be invalid unenforceable remaining terms will continue to be valid enforceable to fullest extent permitted by law
+we each expressly agree that there are no third party beneficiaries to this agreement
+entire agreement this agreement tos program terms contain entire agreement of parties with respect to its subject matter supersede all prior communications representations understandings agreements whether written oral
+terms conditions of any of your purchase orders acknowledgements other documents that you send us in connection with this agreement will be null void of no effect
+github is fortunate to have many developers integrating with our platform
+we think that s awesome we want to make that experience even better
+github s developer program program helps us to connect with you share information with you support your creative efforts better than ever before
+special relationship between github developer community that program creates requires special set of terms
+welcome to registered developer agreement agreement
+this agreement is legal agreement between you you github inc github we us
+be sure to read this agreement carefully it governs your participation in program we re only willing to let you participate in program if you accept all terms of this agreement
+by clicking i agree below by participating in program in any way for example by accessing information about github products features that aren t yet available to general public you re agreeing to be bound by all terms of this agreement
+if you re entering into this agreement on behalf of company other legal entity you represent that you have legal authority to bind entity to this agreement in which case you will mean entity you represent
+if you don t have such authority if you don t agree with terms conditions of this agreement you must select cancel button you may not participate in program
+if you re company other legal entity you represent that person clicking i agree has authority to bind you to this agreement
+github com s terms of use will apply you need to have account on github com in order to participate in program
+by clicking i agree at bottom of this agreement you are also agreeing to be bound by github com terms of service tos
+in event of direct conflict between this agreement thetos this agreement will control otherwise both agreements will apply to you concurrently
+program terms we post program s benefits guidelines program overview
+as you might expect program overview will change from time to time
+these changes will apply to you as participant in program so we encourage you to periodically review program overview to keep apprised of any changes
+for variety of reasons we might need to change suspend discontinue program some of benefits we offer
+you agree that we can do those things without liability to you except as specified in section
+api license so long as you remain compliant with tos this agreement program terms we grant you limited worldwide non exclusive non transferable license during term of this agreement to access use our api as defined in tos solely for purpose of developing demonstrating testing supporting interoperability integrations between your products services our products services
+you promise not to do bad things with our api
+among other things this means you won t won t allow permit others to modify publish sell lease license distribute sublicense our api decompile disassemble reverse engineer otherwise attempt to derive source code from our api reproduce modify create derivative works from our api use our api to provide service bureau application hosting processing services to third parties incorporate otherwise combine integrate our api with any of your products services use our api to engage in support enable any kind of illegal activity
+we reserve right at any time to modify discontinue temporarily permanently your access to api any part of it with without notice
+it s your sole responsibility to ensure that your use of api is compatible with then current api
+other than rights we expressly give you in this agreement tos we don t grant you any rights licenses to our api to any other github products services
+your products services integrations your products services integrations collectively your products are your responsibility
+that means that you re solely responsible for developing operating maintaining all aspects of your products ensuring that all materials used with in your products are legal in all jurisdictions where your products are used don t promote illegal activities obtaining any rights licenses necessary to use distribute any third party software that you use include integrate distribute with your products providing your end user customers with same high quality technical support for your products when they operate in conjunction with our api any other of our products services as you do when they operate on their own
+marketing publicity marketing publicizing your integrations with github is valuable to both of us
+we want to be sure that happens in right way so we ve included some language here to help clarify some basic dos don ts
+you agree that you won t make any representations warranties guarantees endorsements to anyone on behalf of github including among other things any github products services
+unless we specifically say it s okay in program terms you promise not to state imply that we have developed endorsed reviewed otherwise approved of any of your products
+if you decide to promote publicize any of our products services in connection with your products you ll need to make sure that you abide by terms of this agreement program terms tos our trademark policy any other applicable github policies
+subject to terms conditions of this agreement tos during term of this agreement we grant you limited revocable worldwide non exclusive non transferable license to use our trademarks service marks logos collectively github marks in accordance with our trademark policy as specified in program terms solely for purpose of publicizing your membership in program
+we want to tell world about you your participation in program
+to help us do that you grant us limited revocable worldwide non exclusive non transferable license to use your trademarks service marks logos collectively partner marks in our marketing materials solely for purpose of promoting program publicizing your participation in it
+except as set forth in this agreement tos nothing in this agreement will be deemed to grant to one party any right title interest in to other party s marks
+you agree not to whether during after term of this agreement i challenge assist others in challenging github marks our registration enforcement of github marks ii attempt to adopt use apply for register any trademark service mark logo url internet domain name symbol that is confusingly similar to github marks iii make any negative false disparaging statements whether written oral to any third party about us our products our services
+confidentiality pre release materials as registered developer in program you may get access to special information not available to rest of world
+due to sensitive nature of this information it s important for us to make sure that you keep that information secret
+you agree that any non public information we give you that you may have access to as part of program will be considered github s confidential information collectively confidential information regardless of whether it is marked identified as such
+you agree to only use such confidential information for your authorized purposes as participant in program purpose not for any other purpose
+you should take reasonable precautions to prevent any unauthorized use disclosure publication dissemination of our confidential information
+you promise not to disclose publish disseminate any confidential information to any third party other than your employees contractors then only to extent that i they need to know confidential information for purpose ii you make them aware of confidential nature of confidential information iii you remain responsible for acts omissions of such employees contractors iv we don t otherwise prohibit restrict such disclosure
+you understand that unauthorized disclosure use of our confidential information could cause us irreparable harm significant injury that may be difficult for us to quantify
+accordingly you agree that we ll have right to seek immediate injunctive relief to make sure you comply with this agreement in addition to any other rights remedies we may have
+if you are required by law regulation valid binding order of court of competent jurisdiction to disclose our confidential information you may do so but only if you notify us before you do do your best to limit such disclosure to seek confidential protective treatment of such information
+obligations in this section won t apply to information that you can prove i was generally available to public before we disclosed it to you ii became generally available to public after we disclosed it to you through no action inaction on your part on part of your employees contractors iii you knew about before we disclosed it to you iv was disclosed to you by third party who didn t have any confidentiality obligations with respect to it v you independently developed without breach of any confidentiality obligation to us any third party vi we gave you permission to disclose in writing signed by one of our authorized representatives
+if we give you any pre release software related documentation materials which may include videos other forms of content pre release materials then subject to your compliance with terms conditions of this agreement tos we hereby grant you nonexclusive nontransferable revocable right license to use pre release materials solely to support your testing development of products services that are designed to operate in combination with systems programs for which pre release materials are designed
+if pre release materials are accompanied by separate license agreement you agree that separate license agreement in addition to any more restrictive provisions contained in this agreement tos will apply
+you agree not to decompile reverse engineer disassemble otherwise reduce pre release materials to human perceivable form you promise not to modify network rent lease transmit sell loan pre release materials in whole in part
+you understand that we re under no obligation to provide any pre release materials to you to provide you with updates enhancements corrections to pre release materials to notify you of changes that we make to our products services now in future
+fees payment there may be fees associated with participating in program
+we ll tell you what those fees are in program terms as we update them from time to time program fees
+if you gave us your payment information before you agree that we can charge same credit card paypal account as part of this agreement
+otherwise you ll need to give us valid payment account other supporting information
+except as otherwise expressly provided in section any payments you make to us for program are non refundable you give us permission to automatically charge your payment account on anniversary of your first payment date to cover all of coming year s program fees unless you terminate this agreement first according to section
+all fees are due in u s
+dollars are exclusive of all taxes levies duties imposed by taxing authorities you re responsible for all of those except for taxes based on our income
+term termination this agreement begins on date you click agree continues for period of one year
+this agreement will automatically renew for successive one year terms unless either party gives written notice at least thirty days before current term expires that it wants to terminate one of us terminates it earlier in accordance with this section
+either you github may terminate this agreement for any reason without cause upon thirty days prior written notice to other
+if we terminate this agreement discontinue your access to program for any reason other than your breach of this agreement program terms tos we will as your sole remedy our sole obligation for such termination refund you pro rata portion of program fees you paid us for current term of this agreement
+this agreement will terminate immediately without requirement of notice if you breach any term of this agreement program terms tos
+rights obligations in sections second third paragraphs second last paragraphs through of this agreement will survive termination expiration of this agreement
+upon termination expiration of this agreement all of rights licenses we granted you in this agreement will immediately cease to exist you will return at our request destroy all of our confidential information any copies including electronic copies which are in your possession control you will certify in writing that you ve complied with these requirements
+warranties disclaimers you warrant to us that you i have authority to execute this agreement to perform its obligations ii will conduct business in manner that reflects favorably at all times on github s products services our good name goodwill reputation iii will make no false misleading statements representations regarding github our products services iv will not take on any obligation responsibility make any representation warranty guarantee endorsement to anyone on our behalf including without limitation any of our products services v will not state imply that we have developed endorsed reviewed otherwise approved of any of your products
+program api any confidential information we give you including without limitation pre release materials are provided as is without warranty of any kind express implied
+we specifically disclaim any all implied warranties conditions of merchantability fitness for particular purpose non infringement
+we do not warrant that any services products we make available to you will meet your your end users requirements
+indemnity we re giving you lots of useful pre release stuff as part of program there are ways that you could use that stuff improperly that could cause us harm
+with that in mind since we can t control ways that you participate in program you agree that you will indemnify defend hold us harmless from against any all claims which may arise under out of your participation in program your use of api our confidential information any other github products services your negligence intentional misconduct your products any integrations you develop design promote distribute using our api any confidential information any misrepresentations you make with respect to us our products services your violation of any part of this agreement
+limitation of liability in no event will we be liable to you to any third party for any indirect special incidental consequential exemplary punitive damages including but not limited to damages for lost data lost profits costs of procurement of substitute goods services however caused under any theory of liability whether in contract tort including without limitation products liability strict liability negligence any other theory whether not we knew should have known about possibility of such damage
+in no event will our aggregate liability to you arising out of related to this agreement for any cause whatsoever regardless of form of action whether in contract in tort exceed greater of i amounts you actually paid us under this agreement ii five hundred dollars
+foregoing limitations will apply notwithstanding failure of essential purpose of any limited remedy stated in this agreement
+export control you aren t allowed to export re export any of our confidential information except as authorized by united states law laws of jurisdiction in which confidential information was obtained
+in particular you aren t allowed to export re export our confidential information into any u s embargoed countries to anyone on u s treasury department s list of specially designated nationals to anyone on u s department of commerce denied person s list entity list
+by joining program receiving any of our confidential information you represent warrant that you are not located in any such country on any such list
+proprietary rights you agree that github its licensors own all right title interest in to api pre release materials all other github products services all information data relating to their configurations combinations all modifications to derivative works of any of foregoing
+you agree not to remove alter cover obfuscate any copyright other proprietary rights notices we place on embed in api pre release materials any other other github products services
+government users if you are government entity this section applies to you
+certain of our confidential information may be considered commercial items as that term is defined at c f r
+consisting of commercial computer software commercial computer software documentation as such terms are used in c f r
+c f r
+as applicable
+consistent with c f r
+c f r
+through as applicable commercial computer software commercial computer software documentation are being licensed to u s government end users only as commercial items b with only those rights as are granted to all other end users pursuant to terms conditions herein
+github inc colin p kelly street san francisco ca
+independent development nothing in this agreement will impair our right to develop acquire license market promote distribute products software technologies that may compete with your products
+feedback we re always trying to improve your feedback will help us do that
+if you choose to give us feedback suggestions recommendations for program for our products services collectively feedback you acknowledge agree that we re free to use that feedback in any way we want without restriction subject to any applicable patents copyrights of course
+independent contractors parties to this agreement are independent contractors
+neither of us will be deemed to be employee agent partner franchisor franchisee legal representative of other for any purpose neither of us will have any right power authority to create any obligation responsibility on behalf of other
+assignment you aren t allowed to assign transfer this agreement any of your rights under it in whole in part by operation of law otherwise without our prior written consent
+governing law venue this agreement will be interpreted construed in accordance with laws of state of california without regard to conflict of law principles
+all disputes arising out of this agreement will be subject to exclusive jurisdiction of state federal courts located in san francisco county california each of us hereby consents to personal jurisdiction there
+amendments waivers no third party beneficiaries this agreement may not be changed except by writing signed by both parties
+any waiver of provisions of this agreement of party s rights remedies under this agreement must be in writing to be effective
+if any term condition provision in this agreement is found to be invalid unenforceable remaining terms will continue to be valid enforceable to fullest extent permitted by law
+we each expressly agree that there are no third party beneficiaries to this agreement
+entire agreement this agreement tos program terms contain entire agreement of parties with respect to its subject matter supersede all prior communications representations understandings agreements whether written oral
+terms conditions of any of your purchase orders acknowledgements other documents that you send us in connection with this agreement will be null void of no effect
+github is fortunate to have many developers integrating with our platform
+we think that s awesome we want to make that experience even better
+github s developer program program helps us to connect with you share information with you support your creative efforts better than ever before
+special relationship between github developer community that program creates requires special set of terms
+welcome to registered developer agreement agreement
+this agreement is legal agreement between you you github inc github we us
+be sure to read this agreement carefully it governs your participation in program we re only willing to let you participate in program if you accept all terms of this agreement
+by clicking i agree below by participating in program in any way for example by accessing information about github products features that aren t yet available to general public you re agreeing to be bound by all terms of this agreement
+if you re entering into this agreement on behalf of company other legal entity you represent that you have legal authority to bind entity to this agreement in which case you will mean entity you represent
+if you don t have such authority if you don t agree with terms conditions of this agreement you must select cancel button you may not participate in program
+if you re company other legal entity you represent that person clicking i agree has authority to bind you to this agreement
+github com s terms of use will apply you need to have account on github com in order to participate in program
+by clicking i agree at bottom of this agreement you are also agreeing to be bound by github com terms of service tos
+in event of direct conflict between this agreement thetos this agreement will control otherwise both agreements will apply to you concurrently
+program terms we post program s benefits guidelines program overview
+as you might expect program overview will change from time to time
+these changes will apply to you as participant in program so we encourage you to periodically review program overview to keep apprised of any changes
+for variety of reasons we might need to change suspend discontinue program some of benefits we offer
+you agree that we can do those things without liability to you except as specified in section
+api license so long as you remain compliant with tos this agreement program terms we grant you limited worldwide non exclusive non transferable license during term of this agreement to access use our api as defined in tos solely for purpose of developing demonstrating testing supporting interoperability integrations between your products services our products services
+you promise not to do bad things with our api
+among other things this means you won t won t allow permit others to modify publish sell lease license distribute sublicense our api decompile disassemble reverse engineer otherwise attempt to derive source code from our api reproduce modify create derivative works from our api use our api to provide service bureau application hosting processing services to third parties incorporate otherwise combine integrate our api with any of your products services use our api to engage in support enable any kind of illegal activity
+we reserve right at any time to modify discontinue temporarily permanently your access to api any part of it with without notice
+it s your sole responsibility to ensure that your use of api is compatible with then current api
+other than rights we expressly give you in this agreement tos we don t grant you any rights licenses to our api to any other github products services
+your products services integrations your products services integrations collectively your products are your responsibility
+that means that you re solely responsible for developing operating maintaining all aspects of your products ensuring that all materials used with in your products are legal in all jurisdictions where your products are used don t promote illegal activities obtaining any rights licenses necessary to use distribute any third party software that you use include integrate distribute with your products providing your end user customers with same high quality technical support for your products when they operate in conjunction with our api any other of our products services as you do when they operate on their own
+marketing publicity marketing publicizing your integrations with github is valuable to both of us
+we want to be sure that happens in right way so we ve included some language here to help clarify some basic dos don ts
+you agree that you won t make any representations warranties guarantees endorsements to anyone on behalf of github including among other things any github products services
+unless we specifically say it s okay in program terms you promise not to state imply that we have developed endorsed reviewed otherwise approved of any of your products
+if you decide to promote publicize any of our products services in connection with your products you ll need to make sure that you abide by terms of this agreement program terms tos our trademark policy any other applicable github policies
+subject to terms conditions of this agreement tos during term of this agreement we grant you limited revocable worldwide non exclusive non transferable license to use our trademarks service marks logos collectively github marks in accordance with our trademark policy as specified in program terms solely for purpose of publicizing your membership in program
+we want to tell world about you your participation in program
+to help us do that you grant us limited revocable worldwide non exclusive non transferable license to use your trademarks service marks logos collectively partner marks in our marketing materials solely for purpose of promoting program publicizing your participation in it
+except as set forth in this agreement tos nothing in this agreement will be deemed to grant to one party any right title interest in to other party s marks
+you agree not to whether during after term of this agreement i challenge assist others in challenging github marks our registration enforcement of github marks ii attempt to adopt use apply for register any trademark service mark logo url internet domain name symbol that is confusingly similar to github marks iii make any negative false disparaging statements whether written oral to any third party about us our products our services
+confidentiality pre release materials as registered developer in program you may get access to special information not available to rest of world
+due to sensitive nature of this information it s important for us to make sure that you keep that information secret
+you agree that any non public information we give you that you may have access to as part of program will be considered github s confidential information collectively confidential information regardless of whether it is marked identified as such
+you agree to only use such confidential information for your authorized purposes as participant in program purpose not for any other purpose
+you should take reasonable precautions to prevent any unauthorized use disclosure publication dissemination of our confidential information
+you promise not to disclose publish disseminate any confidential information to any third party other than your employees contractors then only to extent that i they need to know confidential information for purpose ii you make them aware of confidential nature of confidential information iii you remain responsible for acts omissions of such employees contractors iv we don t otherwise prohibit restrict such disclosure
+you understand that unauthorized disclosure use of our confidential information could cause us irreparable harm significant injury that may be difficult for us to quantify
+accordingly you agree that we ll have right to seek immediate injunctive relief to make sure you comply with this agreement in addition to any other rights remedies we may have
+if you are required by law regulation valid binding order of court of competent jurisdiction to disclose our confidential information you may do so but only if you notify us before you do do your best to limit such disclosure to seek confidential protective treatment of such information
+obligations in this section won t apply to information that you can prove i was generally available to public before we disclosed it to you ii became generally available to public after we disclosed it to you through no action inaction on your part on part of your employees contractors iii you knew about before we disclosed it to you iv was disclosed to you by third party who didn t have any confidentiality obligations with respect to it v you independently developed without breach of any confidentiality obligation to us any third party vi we gave you permission to disclose in writing signed by one of our authorized representatives
+if we give you any pre release software related documentation materials which may include videos other forms of content pre release materials then subject to your compliance with terms conditions of this agreement tos we hereby grant you nonexclusive nontransferable revocable right license to use pre release materials solely to support your testing development of products services that are designed to operate in combination with systems programs for which pre release materials are designed
+if pre release materials are accompanied by separate license agreement you agree that separate license agreement in addition to any more restrictive provisions contained in this agreement tos will apply
+you agree not to decompile reverse engineer disassemble otherwise reduce pre release materials to human perceivable form you promise not to modify network rent lease transmit sell loan pre release materials in whole in part
+you understand that we re under no obligation to provide any pre release materials to you to provide you with updates enhancements corrections to pre release materials to notify you of changes that we make to our products services now in future
+fees payment there may be fees associated with participating in program
+we ll tell you what those fees are in program terms as we update them from time to time program fees
+if you gave us your payment information before you agree that we can charge same credit card paypal account as part of this agreement
+otherwise you ll need to give us valid payment account other supporting information
+except as otherwise expressly provided in section any payments you make to us for program are non refundable you give us permission to automatically charge your payment account on anniversary of your first payment date to cover all of coming year s program fees unless you terminate this agreement first according to section
+all fees are due in u s
+dollars are exclusive of all taxes levies duties imposed by taxing authorities you re responsible for all of those except for taxes based on our income
+term termination this agreement begins on date you click agree continues for period of one year
+this agreement will automatically renew for successive one year terms unless either party gives written notice at least thirty days before current term expires that it wants to terminate one of us terminates it earlier in accordance with this section
+either you github may terminate this agreement for any reason without cause upon thirty days prior written notice to other
+if we terminate this agreement discontinue your access to program for any reason other than your breach of this agreement program terms tos we will as your sole remedy our sole obligation for such termination refund you pro rata portion of program fees you paid us for current term of this agreement
+this agreement will terminate immediately without requirement of notice if you breach any term of this agreement program terms tos
+rights obligations in sections second third paragraphs second last paragraphs through of this agreement will survive termination expiration of this agreement
+upon termination expiration of this agreement all of rights licenses we granted you in this agreement will immediately cease to exist you will return at our request destroy all of our confidential information any copies including electronic copies which are in your possession control you will certify in writing that you ve complied with these requirements
+warranties disclaimers you warrant to us that you i have authority to execute this agreement to perform its obligations ii will conduct business in manner that reflects favorably at all times on github s products services our good name goodwill reputation iii will make no false misleading statements representations regarding github our products services iv will not take on any obligation responsibility make any representation warranty guarantee endorsement to anyone on our behalf including without limitation any of our products services v will not state imply that we have developed endorsed reviewed otherwise approved of any of your products
+program api any confidential information we give you including without limitation pre release materials are provided as is without warranty of any kind express implied
+we specifically disclaim any all implied warranties conditions of merchantability fitness for particular purpose non infringement
+we do not warrant that any services products we make available to you will meet your your end users requirements
+indemnity we re giving you lots of useful pre release stuff as part of program there are ways that you could use that stuff improperly that could cause us harm
+with that in mind since we can t control ways that you participate in program you agree that you will indemnify defend hold us harmless from against any all claims which may arise under out of your participation in program your use of api our confidential information any other github products services your negligence intentional misconduct your products any integrations you develop design promote distribute using our api any confidential information any misrepresentations you make with respect to us our products services your violation of any part of this agreement
+limitation of liability in no event will we be liable to you to any third party for any indirect special incidental consequential exemplary punitive damages including but not limited to damages for lost data lost profits costs of procurement of substitute goods services however caused under any theory of liability whether in contract tort including without limitation products liability strict liability negligence any other theory whether not we knew should have known about possibility of such damage
+in no event will our aggregate liability to you arising out of related to this agreement for any cause whatsoever regardless of form of action whether in contract in tort exceed greater of i amounts you actually paid us under this agreement ii five hundred dollars
+foregoing limitations will apply notwithstanding failure of essential purpose of any limited remedy stated in this agreement
+export control you aren t allowed to export re export any of our confidential information except as authorized by united states law laws of jurisdiction in which confidential information was obtained
+in particular you aren t allowed to export re export our confidential information into any u s embargoed countries to anyone on u s treasury department s list of specially designated nationals to anyone on u s department of commerce denied person s list entity list
+by joining program receiving any of our confidential information you represent warrant that you are not located in any such country on any such list
+proprietary rights you agree that github its licensors own all right title interest in to api pre release materials all other github products services all information data relating to their configurations combinations all modifications to derivative works of any of foregoing
+you agree not to remove alter cover obfuscate any copyright other proprietary rights notices we place on embed in api pre release materials any other other github products services
+government users if you are government entity this section applies to you
+certain of our confidential information may be considered commercial items as that term is defined at c f r
+consisting of commercial computer software commercial computer software documentation as such terms are used in c f r
+c f r
+as applicable
+consistent with c f r
+c f r
+through as applicable commercial computer software commercial computer software documentation are being licensed to u s government end users only as commercial items b with only those rights as are granted to all other end users pursuant to terms conditions herein
+github inc colin p kelly street san francisco ca
+independent development nothing in this agreement will impair our right to develop acquire license market promote distribute products software technologies that may compete with your products
+feedback we re always trying to improve your feedback will help us do that
+if you choose to give us feedback suggestions recommendations for program for our products services collectively feedback you acknowledge agree that we re free to use that feedback in any way we want without restriction subject to any applicable patents copyrights of course
+independent contractors parties to this agreement are independent contractors
+neither of us will be deemed to be employee agent partner franchisor franchisee legal representative of other for any purpose neither of us will have any right power authority to create any obligation responsibility on behalf of other
+assignment you aren t allowed to assign transfer this agreement any of your rights under it in whole in part by operation of law otherwise without our prior written consent
+governing law venue this agreement will be interpreted construed in accordance with laws of state of california without regard to conflict of law principles
+all disputes arising out of this agreement will be subject to exclusive jurisdiction of state federal courts located in san francisco county california each of us hereby consents to personal jurisdiction there
+amendments waivers no third party beneficiaries this agreement may not be changed except by writing signed by both parties
+any waiver of provisions of this agreement of party s rights remedies under this agreement must be in writing to be effective
+if any term condition provision in this agreement is found to be invalid unenforceable remaining terms will continue to be valid enforceable to fullest extent permitted by law
+we each expressly agree that there are no third party beneficiaries to this agreement
+entire agreement this agreement tos program terms contain entire agreement of parties with respect to its subject matter supersede all prior communications representations understandings agreements whether written oral
+terms conditions of any of your purchase orders acknowledgements other documents that you send us in connection with this agreement will be null void of no effect
+github is fortunate to have many developers integrating with our platform
+we think that s awesome we want to make that experience even better
+github s developer program program helps us to connect with you share information with you support your creative efforts better than ever before
+special relationship between github developer community that program creates requires special set of terms
+welcome to registered developer agreement agreement
+this agreement is legal agreement between you you github inc github we us
+be sure to read this agreement carefully it governs your participation in program we re only willing to let you participate in program if you accept all terms of this agreement
+by clicking i agree below by participating in program in any way for example by accessing information about github products features that aren t yet available to general public you re agreeing to be bound by all terms of this agreement
+if you re entering into this agreement on behalf of company other legal entity you represent that you have legal authority to bind entity to this agreement in which case you will mean entity you represent
+if you don t have such authority if you don t agree with terms conditions of this agreement you must select cancel button you may not participate in program
+if you re company other legal entity you represent that person clicking i agree has authority to bind you to this agreement
+github com s terms of use will apply you need to have account on github com in order to participate in program
+by clicking i agree at bottom of this agreement you are also agreeing to be bound by github com terms of service tos
+in event of direct conflict between this agreement thetos this agreement will control otherwise both agreements will apply to you concurrently
+program terms we post program s benefits guidelines program overview
+as you might expect program overview will change from time to time
+these changes will apply to you as participant in program so we encourage you to periodically review program overview to keep apprised of any changes
+for variety of reasons we might need to change suspend discontinue program some of benefits we offer
+you agree that we can do those things without liability to you except as specified in section
+api license so long as you remain compliant with tos this agreement program terms we grant you limited worldwide non exclusive non transferable license during term of this agreement to access use our api as defined in tos solely for purpose of developing demonstrating testing supporting interoperability integrations between your products services our products services
+you promise not to do bad things with our api
+among other things this means you won t won t allow permit others to modify publish sell lease license distribute sublicense our api decompile disassemble reverse engineer otherwise attempt to derive source code from our api reproduce modify create derivative works from our api use our api to provide service bureau application hosting processing services to third parties incorporate otherwise combine integrate our api with any of your products services use our api to engage in support enable any kind of illegal activity
+we reserve right at any time to modify discontinue temporarily permanently your access to api any part of it with without notice
+it s your sole responsibility to ensure that your use of api is compatible with then current api
+other than rights we expressly give you in this agreement tos we don t grant you any rights licenses to our api to any other github products services
+your products services integrations your products services integrations collectively your products are your responsibility
+that means that you re solely responsible for developing operating maintaining all aspects of your products ensuring that all materials used with in your products are legal in all jurisdictions where your products are used don t promote illegal activities obtaining any rights licenses necessary to use distribute any third party software that you use include integrate distribute with your products providing your end user customers with same high quality technical support for your products when they operate in conjunction with our api any other of our products services as you do when they operate on their own
+marketing publicity marketing publicizing your integrations with github is valuable to both of us
+we want to be sure that happens in right way so we ve included some language here to help clarify some basic dos don ts
+you agree that you won t make any representations warranties guarantees endorsements to anyone on behalf of github including among other things any github products services
+unless we specifically say it s okay in program terms you promise not to state imply that we have developed endorsed reviewed otherwise approved of any of your products
+if you decide to promote publicize any of our products services in connection with your products you ll need to make sure that you abide by terms of this agreement program terms tos our trademark policy any other applicable github policies
+subject to terms conditions of this agreement tos during term of this agreement we grant you limited revocable worldwide non exclusive non transferable license to use our trademarks service marks logos collectively github marks in accordance with our trademark policy as specified in program terms solely for purpose of publicizing your membership in program
+we want to tell world about you your participation in program
+to help us do that you grant us limited revocable worldwide non exclusive non transferable license to use your trademarks service marks logos collectively partner marks in our marketing materials solely for purpose of promoting program publicizing your participation in it
+except as set forth in this agreement tos nothing in this agreement will be deemed to grant to one party any right title interest in to other party s marks
+you agree not to whether during after term of this agreement i challenge assist others in challenging github marks our registration enforcement of github marks ii attempt to adopt use apply for register any trademark service mark logo url internet domain name symbol that is confusingly similar to github marks iii make any negative false disparaging statements whether written oral to any third party about us our products our services
+confidentiality pre release materials as registered developer in program you may get access to special information not available to rest of world
+due to sensitive nature of this information it s important for us to make sure that you keep that information secret
+you agree that any non public information we give you that you may have access to as part of program will be considered github s confidential information collectively confidential information regardless of whether it is marked identified as such
+you agree to only use such confidential information for your authorized purposes as participant in program purpose not for any other purpose
+you should take reasonable precautions to prevent any unauthorized use disclosure publication dissemination of our confidential information
+you promise not to disclose publish disseminate any confidential information to any third party other than your employees contractors then only to extent that i they need to know confidential information for purpose ii you make them aware of confidential nature of confidential information iii you remain responsible for acts omissions of such employees contractors iv we don t otherwise prohibit restrict such disclosure
+you understand that unauthorized disclosure use of our confidential information could cause us irreparable harm significant injury that may be difficult for us to quantify
+accordingly you agree that we ll have right to seek immediate injunctive relief to make sure you comply with this agreement in addition to any other rights remedies we may have
+if you are required by law regulation valid binding order of court of competent jurisdiction to disclose our confidential information you may do so but only if you notify us before you do do your best to limit such disclosure to seek confidential protective treatment of such information
+obligations in this section won t apply to information that you can prove i was generally available to public before we disclosed it to you ii became generally available to public after we disclosed it to you through no action inaction on your part on part of your employees contractors iii you knew about before we disclosed it to you iv was disclosed to you by third party who didn t have any confidentiality obligations with respect to it v you independently developed without breach of any confidentiality obligation to us any third party vi we gave you permission to disclose in writing signed by one of our authorized representatives
+if we give you any pre release software related documentation materials which may include videos other forms of content pre release materials then subject to your compliance with terms conditions of this agreement tos we hereby grant you nonexclusive nontransferable revocable right license to use pre release materials solely to support your testing development of products services that are designed to operate in combination with systems programs for which pre release materials are designed
+if pre release materials are accompanied by separate license agreement you agree that separate license agreement in addition to any more restrictive provisions contained in this agreement tos will apply
+you agree not to decompile reverse engineer disassemble otherwise reduce pre release materials to human perceivable form you promise not to modify network rent lease transmit sell loan pre release materials in whole in part
+you understand that we re under no obligation to provide any pre release materials to you to provide you with updates enhancements corrections to pre release materials to notify you of changes that we make to our products services now in future
+fees payment there may be fees associated with participating in program
+we ll tell you what those fees are in program terms as we update them from time to time program fees
+if you gave us your payment information before you agree that we can charge same credit card paypal account as part of this agreement
+otherwise you ll need to give us valid payment account other supporting information
+except as otherwise expressly provided in section any payments you make to us for program are non refundable you give us permission to automatically charge your payment account on anniversary of your first payment date to cover all of coming year s program fees unless you terminate this agreement first according to section
+all fees are due in u s
+dollars are exclusive of all taxes levies duties imposed by taxing authorities you re responsible for all of those except for taxes based on our income
+term termination this agreement begins on date you click agree continues for period of one year
+this agreement will automatically renew for successive one year terms unless either party gives written notice at least thirty days before current term expires that it wants to terminate one of us terminates it earlier in accordance with this section
+either you github may terminate this agreement for any reason without cause upon thirty days prior written notice to other
+if we terminate this agreement discontinue your access to program for any reason other than your breach of this agreement program terms tos we will as your sole remedy our sole obligation for such termination refund you pro rata portion of program fees you paid us for current term of this agreement
+this agreement will terminate immediately without requirement of notice if you breach any term of this agreement program terms tos
+rights obligations in sections second third paragraphs second last paragraphs through of this agreement will survive termination expiration of this agreement
+upon termination expiration of this agreement all of rights licenses we granted you in this agreement will immediately cease to exist you will return at our request destroy all of our confidential information any copies including electronic copies which are in your possession control you will certify in writing that you ve complied with these requirements
+warranties disclaimers you warrant to us that you i have authority to execute this agreement to perform its obligations ii will conduct business in manner that reflects favorably at all times on github s products services our good name goodwill reputation iii will make no false misleading statements representations regarding github our products services iv will not take on any obligation responsibility make any representation warranty guarantee endorsement to anyone on our behalf including without limitation any of our products services v will not state imply that we have developed endorsed reviewed otherwise approved of any of your products
+program api any confidential information we give you including without limitation pre release materials are provided as is without warranty of any kind express implied
+we specifically disclaim any all implied warranties conditions of merchantability fitness for particular purpose non infringement
+we do not warrant that any services products we make available to you will meet your your end users requirements
+indemnity we re giving you lots of useful pre release stuff as part of program there are ways that you could use that stuff improperly that could cause us harm
+with that in mind since we can t control ways that you participate in program you agree that you will indemnify defend hold us harmless from against any all claims which may arise under out of your participation in program your use of api our confidential information any other github products services your negligence intentional misconduct your products any integrations you develop design promote distribute using our api any confidential information any misrepresentations you make with respect to us our products services your violation of any part of this agreement
+limitation of liability in no event will we be liable to you to any third party for any indirect special incidental consequential exemplary punitive damages including but not limited to damages for lost data lost profits costs of procurement of substitute goods services however caused under any theory of liability whether in contract tort including without limitation products liability strict liability negligence any other theory whether not we knew should have known about possibility of such damage
+in no event will our aggregate liability to you arising out of related to this agreement for any cause whatsoever regardless of form of action whether in contract in tort exceed greater of i amounts you actually paid us under this agreement ii five hundred dollars
+foregoing limitations will apply notwithstanding failure of essential purpose of any limited remedy stated in this agreement
+export control you aren t allowed to export re export any of our confidential information except as authorized by united states law laws of jurisdiction in which confidential information was obtained
+in particular you aren t allowed to export re export our confidential information into any u s embargoed countries to anyone on u s treasury department s list of specially designated nationals to anyone on u s department of commerce denied person s list entity list
+by joining program receiving any of our confidential information you represent warrant that you are not located in any such country on any such list
+proprietary rights you agree that github its licensors own all right title interest in to api pre release materials all other github products services all information data relating to their configurations combinations all modifications to derivative works of any of foregoing
+you agree not to remove alter cover obfuscate any copyright other proprietary rights notices we place on embed in api pre release materials any other other github products services
+government users if you are government entity this section applies to you
+certain of our confidential information may be considered commercial items as that term is defined at c f r
+consisting of commercial computer software commercial computer software documentation as such terms are used in c f r
+c f r
+as applicable
+consistent with c f r
+c f r
+through as applicable commercial computer software commercial computer software documentation are being licensed to u s government end users only as commercial items b with only those rights as are granted to all other end users pursuant to terms conditions herein
+github inc colin p kelly street san francisco ca
+independent development nothing in this agreement will impair our right to develop acquire license market promote distribute products software technologies that may compete with your products
+feedback we re always trying to improve your feedback will help us do that
+if you choose to give us feedback suggestions recommendations for program for our products services collectively feedback you acknowledge agree that we re free to use that feedback in any way we want without restriction subject to any applicable patents copyrights of course
+independent contractors parties to this agreement are independent contractors
+neither of us will be deemed to be employee agent partner franchisor franchisee legal representative of other for any purpose neither of us will have any right power authority to create any obligation responsibility on behalf of other
+assignment you aren t allowed to assign transfer this agreement any of your rights under it in whole in part by operation of law otherwise without our prior written consent
+governing law venue this agreement will be interpreted construed in accordance with laws of state of california without regard to conflict of law principles
+all disputes arising out of this agreement will be subject to exclusive jurisdiction of state federal courts located in san francisco county california each of us hereby consents to personal jurisdiction there
+amendments waivers no third party beneficiaries this agreement may not be changed except by writing signed by both parties
+any waiver of provisions of this agreement of party s rights remedies under this agreement must be in writing to be effective
+if any term condition provision in this agreement is found to be invalid unenforceable remaining terms will continue to be valid enforceable to fullest extent permitted by law
+we each expressly agree that there are no third party beneficiaries to this agreement
+entire agreement this agreement tos program terms contain entire agreement of parties with respect to its subject matter supersede all prior communications representations understandings agreements whether written oral
+terms conditions of any of your purchase orders acknowledgements other documents that you send us in connection with this agreement will be null void of no effect
+github is fortunate to have many developers integrating with our platform
+we think that s awesome we want to make that experience even better
+github s developer program program helps us to connect with you share information with you support your creative efforts better than ever before
+special relationship between github developer community that program creates requires special set of terms
+welcome to registered developer agreement agreement
+this agreement is legal agreement between you you github inc github we us
+be sure to read this agreement carefully it governs your participation in program we re only willing to let you participate in program if you accept all terms of this agreement
+by clicking i agree below by participating in program in any way for example by accessing information about github products features that aren t yet available to general public you re agreeing to be bound by all terms of this agreement
+if you re entering into this agreement on behalf of company other legal entity you represent that you have legal authority to bind entity to this agreement in which case you will mean entity you represent
+if you don t have such authority if you don t agree with terms conditions of this agreement you must select cancel button you may not participate in program
+if you re company other legal entity you represent that person clicking i agree has authority to bind you to this agreement
+github com s terms of use will apply you need to have account on github com in order to participate in program
+by clicking i agree at bottom of this agreement you are also agreeing to be bound by github com terms of service tos
+in event of direct conflict between this agreement thetos this agreement will control otherwise both agreements will apply to you concurrently
+program terms we post program s benefits guidelines program overview
+as you might expect program overview will change from time to time
+these changes will apply to you as participant in program so we encourage you to periodically review program overview to keep apprised of any changes
+for variety of reasons we might need to change suspend discontinue program some of benefits we offer
+you agree that we can do those things without liability to you except as specified in section
+api license so long as you remain compliant with tos this agreement program terms we grant you limited worldwide non exclusive non transferable license during term of this agreement to access use our api as defined in tos solely for purpose of developing demonstrating testing supporting interoperability integrations between your products services our products services
+you promise not to do bad things with our api
+among other things this means you won t won t allow permit others to modify publish sell lease license distribute sublicense our api decompile disassemble reverse engineer otherwise attempt to derive source code from our api reproduce modify create derivative works from our api use our api to provide service bureau application hosting processing services to third parties incorporate otherwise combine integrate our api with any of your products services use our api to engage in support enable any kind of illegal activity
+we reserve right at any time to modify discontinue temporarily permanently your access to api any part of it with without notice
+it s your sole responsibility to ensure that your use of api is compatible with then current api
+other than rights we expressly give you in this agreement tos we don t grant you any rights licenses to our api to any other github products services
+your products services integrations your products services integrations collectively your products are your responsibility
+that means that you re solely responsible for developing operating maintaining all aspects of your products ensuring that all materials used with in your products are legal in all jurisdictions where your products are used don t promote illegal activities obtaining any rights licenses necessary to use distribute any third party software that you use include integrate distribute with your products providing your end user customers with same high quality technical support for your products when they operate in conjunction with our api any other of our products services as you do when they operate on their own
+marketing publicity marketing publicizing your integrations with github is valuable to both of us
+we want to be sure that happens in right way so we ve included some language here to help clarify some basic dos don ts
+you agree that you won t make any representations warranties guarantees endorsements to anyone on behalf of github including among other things any github products services
+unless we specifically say it s okay in program terms you promise not to state imply that we have developed endorsed reviewed otherwise approved of any of your products
+if you decide to promote publicize any of our products services in connection with your products you ll need to make sure that you abide by terms of this agreement program terms tos our trademark policy any other applicable github policies
+subject to terms conditions of this agreement tos during term of this agreement we grant you limited revocable worldwide non exclusive non transferable license to use our trademarks service marks logos collectively github marks in accordance with our trademark policy as specified in program terms solely for purpose of publicizing your membership in program
+we want to tell world about you your participation in program
+to help us do that you grant us limited revocable worldwide non exclusive non transferable license to use your trademarks service marks logos collectively partner marks in our marketing materials solely for purpose of promoting program publicizing your participation in it
+except as set forth in this agreement tos nothing in this agreement will be deemed to grant to one party any right title interest in to other party s marks
+you agree not to whether during after term of this agreement i challenge assist others in challenging github marks our registration enforcement of github marks ii attempt to adopt use apply for register any trademark service mark logo url internet domain name symbol that is confusingly similar to github marks iii make any negative false disparaging statements whether written oral to any third party about us our products our services
+confidentiality pre release materials as registered developer in program you may get access to special information not available to rest of world
+due to sensitive nature of this information it s important for us to make sure that you keep that information secret
+you agree that any non public information we give you that you may have access to as part of program will be considered github s confidential information collectively confidential information regardless of whether it is marked identified as such
+you agree to only use such confidential information for your authorized purposes as participant in program purpose not for any other purpose
+you should take reasonable precautions to prevent any unauthorized use disclosure publication dissemination of our confidential information
+you promise not to disclose publish disseminate any confidential information to any third party other than your employees contractors then only to extent that i they need to know confidential information for purpose ii you make them aware of confidential nature of confidential information iii you remain responsible for acts omissions of such employees contractors iv we don t otherwise prohibit restrict such disclosure
+you understand that unauthorized disclosure use of our confidential information could cause us irreparable harm significant injury that may be difficult for us to quantify
+accordingly you agree that we ll have right to seek immediate injunctive relief to make sure you comply with this agreement in addition to any other rights remedies we may have
+if you are required by law regulation valid binding order of court of competent jurisdiction to disclose our confidential information you may do so but only if you notify us before you do do your best to limit such disclosure to seek confidential protective treatment of such information
+obligations in this section won t apply to information that you can prove i was generally available to public before we disclosed it to you ii became generally available to public after we disclosed it to you through no action inaction on your part on part of your employees contractors iii you knew about before we disclosed it to you iv was disclosed to you by third party who didn t have any confidentiality obligations with respect to it v you independently developed without breach of any confidentiality obligation to us any third party vi we gave you permission to disclose in writing signed by one of our authorized representatives
+if we give you any pre release software related documentation materials which may include videos other forms of content pre release materials then subject to your compliance with terms conditions of this agreement tos we hereby grant you nonexclusive nontransferable revocable right license to use pre release materials solely to support your testing development of products services that are designed to operate in combination with systems programs for which pre release materials are designed
+if pre release materials are accompanied by separate license agreement you agree that separate license agreement in addition to any more restrictive provisions contained in this agreement tos will apply
+you agree not to decompile reverse engineer disassemble otherwise reduce pre release materials to human perceivable form you promise not to modify network rent lease transmit sell loan pre release materials in whole in part
+you understand that we re under no obligation to provide any pre release materials to you to provide you with updates enhancements corrections to pre release materials to notify you of changes that we make to our products services now in future
+fees payment there may be fees associated with participating in program
+we ll tell you what those fees are in program terms as we update them from time to time program fees
+if you gave us your payment information before you agree that we can charge same credit card paypal account as part of this agreement
+otherwise you ll need to give us valid payment account other supporting information
+except as otherwise expressly provided in section any payments you make to us for program are non refundable you give us permission to automatically charge your payment account on anniversary of your first payment date to cover all of coming year s program fees unless you terminate this agreement first according to section
+all fees are due in u s
+dollars are exclusive of all taxes levies duties imposed by taxing authorities you re responsible for all of those except for taxes based on our income
+term termination this agreement begins on date you click agree continues for period of one year
+this agreement will automatically renew for successive one year terms unless either party gives written notice at least thirty days before current term expires that it wants to terminate one of us terminates it earlier in accordance with this section
+either you github may terminate this agreement for any reason without cause upon thirty days prior written notice to other
+if we terminate this agreement discontinue your access to program for any reason other than your breach of this agreement program terms tos we will as your sole remedy our sole obligation for such termination refund you pro rata portion of program fees you paid us for current term of this agreement
+this agreement will terminate immediately without requirement of notice if you breach any term of this agreement program terms tos
+rights obligations in sections second third paragraphs second last paragraphs through of this agreement will survive termination expiration of this agreement
+upon termination expiration of this agreement all of rights licenses we granted you in this agreement will immediately cease to exist you will return at our request destroy all of our confidential information any copies including electronic copies which are in your possession control you will certify in writing that you ve complied with these requirements
+warranties disclaimers you warrant to us that you i have authority to execute this agreement to perform its obligations ii will conduct business in manner that reflects favorably at all times on github s products services our good name goodwill reputation iii will make no false misleading statements representations regarding github our products services iv will not take on any obligation responsibility make any representation warranty guarantee endorsement to anyone on our behalf including without limitation any of our products services v will not state imply that we have developed endorsed reviewed otherwise approved of any of your products
+program api any confidential information we give you including without limitation pre release materials are provided as is without warranty of any kind express implied
+we specifically disclaim any all implied warranties conditions of merchantability fitness for particular purpose non infringement
+we do not warrant that any services products we make available to you will meet your your end users requirements
+indemnity we re giving you lots of useful pre release stuff as part of program there are ways that you could use that stuff improperly that could cause us harm
+with that in mind since we can t control ways that you participate in program you agree that you will indemnify defend hold us harmless from against any all claims which may arise under out of your participation in program your use of api our confidential information any other github products services your negligence intentional misconduct your products any integrations you develop design promote distribute using our api any confidential information any misrepresentations you make with respect to us our products services your violation of any part of this agreement
+limitation of liability in no event will we be liable to you to any third party for any indirect special incidental consequential exemplary punitive damages including but not limited to damages for lost data lost profits costs of procurement of substitute goods services however caused under any theory of liability whether in contract tort including without limitation products liability strict liability negligence any other theory whether not we knew should have known about possibility of such damage
+in no event will our aggregate liability to you arising out of related to this agreement for any cause whatsoever regardless of form of action whether in contract in tort exceed greater of i amounts you actually paid us under this agreement ii five hundred dollars
+foregoing limitations will apply notwithstanding failure of essential purpose of any limited remedy stated in this agreement
+export control you aren t allowed to export re export any of our confidential information except as authorized by united states law laws of jurisdiction in which confidential information was obtained
+in particular you aren t allowed to export re export our confidential information into any u s embargoed countries to anyone on u s treasury department s list of specially designated nationals to anyone on u s department of commerce denied person s list entity list
+by joining program receiving any of our confidential information you represent warrant that you are not located in any such country on any such list
+proprietary rights you agree that github its licensors own all right title interest in to api pre release materials all other github products services all information data relating to their configurations combinations all modifications to derivative works of any of foregoing
+you agree not to remove alter cover obfuscate any copyright other proprietary rights notices we place on embed in api pre release materials any other other github products services
+government users if you are government entity this section applies to you
+certain of our confidential information may be considered commercial items as that term is defined at c f r
+consisting of commercial computer software commercial computer software documentation as such terms are used in c f r
+c f r
+as applicable
+consistent with c f r
+c f r
+through as applicable commercial computer software commercial computer software documentation are being licensed to u s government end users only as commercial items b with only those rights as are granted to all other end users pursuant to terms conditions herein
+github inc colin p kelly street san francisco ca
+independent development nothing in this agreement will impair our right to develop acquire license market promote distribute products software technologies that may compete with your products
+feedback we re always trying to improve your feedback will help us do that
+if you choose to give us feedback suggestions recommendations for program for our products services collectively feedback you acknowledge agree that we re free to use that feedback in any way we want without restriction subject to any applicable patents copyrights of course
+independent contractors parties to this agreement are independent contractors
+neither of us will be deemed to be employee agent partner franchisor franchisee legal representative of other for any purpose neither of us will have any right power authority to create any obligation responsibility on behalf of other
+assignment you aren t allowed to assign transfer this agreement any of your rights under it in whole in part by operation of law otherwise without our prior written consent
+governing law venue this agreement will be interpreted construed in accordance with laws of state of california without regard to conflict of law principles
+all disputes arising out of this agreement will be subject to exclusive jurisdiction of state federal courts located in san francisco county california each of us hereby consents to personal jurisdiction there
+amendments waivers no third party beneficiaries this agreement may not be changed except by writing signed by both parties
+any waiver of provisions of this agreement of party s rights remedies under this agreement must be in writing to be effective
+if any term condition provision in this agreement is found to be invalid unenforceable remaining terms will continue to be valid enforceable to fullest extent permitted by law
+we each expressly agree that there are no third party beneficiaries to this agreement
+entire agreement this agreement tos program terms contain entire agreement of parties with respect to its subject matter supersede all prior communications representations understandings agreements whether written oral
+terms conditions of any of your purchase orders acknowledgements other documents that you send us in connection with this agreement will be null void of no effect
+github inc all rights reserved
+github inc all rights reserved

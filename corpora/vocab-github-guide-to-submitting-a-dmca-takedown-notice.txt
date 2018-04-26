@@ -1,0 +1,228 @@
+this guide describes information that github needs in order to process dmca takedown request
+if you have more general questions about what dmca is how github processes dmca takedown requests please review our dmca takedown policy
+due to type of content github hosts mostly software code way that content is managed with git we need complaints to be as specific as possible
+these guidelines are designed to make processing of alleged infringement notices as straightforward as possible
+our form of notice set forth below is consistent with form suggested by dmca statute which can be found at u s
+copyright office s official website http www copyright gov
+as with all legal matters it is always best to consult with professional about your specific questions situation
+we strongly encourage you to do so before taking any action that might impact your rights
+this guide isn t legal advice shouldn t be taken as such
+tell truth
+dmca requires that you swear to facts in your copyright complaint under penalty of perjury
+it is federal crime to intentionally lie in sworn declaration
+see u s code title section
+submitting false information could also result in civil liability that is you could get sued for money damages
+investigate
+millions of users organizations pour their hearts souls into projects they create contribute to on github
+filing dmca complaint against such project is serious legal allegation that carries real consequences for real people
+because of that we ask that you conduct thorough investigation consult with attorney before submitting takedown to make sure that use isn t actually permissible
+ask nicely first
+great first step before sending us takedown notice is to try contacting user directly
+they may have listed contact information on their public profile page in repository s readme you could get in touch by opening issue pull request on repository
+this is not strictly required but it is classy
+code is different from other creative content
+github is built for collaboration on software code
+this makes identifying valid copyright infringement more complicated than it might otherwise be for say photos music videos
+for instance
+this list isn t exhaustive which is why speaking to legal professional about your proposed complaint is doubly important when dealing with code
+no bots
+you should have trained professional evaluate facts of every takedown notice you send
+if you are outsourcing your efforts to third party make sure you know how they operate make sure they are not using automated bots to submit complaints in bulk
+these complaints are often invalid processing them results in needlessly taking down projects
+you may receive counter notice
+any user affected by your takedown notice may decide to submit counter notice
+if they do we will re enable their content within days unless you notify us that you have initiated legal action seeking to restrain user from engaging in infringing activity relating to content on github
+your complaint will be published
+as noted in our dmca takedown policy after redacting personal information we publish all complete actionable takedown notices at https github com github dmca
+include following statement i have read understand github s guide to filing dmca notice
+we won t refuse to process otherwise complete complaint if you don t include this statement
+but we ll know that you haven t read these guidelines may ask you to go back do so
+identify copyrighted work you believe has been infringed
+this information is important because it helps affected user evaluate your claim give them ability to compare your work to theirs
+specificity of your identification will depend on nature of work you believe has been infringed
+if you have published your work you might be able to just link back to web page where it lives
+if it is proprietary not published you might describe it explain that it is proprietary
+if you have registered it with copyright office you should include registration number
+if you are alleging that hosted content is direct literal copy of your work you can also just explain that fact
+identify material that you allege is infringing copyrighted work listed in item above
+it is important to be as specific as possible in your identification
+this identification needs to be reasonably sufficient to permit github to locate material
+at minimum this means that you should include url to material allegedly infringing your copyright
+if you allege that less than whole repository infringes identify specific file s line numbers within file that you allege infringe
+if you allege that all of content at url infringes please be explicit about that as well
+finally please note that github will not automatically disable forks when disabling parent repository
+if you have investigated analyzed forks of repository believe that they are also infringing please explicitly identify each allegedly infringing fork
+please also confirm that you have investigated each individual case that your sworn statements apply to each identified fork
+explain what affected user would need to do in order to remedy infringement
+again specificity is important
+when we pass your complaint along to user this will tell them what they need to do in order to avoid having rest of their content disabled
+does user just need to add statement of attribution
+do they need to delete certain lines within their code entire files
+of course we understand that in some cases all of user s content may be alleged to infringe there s nothing they could do short of deleting it all
+if that s case please make that clear as well
+provide your contact information
+include your email address name telephone number physical address
+provide contact information if you know it for alleged infringer
+usually this will be satisfied by providing github username associated with allegedly infringing content
+but there may be cases where you have additional knowledge about alleged infringer
+if so please share that information with us
+include following statement i have good faith belief that use of copyrighted materials described above on infringing web pages is not authorized by copyright owner its agent law
+also include following statement i swear under penalty of perjury that information in this notification is accurate that i am copyright owner am authorized to act on behalf of owner of exclusive right that is allegedly infringed
+include your physical electronic signature
+fastest way to get response is to send email notification to copyright github com
+you may include attachment if you like but please also include plain text version of your letter in body of your message
+if you must send your notice by physical mail you can do that too but it will take substantially longer for us to receive respond to it
+notices we receive via plain text email have much faster turnaround than pdf attachments physical mail
+if you still wish to mail us your notice our physical address is
+this guide describes information that github needs in order to process dmca takedown request
+if you have more general questions about what dmca is how github processes dmca takedown requests please review our dmca takedown policy
+due to type of content github hosts mostly software code way that content is managed with git we need complaints to be as specific as possible
+these guidelines are designed to make processing of alleged infringement notices as straightforward as possible
+our form of notice set forth below is consistent with form suggested by dmca statute which can be found at u s
+copyright office s official website http www copyright gov
+as with all legal matters it is always best to consult with professional about your specific questions situation
+we strongly encourage you to do so before taking any action that might impact your rights
+this guide isn t legal advice shouldn t be taken as such
+tell truth
+dmca requires that you swear to facts in your copyright complaint under penalty of perjury
+it is federal crime to intentionally lie in sworn declaration
+see u s code title section
+submitting false information could also result in civil liability that is you could get sued for money damages
+investigate
+millions of users organizations pour their hearts souls into projects they create contribute to on github
+filing dmca complaint against such project is serious legal allegation that carries real consequences for real people
+because of that we ask that you conduct thorough investigation consult with attorney before submitting takedown to make sure that use isn t actually permissible
+ask nicely first
+great first step before sending us takedown notice is to try contacting user directly
+they may have listed contact information on their public profile page in repository s readme you could get in touch by opening issue pull request on repository
+this is not strictly required but it is classy
+code is different from other creative content
+github is built for collaboration on software code
+this makes identifying valid copyright infringement more complicated than it might otherwise be for say photos music videos
+for instance
+this list isn t exhaustive which is why speaking to legal professional about your proposed complaint is doubly important when dealing with code
+no bots
+you should have trained professional evaluate facts of every takedown notice you send
+if you are outsourcing your efforts to third party make sure you know how they operate make sure they are not using automated bots to submit complaints in bulk
+these complaints are often invalid processing them results in needlessly taking down projects
+you may receive counter notice
+any user affected by your takedown notice may decide to submit counter notice
+if they do we will re enable their content within days unless you notify us that you have initiated legal action seeking to restrain user from engaging in infringing activity relating to content on github
+your complaint will be published
+as noted in our dmca takedown policy after redacting personal information we publish all complete actionable takedown notices at https github com github dmca
+include following statement i have read understand github s guide to filing dmca notice
+we won t refuse to process otherwise complete complaint if you don t include this statement
+but we ll know that you haven t read these guidelines may ask you to go back do so
+identify copyrighted work you believe has been infringed
+this information is important because it helps affected user evaluate your claim give them ability to compare your work to theirs
+specificity of your identification will depend on nature of work you believe has been infringed
+if you have published your work you might be able to just link back to web page where it lives
+if it is proprietary not published you might describe it explain that it is proprietary
+if you have registered it with copyright office you should include registration number
+if you are alleging that hosted content is direct literal copy of your work you can also just explain that fact
+identify material that you allege is infringing copyrighted work listed in item above
+it is important to be as specific as possible in your identification
+this identification needs to be reasonably sufficient to permit github to locate material
+at minimum this means that you should include url to material allegedly infringing your copyright
+if you allege that less than whole repository infringes identify specific file s line numbers within file that you allege infringe
+if you allege that all of content at url infringes please be explicit about that as well
+finally please note that github will not automatically disable forks when disabling parent repository
+if you have investigated analyzed forks of repository believe that they are also infringing please explicitly identify each allegedly infringing fork
+please also confirm that you have investigated each individual case that your sworn statements apply to each identified fork
+explain what affected user would need to do in order to remedy infringement
+again specificity is important
+when we pass your complaint along to user this will tell them what they need to do in order to avoid having rest of their content disabled
+does user just need to add statement of attribution
+do they need to delete certain lines within their code entire files
+of course we understand that in some cases all of user s content may be alleged to infringe there s nothing they could do short of deleting it all
+if that s case please make that clear as well
+provide your contact information
+include your email address name telephone number physical address
+provide contact information if you know it for alleged infringer
+usually this will be satisfied by providing github username associated with allegedly infringing content
+but there may be cases where you have additional knowledge about alleged infringer
+if so please share that information with us
+include following statement i have good faith belief that use of copyrighted materials described above on infringing web pages is not authorized by copyright owner its agent law
+also include following statement i swear under penalty of perjury that information in this notification is accurate that i am copyright owner am authorized to act on behalf of owner of exclusive right that is allegedly infringed
+include your physical electronic signature
+fastest way to get response is to send email notification to copyright github com
+you may include attachment if you like but please also include plain text version of your letter in body of your message
+if you must send your notice by physical mail you can do that too but it will take substantially longer for us to receive respond to it
+notices we receive via plain text email have much faster turnaround than pdf attachments physical mail
+if you still wish to mail us your notice our physical address is
+this guide describes information that github needs in order to process dmca takedown request
+if you have more general questions about what dmca is how github processes dmca takedown requests please review our dmca takedown policy
+due to type of content github hosts mostly software code way that content is managed with git we need complaints to be as specific as possible
+these guidelines are designed to make processing of alleged infringement notices as straightforward as possible
+our form of notice set forth below is consistent with form suggested by dmca statute which can be found at u s
+copyright office s official website http www copyright gov
+as with all legal matters it is always best to consult with professional about your specific questions situation
+we strongly encourage you to do so before taking any action that might impact your rights
+this guide isn t legal advice shouldn t be taken as such
+tell truth
+dmca requires that you swear to facts in your copyright complaint under penalty of perjury
+it is federal crime to intentionally lie in sworn declaration
+see u s code title section
+submitting false information could also result in civil liability that is you could get sued for money damages
+investigate
+millions of users organizations pour their hearts souls into projects they create contribute to on github
+filing dmca complaint against such project is serious legal allegation that carries real consequences for real people
+because of that we ask that you conduct thorough investigation consult with attorney before submitting takedown to make sure that use isn t actually permissible
+ask nicely first
+great first step before sending us takedown notice is to try contacting user directly
+they may have listed contact information on their public profile page in repository s readme you could get in touch by opening issue pull request on repository
+this is not strictly required but it is classy
+code is different from other creative content
+github is built for collaboration on software code
+this makes identifying valid copyright infringement more complicated than it might otherwise be for say photos music videos
+for instance
+this list isn t exhaustive which is why speaking to legal professional about your proposed complaint is doubly important when dealing with code
+no bots
+you should have trained professional evaluate facts of every takedown notice you send
+if you are outsourcing your efforts to third party make sure you know how they operate make sure they are not using automated bots to submit complaints in bulk
+these complaints are often invalid processing them results in needlessly taking down projects
+you may receive counter notice
+any user affected by your takedown notice may decide to submit counter notice
+if they do we will re enable their content within days unless you notify us that you have initiated legal action seeking to restrain user from engaging in infringing activity relating to content on github
+your complaint will be published
+as noted in our dmca takedown policy after redacting personal information we publish all complete actionable takedown notices at https github com github dmca
+include following statement i have read understand github s guide to filing dmca notice
+we won t refuse to process otherwise complete complaint if you don t include this statement
+but we ll know that you haven t read these guidelines may ask you to go back do so
+identify copyrighted work you believe has been infringed
+this information is important because it helps affected user evaluate your claim give them ability to compare your work to theirs
+specificity of your identification will depend on nature of work you believe has been infringed
+if you have published your work you might be able to just link back to web page where it lives
+if it is proprietary not published you might describe it explain that it is proprietary
+if you have registered it with copyright office you should include registration number
+if you are alleging that hosted content is direct literal copy of your work you can also just explain that fact
+identify material that you allege is infringing copyrighted work listed in item above
+it is important to be as specific as possible in your identification
+this identification needs to be reasonably sufficient to permit github to locate material
+at minimum this means that you should include url to material allegedly infringing your copyright
+if you allege that less than whole repository infringes identify specific file s line numbers within file that you allege infringe
+if you allege that all of content at url infringes please be explicit about that as well
+finally please note that github will not automatically disable forks when disabling parent repository
+if you have investigated analyzed forks of repository believe that they are also infringing please explicitly identify each allegedly infringing fork
+please also confirm that you have investigated each individual case that your sworn statements apply to each identified fork
+explain what affected user would need to do in order to remedy infringement
+again specificity is important
+when we pass your complaint along to user this will tell them what they need to do in order to avoid having rest of their content disabled
+does user just need to add statement of attribution
+do they need to delete certain lines within their code entire files
+of course we understand that in some cases all of user s content may be alleged to infringe there s nothing they could do short of deleting it all
+if that s case please make that clear as well
+provide your contact information
+include your email address name telephone number physical address
+provide contact information if you know it for alleged infringer
+usually this will be satisfied by providing github username associated with allegedly infringing content
+but there may be cases where you have additional knowledge about alleged infringer
+if so please share that information with us
+include following statement i have good faith belief that use of copyrighted materials described above on infringing web pages is not authorized by copyright owner its agent law
+also include following statement i swear under penalty of perjury that information in this notification is accurate that i am copyright owner am authorized to act on behalf of owner of exclusive right that is allegedly infringed
+include your physical electronic signature
+fastest way to get response is to send email notification to copyright github com
+you may include attachment if you like but please also include plain text version of your letter in body of your message
+if you must send your notice by physical mail you can do that too but it will take substantially longer for us to receive respond to it
+notices we receive via plain text email have much faster turnaround than pdf attachments physical mail
+if you still wish to mail us your notice our physical address is

@@ -1,0 +1,14 @@
+{% extends 'layout.html' %}
+{% block body %}
+  <div class="jumbotron text-center">
+    <h1>Anomaly Detection</h1>
+    <p class="lead"> Enter Document Text Below </p>
+    <form action="{{ url_for('submit') }}" method="post" enctype = "multipart/form-data">
+    <textarea name="text" rows="20" cols="90"></textarea>
+    </br>
+      <center><input type = "file" name = "file" /></center></br>
+
+    <input type="submit">
+    </form>
+  </div>
+{% endblock %}

@@ -1,0 +1,66 @@
+view all products
+purchase product
+view all resources
+create support ticket
+effective starting april
+this is supplement to atlassian customer agreement agreement is included in agreement
+any capitalized terms used but not defined below have meanings in agreement
+purpose of this supplement is to allow your customers to be authorized users subject to terms below
+
+if you designate any of your customers as authorized users you will be responsible for their use of software hosted services as you would be for any other authorized user
+accordingly you must enter into valid binding agreements with your customers that require them to comply with applicable terms of agreement including this supplement including any conditions restrictions with respect to use of access to software hosted services
+
+for avoidance of doubt allowing your customers to be authorized users does not mean that you may distribute resell oem any software hosted services make products available to your customers on standalone basis
+rather it means only that your customers may access your instance of software hosted services in order to support their use of your own products services that are unrelated to software hosted services your products
+
+examples include
+your customer accessing your confluence instance to view customer facing knowledge base articles technical documentation about your products that you have posted in your confluence instance
+you using your confluence instance as customer facing extranet for discussions project updates centralized knowledge sharing source about your products
+your customers accessing your jira instance to provide you with customer feedback on development of your products
+you using your jira service desk instance as customer facing helpdesk support system allowing customers to access your jira instance to open support tickets
+
+you may not charge your customers for any use of software hosted service itself but may charge your customers as part of overall program that includes access to your instance of software hosted service
+example would be charging your customers for your product where your product is paid support offering that includes as minor component access to support forum which you provide using your confluence instance
+
+as authorized user your customers may interact with software hosted service but may not receive any administrator configuration similar access to product
+for example your customers may post comments in jira issue but you may not permit any of your customers to administer project global site level configurations
+
+atlassian will not have any direct indirect liability obligation to any of your customers
+for avoidance of doubt your customers are not parties to third party beneficiaries under agreement
+
+you will defend indemnify hold harmless atlassian from against any loss cost liability damage including attorneys fees for which atlassian becomes liable arising from relating to any claim brought against us by your customers arising out of their use of software hosted services through you
+view all products
+purchase product
+view all resources
+create support ticket
+view all products
+purchase product
+view all resources
+create support ticket
+effective starting april
+this is supplement to atlassian customer agreement agreement is included in agreement
+any capitalized terms used but not defined below have meanings in agreement
+purpose of this supplement is to allow your customers to be authorized users subject to terms below
+
+if you designate any of your customers as authorized users you will be responsible for their use of software hosted services as you would be for any other authorized user
+accordingly you must enter into valid binding agreements with your customers that require them to comply with applicable terms of agreement including this supplement including any conditions restrictions with respect to use of access to software hosted services
+
+for avoidance of doubt allowing your customers to be authorized users does not mean that you may distribute resell oem any software hosted services make products available to your customers on standalone basis
+rather it means only that your customers may access your instance of software hosted services in order to support their use of your own products services that are unrelated to software hosted services your products
+
+examples include
+your customer accessing your confluence instance to view customer facing knowledge base articles technical documentation about your products that you have posted in your confluence instance
+you using your confluence instance as customer facing extranet for discussions project updates centralized knowledge sharing source about your products
+your customers accessing your jira instance to provide you with customer feedback on development of your products
+you using your jira service desk instance as customer facing helpdesk support system allowing customers to access your jira instance to open support tickets
+
+you may not charge your customers for any use of software hosted service itself but may charge your customers as part of overall program that includes access to your instance of software hosted service
+example would be charging your customers for your product where your product is paid support offering that includes as minor component access to support forum which you provide using your confluence instance
+
+as authorized user your customers may interact with software hosted service but may not receive any administrator configuration similar access to product
+for example your customers may post comments in jira issue but you may not permit any of your customers to administer project global site level configurations
+
+atlassian will not have any direct indirect liability obligation to any of your customers
+for avoidance of doubt your customers are not parties to third party beneficiaries under agreement
+
+you will defend indemnify hold harmless atlassian from against any loss cost liability damage including attorneys fees for which atlassian becomes liable arising from relating to any claim brought against us by your customers arising out of their use of software hosted services through you

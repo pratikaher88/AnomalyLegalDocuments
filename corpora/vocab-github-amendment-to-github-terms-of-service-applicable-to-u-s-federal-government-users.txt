@@ -1,0 +1,175 @@
+this amendment to github s terms of service applies only to users that are using github on behalf of united states federal government agency
+if you are not using github on behalf of u s federal government agency standard github terms of service applies to you
+this amendment is agreement between github inc github company u s federal government users of github com web site service applies solely to any u s government agency users who use access service on behalf of u s federal government agency agency
+you as united states government entity are required when entering into agreements with other parties to follow applicable federal laws regulations including those related to ethics privacy security accessibility records retention limitations on indemnification fiscal law constraints advertising endorsements freedom of information governing law dispute resolution forum
+github you together parties agree that modifications to github terms of service tos are appropriate to accommodate your legal status your public in contrast to private mission other special circumstances
+accordingly tos are hereby modified by this amendment as they pertain to agency s use of company web site services
+government entity you within tos shall mean agency itself shall not bind in their individual capacity individual s who utilize company site services on agency s behalf
+company will look solely to agency to enforce any violation breach of tos by such individuals subject to federal law
+advertisements company hereby agrees not to serve display any third party commercial advertisements solicitations on any pages within company site displaying content created by under control of agency
+this exclusion shall not extend to house ads which company may serve on such pages in non intrusive manner
+foregoing obligations are contingent upon email address designated on your account details page ending in gov mil fed us
+access use company acknowledges that agency s use of service may energize significant citizen engagement
+language in tos allowing company to terminate service refuse remove any content close agency s account at any time for any reason is modified to reflect parties agreement that company may unilaterally modify discontinue service temporarily permanently refuse remove any content terminate agency s account only for breach of agency s obligations under tos its material failure to comply with instructions guidelines posted on service if company ceases to operate service generally
+company will provide agency with reasonable opportunity to cure any breach failure on agency s part
+no endorsement company agrees that your seals trademarks logos service marks trade names fact that you have presence on company site use its services shall not be used by company in such manner as to state imply that company s products services are endorsed sponsored recommended by you by any other element of federal government are considered by these entities to be superior to any other products services
+except for pages whose design content is under control of agency for links to promotion of such pages company agrees not to display any agency government seals logos on company s homepage elsewhere on company site unless permission to do so has been granted by agency by other relevant federal government authority
+company may list agency s name in publicly available customer list so long as name is not displayed in more prominent fashion than that of any other third party name
+provision of data in case of termination of service within days of such termination upon request company will provide you with all user generated content that is publicly visible through sites you created at company
+data will be provided in commonly used file database format as company deems appropriate
+company will not provide data if doing so would violate its privacy policy available at https help github com privacy
+no cost agreement nothing in this amendment tos obligates you to expend appropriations incur financial obligations
+parties acknowledge agree that none of obligations arising from this amendment tos are contingent upon payment of fees by one party to other
+at company s discretion github may offer free account under free usage plan such as free for open source plan in that case this amendment will apply to agency s usage under free account plan
+this amendment also applies when agency uses one of github s paid usage plans
+agency responsibilities under paid usage plans you acknowledge that while company will provide you with service under free plan company reserves right to begin charging for that service at some point in future
+company will provide you with at least days advance notice of change involving charging of fees for free service
+you also understand that company offers paid plans for fee
+parties understand that fee based services are categorically different than free products are subject to federal procurement rules processes
+before agency decides to enter into business enterprise subscription any other fee based service that this company alternative providers may offer now in future you agree to determine agency has need for those additional services for fee to consider subscription s value in comparison with comparable services available elsewhere to determine that agency funds are available for payment to properly use government purchase card if that card is used as payment method to review any then applicable tos for conformance to federal procurement law in all other respects to follow applicable federal acquisition laws regulations agency guidelines including those related to payments when initiating that separate action
+no business relationship created parties are independent entities nothing in this amendment tos creates agency partnership joint venture employer employee relationship
+security company will in good faith exercise due diligence using generally accepted commercial business practices for it security to ensure that systems are operated maintained in secure manner that management operational technical controls will be employed to ensure security of systems data
+recognizing changing nature of web company will continuously work with users to ensure that its products services are operated maintained in secure manner
+company agrees to discuss implementing additional security controls as deemed necessary by agency to conform to federal information security management act fisma u s c
+et seq
+federal records agency acknowledges that use of company s site services may require management of federal records
+agency user generated content may meet definition of federal records as determined by agency
+if company holds federal records agency company must manage federal records in accordance with all applicable records management laws regulations including but not limited to federal records act u s c
+chs
+regulations of national archives records administration nara at cfr chapter xii subchapter b
+managing records includes but is not limited to secure storage retrievability proper disposition of all federal records including transfer of permanently valuable records to nara in format manner acceptable to nara at time of transfer
+agency is responsible for ensuring that company is compliant with applicable records management laws regulations through life termination of agreement
+indemnification any provisions in tos related to indemnification damages attorney s fees settlement are hereby waived
+liability of agency for any breach of tos this agreement any claim demand suit proceeding arising from tos this agreement shall be determined under federal tort claims act other governing authority
+liability of company for any breach of tos this agreement any claim demand suit proceeding arising from tos this agreement shall be determined by applicable federal state law
+limitation of liability parties agree that nothing in limitation of liability clause elsewhere in tos in any way grants company waiver from release of limitation of liability pertaining to any past current future violation of federal law
+governing law forum dispute resolution provision in tos is hereby deleted
+tos this amendment shall be governed interpreted enforced in accordance with applicable federal laws of united states of america exclusive jurisdiction shall be in appropriate u s federal courts
+to extent permitted by federal law laws of state of california will apply in absence of federal law
+assignment neither party may assign its obligations under this amendment tos to any third party without prior written consent of other however github may without agency s consent assign its obligations to agency using service under free usage plan under this amendment tos to affiliate to successor acquirer as case may be in connection with merger acquisition corporate reorganization consolidation sale of all substantially all of github s assets
+changes to standard tos language in tos reserving to company right to make material changes to tos is hereby amended to grant you at least three days advance notice of any material change to tos
+company shall send this notice to email address you designate as your account s primary billing email address
+you are responsible for updating this email address in event that your notification preferences change
+precedence further amendment termination this amendment constitutes amendment to tos language in tos indicating it may not be modified that it alone is entire agreement between parties is waived
+if there is any conflict between this amendment tos between this amendment other rules policies on company site services this amendment shall prevail
+this amendment may be further amended only upon written agreement executed by both parties
+agency may close agency s account terminate this agreement at any time
+company may close agency s account terminate this agreement on days written notice but agency shall not be entitled to refund of any fees paid
+posting availability of this amendment parties agree this amendment contains no confidential proprietary information either party may release it to public at large
+this amendment to github s terms of service applies only to users that are using github on behalf of united states federal government agency
+if you are not using github on behalf of u s federal government agency standard github terms of service applies to you
+this amendment is agreement between github inc github company u s federal government users of github com web site service applies solely to any u s government agency users who use access service on behalf of u s federal government agency agency
+you as united states government entity are required when entering into agreements with other parties to follow applicable federal laws regulations including those related to ethics privacy security accessibility records retention limitations on indemnification fiscal law constraints advertising endorsements freedom of information governing law dispute resolution forum
+github you together parties agree that modifications to github terms of service tos are appropriate to accommodate your legal status your public in contrast to private mission other special circumstances
+accordingly tos are hereby modified by this amendment as they pertain to agency s use of company web site services
+government entity you within tos shall mean agency itself shall not bind in their individual capacity individual s who utilize company site services on agency s behalf
+company will look solely to agency to enforce any violation breach of tos by such individuals subject to federal law
+advertisements company hereby agrees not to serve display any third party commercial advertisements solicitations on any pages within company site displaying content created by under control of agency
+this exclusion shall not extend to house ads which company may serve on such pages in non intrusive manner
+foregoing obligations are contingent upon email address designated on your account details page ending in gov mil fed us
+access use company acknowledges that agency s use of service may energize significant citizen engagement
+language in tos allowing company to terminate service refuse remove any content close agency s account at any time for any reason is modified to reflect parties agreement that company may unilaterally modify discontinue service temporarily permanently refuse remove any content terminate agency s account only for breach of agency s obligations under tos its material failure to comply with instructions guidelines posted on service if company ceases to operate service generally
+company will provide agency with reasonable opportunity to cure any breach failure on agency s part
+no endorsement company agrees that your seals trademarks logos service marks trade names fact that you have presence on company site use its services shall not be used by company in such manner as to state imply that company s products services are endorsed sponsored recommended by you by any other element of federal government are considered by these entities to be superior to any other products services
+except for pages whose design content is under control of agency for links to promotion of such pages company agrees not to display any agency government seals logos on company s homepage elsewhere on company site unless permission to do so has been granted by agency by other relevant federal government authority
+company may list agency s name in publicly available customer list so long as name is not displayed in more prominent fashion than that of any other third party name
+provision of data in case of termination of service within days of such termination upon request company will provide you with all user generated content that is publicly visible through sites you created at company
+data will be provided in commonly used file database format as company deems appropriate
+company will not provide data if doing so would violate its privacy policy available at https help github com privacy
+no cost agreement nothing in this amendment tos obligates you to expend appropriations incur financial obligations
+parties acknowledge agree that none of obligations arising from this amendment tos are contingent upon payment of fees by one party to other
+at company s discretion github may offer free account under free usage plan such as free for open source plan in that case this amendment will apply to agency s usage under free account plan
+this amendment also applies when agency uses one of github s paid usage plans
+agency responsibilities under paid usage plans you acknowledge that while company will provide you with service under free plan company reserves right to begin charging for that service at some point in future
+company will provide you with at least days advance notice of change involving charging of fees for free service
+you also understand that company offers paid plans for fee
+parties understand that fee based services are categorically different than free products are subject to federal procurement rules processes
+before agency decides to enter into business enterprise subscription any other fee based service that this company alternative providers may offer now in future you agree to determine agency has need for those additional services for fee to consider subscription s value in comparison with comparable services available elsewhere to determine that agency funds are available for payment to properly use government purchase card if that card is used as payment method to review any then applicable tos for conformance to federal procurement law in all other respects to follow applicable federal acquisition laws regulations agency guidelines including those related to payments when initiating that separate action
+no business relationship created parties are independent entities nothing in this amendment tos creates agency partnership joint venture employer employee relationship
+security company will in good faith exercise due diligence using generally accepted commercial business practices for it security to ensure that systems are operated maintained in secure manner that management operational technical controls will be employed to ensure security of systems data
+recognizing changing nature of web company will continuously work with users to ensure that its products services are operated maintained in secure manner
+company agrees to discuss implementing additional security controls as deemed necessary by agency to conform to federal information security management act fisma u s c
+et seq
+federal records agency acknowledges that use of company s site services may require management of federal records
+agency user generated content may meet definition of federal records as determined by agency
+if company holds federal records agency company must manage federal records in accordance with all applicable records management laws regulations including but not limited to federal records act u s c
+chs
+regulations of national archives records administration nara at cfr chapter xii subchapter b
+managing records includes but is not limited to secure storage retrievability proper disposition of all federal records including transfer of permanently valuable records to nara in format manner acceptable to nara at time of transfer
+agency is responsible for ensuring that company is compliant with applicable records management laws regulations through life termination of agreement
+indemnification any provisions in tos related to indemnification damages attorney s fees settlement are hereby waived
+liability of agency for any breach of tos this agreement any claim demand suit proceeding arising from tos this agreement shall be determined under federal tort claims act other governing authority
+liability of company for any breach of tos this agreement any claim demand suit proceeding arising from tos this agreement shall be determined by applicable federal state law
+limitation of liability parties agree that nothing in limitation of liability clause elsewhere in tos in any way grants company waiver from release of limitation of liability pertaining to any past current future violation of federal law
+governing law forum dispute resolution provision in tos is hereby deleted
+tos this amendment shall be governed interpreted enforced in accordance with applicable federal laws of united states of america exclusive jurisdiction shall be in appropriate u s federal courts
+to extent permitted by federal law laws of state of california will apply in absence of federal law
+assignment neither party may assign its obligations under this amendment tos to any third party without prior written consent of other however github may without agency s consent assign its obligations to agency using service under free usage plan under this amendment tos to affiliate to successor acquirer as case may be in connection with merger acquisition corporate reorganization consolidation sale of all substantially all of github s assets
+changes to standard tos language in tos reserving to company right to make material changes to tos is hereby amended to grant you at least three days advance notice of any material change to tos
+company shall send this notice to email address you designate as your account s primary billing email address
+you are responsible for updating this email address in event that your notification preferences change
+precedence further amendment termination this amendment constitutes amendment to tos language in tos indicating it may not be modified that it alone is entire agreement between parties is waived
+if there is any conflict between this amendment tos between this amendment other rules policies on company site services this amendment shall prevail
+this amendment may be further amended only upon written agreement executed by both parties
+agency may close agency s account terminate this agreement at any time
+company may close agency s account terminate this agreement on days written notice but agency shall not be entitled to refund of any fees paid
+posting availability of this amendment parties agree this amendment contains no confidential proprietary information either party may release it to public at large
+this amendment to github s terms of service applies only to users that are using github on behalf of united states federal government agency
+if you are not using github on behalf of u s federal government agency standard github terms of service applies to you
+this amendment is agreement between github inc github company u s federal government users of github com web site service applies solely to any u s government agency users who use access service on behalf of u s federal government agency agency
+you as united states government entity are required when entering into agreements with other parties to follow applicable federal laws regulations including those related to ethics privacy security accessibility records retention limitations on indemnification fiscal law constraints advertising endorsements freedom of information governing law dispute resolution forum
+github you together parties agree that modifications to github terms of service tos are appropriate to accommodate your legal status your public in contrast to private mission other special circumstances
+accordingly tos are hereby modified by this amendment as they pertain to agency s use of company web site services
+government entity you within tos shall mean agency itself shall not bind in their individual capacity individual s who utilize company site services on agency s behalf
+company will look solely to agency to enforce any violation breach of tos by such individuals subject to federal law
+advertisements company hereby agrees not to serve display any third party commercial advertisements solicitations on any pages within company site displaying content created by under control of agency
+this exclusion shall not extend to house ads which company may serve on such pages in non intrusive manner
+foregoing obligations are contingent upon email address designated on your account details page ending in gov mil fed us
+access use company acknowledges that agency s use of service may energize significant citizen engagement
+language in tos allowing company to terminate service refuse remove any content close agency s account at any time for any reason is modified to reflect parties agreement that company may unilaterally modify discontinue service temporarily permanently refuse remove any content terminate agency s account only for breach of agency s obligations under tos its material failure to comply with instructions guidelines posted on service if company ceases to operate service generally
+company will provide agency with reasonable opportunity to cure any breach failure on agency s part
+no endorsement company agrees that your seals trademarks logos service marks trade names fact that you have presence on company site use its services shall not be used by company in such manner as to state imply that company s products services are endorsed sponsored recommended by you by any other element of federal government are considered by these entities to be superior to any other products services
+except for pages whose design content is under control of agency for links to promotion of such pages company agrees not to display any agency government seals logos on company s homepage elsewhere on company site unless permission to do so has been granted by agency by other relevant federal government authority
+company may list agency s name in publicly available customer list so long as name is not displayed in more prominent fashion than that of any other third party name
+provision of data in case of termination of service within days of such termination upon request company will provide you with all user generated content that is publicly visible through sites you created at company
+data will be provided in commonly used file database format as company deems appropriate
+company will not provide data if doing so would violate its privacy policy available at https help github com privacy
+no cost agreement nothing in this amendment tos obligates you to expend appropriations incur financial obligations
+parties acknowledge agree that none of obligations arising from this amendment tos are contingent upon payment of fees by one party to other
+at company s discretion github may offer free account under free usage plan such as free for open source plan in that case this amendment will apply to agency s usage under free account plan
+this amendment also applies when agency uses one of github s paid usage plans
+agency responsibilities under paid usage plans you acknowledge that while company will provide you with service under free plan company reserves right to begin charging for that service at some point in future
+company will provide you with at least days advance notice of change involving charging of fees for free service
+you also understand that company offers paid plans for fee
+parties understand that fee based services are categorically different than free products are subject to federal procurement rules processes
+before agency decides to enter into business enterprise subscription any other fee based service that this company alternative providers may offer now in future you agree to determine agency has need for those additional services for fee to consider subscription s value in comparison with comparable services available elsewhere to determine that agency funds are available for payment to properly use government purchase card if that card is used as payment method to review any then applicable tos for conformance to federal procurement law in all other respects to follow applicable federal acquisition laws regulations agency guidelines including those related to payments when initiating that separate action
+no business relationship created parties are independent entities nothing in this amendment tos creates agency partnership joint venture employer employee relationship
+security company will in good faith exercise due diligence using generally accepted commercial business practices for it security to ensure that systems are operated maintained in secure manner that management operational technical controls will be employed to ensure security of systems data
+recognizing changing nature of web company will continuously work with users to ensure that its products services are operated maintained in secure manner
+company agrees to discuss implementing additional security controls as deemed necessary by agency to conform to federal information security management act fisma u s c
+et seq
+federal records agency acknowledges that use of company s site services may require management of federal records
+agency user generated content may meet definition of federal records as determined by agency
+if company holds federal records agency company must manage federal records in accordance with all applicable records management laws regulations including but not limited to federal records act u s c
+chs
+regulations of national archives records administration nara at cfr chapter xii subchapter b
+managing records includes but is not limited to secure storage retrievability proper disposition of all federal records including transfer of permanently valuable records to nara in format manner acceptable to nara at time of transfer
+agency is responsible for ensuring that company is compliant with applicable records management laws regulations through life termination of agreement
+indemnification any provisions in tos related to indemnification damages attorney s fees settlement are hereby waived
+liability of agency for any breach of tos this agreement any claim demand suit proceeding arising from tos this agreement shall be determined under federal tort claims act other governing authority
+liability of company for any breach of tos this agreement any claim demand suit proceeding arising from tos this agreement shall be determined by applicable federal state law
+limitation of liability parties agree that nothing in limitation of liability clause elsewhere in tos in any way grants company waiver from release of limitation of liability pertaining to any past current future violation of federal law
+governing law forum dispute resolution provision in tos is hereby deleted
+tos this amendment shall be governed interpreted enforced in accordance with applicable federal laws of united states of america exclusive jurisdiction shall be in appropriate u s federal courts
+to extent permitted by federal law laws of state of california will apply in absence of federal law
+assignment neither party may assign its obligations under this amendment tos to any third party without prior written consent of other however github may without agency s consent assign its obligations to agency using service under free usage plan under this amendment tos to affiliate to successor acquirer as case may be in connection with merger acquisition corporate reorganization consolidation sale of all substantially all of github s assets
+changes to standard tos language in tos reserving to company right to make material changes to tos is hereby amended to grant you at least three days advance notice of any material change to tos
+company shall send this notice to email address you designate as your account s primary billing email address
+you are responsible for updating this email address in event that your notification preferences change
+precedence further amendment termination this amendment constitutes amendment to tos language in tos indicating it may not be modified that it alone is entire agreement between parties is waived
+if there is any conflict between this amendment tos between this amendment other rules policies on company site services this amendment shall prevail
+this amendment may be further amended only upon written agreement executed by both parties
+agency may close agency s account terminate this agreement at any time
+company may close agency s account terminate this agreement on days written notice but agency shall not be entitled to refund of any fees paid
+posting availability of this amendment parties agree this amendment contains no confidential proprietary information either party may release it to public at large
+github inc all rights reserved

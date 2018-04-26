@@ -1,0 +1,181 @@
+view all products
+purchase product
+view all resources
+create support ticket
+effective starting april
+this is supplement to atlassian customer agreement agreement is included in agreement
+any capitalized terms used but not defined below have meanings in agreement
+products contain code libraries that we license from third parties
+some of these licenses require us to flow certain terms down to you
+
+open source software in products
+products include components subject to terms conditions of open source software licenses
+to extent applicable we will identify open source software included in product in through product itself
+some of these licenses require us to provide open source software to you on terms of open source license instead of terms of agreement
+in that case terms of open source license will apply you will have rights granted in such licenses to open source software itself such as access to source code right to make modifications right to reverse engineer
+notwithstanding foregoing if you are using products in form provided to you in accordance with your permitted scope of use with no distribution of software to third parties then none of these open source licenses impose any obligations on you beyond what is stated in agreement
+
+combining products with open source software
+requirement of some open source licenses sometimes known as copyleft licenses is that any modifications to open source software combinations of open source software with other software such as by linking must be made available in source code form under terms of copyleft license
+examples of copyleft licenses include gpl lgpl affero cpl cddl eclipse mozilla licenses
+to extent you are separately authorized by atlassian to combine distribute products with any other code you must make sure that your use does not i impose give appearance of imposing any condition obligation on us with respect to our products including without limitation any obligation to distribute our products under open source license ii grant appear to grant to any third party any rights to immunities under our intellectual property proprietary rights in our products
+to be clear you may not combine otherwise modify our products unless we expressly give you right to do so under this agreement
+
+commercial third party code in products
+products also include components that we license commercially from third parties commercial components
+for avoidance of doubt all of restrictions for products in agreement also apply to commercial components
+commercial components are also subject to some additional requirements as set forth below
+you may use commercial components only in conjunction with as part of through products as provided by atlassian
+you may not install access configure use any commercial components including any apis tools databases other aspects any commercial components separately independently of rest of product whether for production technical support any other purposes otherwise attempt to gain direct access to any portions of commercial components permit anyone else including your customers to do any of these things
+some commercial components may include source code that is provided as part of its standard shipment
+commercial component source code will be governed by terms for commercial components in this supplement not provisions in section your modifications of agreement
+accordingly notwithstanding any other terms of agreement you may not modify any commercial components
+you will be financially responsible to applicable third party licensor commercial component licensor for all damages losses resulting from your your authorized user s breach of this section
+you may not benchmark otherwise analyze performance information for individual commercial component elements
+you understand that applicable commercial component licensor retains all ownership intellectual property rights to commercial component
+commercial component licensors any other third party licensors of any components of products are intended third party beneficiaries of agreement with respect to items they license may enforce agreement directly against you
+however to be clear commercial component licensors do not assume any of atlassian s obligations under agreement
+view all products
+purchase product
+view all resources
+create support ticket
+view all products
+purchase product
+view all products
+purchase product
+view all resources
+create support ticket
+view all resources
+create support ticket
+effective starting april
+this is supplement to atlassian customer agreement agreement is included in agreement
+any capitalized terms used but not defined below have meanings in agreement
+products contain code libraries that we license from third parties
+some of these licenses require us to flow certain terms down to you
+
+open source software in products
+products include components subject to terms conditions of open source software licenses
+to extent applicable we will identify open source software included in product in through product itself
+some of these licenses require us to provide open source software to you on terms of open source license instead of terms of agreement
+in that case terms of open source license will apply you will have rights granted in such licenses to open source software itself such as access to source code right to make modifications right to reverse engineer
+notwithstanding foregoing if you are using products in form provided to you in accordance with your permitted scope of use with no distribution of software to third parties then none of these open source licenses impose any obligations on you beyond what is stated in agreement
+
+combining products with open source software
+requirement of some open source licenses sometimes known as copyleft licenses is that any modifications to open source software combinations of open source software with other software such as by linking must be made available in source code form under terms of copyleft license
+examples of copyleft licenses include gpl lgpl affero cpl cddl eclipse mozilla licenses
+to extent you are separately authorized by atlassian to combine distribute products with any other code you must make sure that your use does not i impose give appearance of imposing any condition obligation on us with respect to our products including without limitation any obligation to distribute our products under open source license ii grant appear to grant to any third party any rights to immunities under our intellectual property proprietary rights in our products
+to be clear you may not combine otherwise modify our products unless we expressly give you right to do so under this agreement
+
+commercial third party code in products
+products also include components that we license commercially from third parties commercial components
+for avoidance of doubt all of restrictions for products in agreement also apply to commercial components
+commercial components are also subject to some additional requirements as set forth below
+you may use commercial components only in conjunction with as part of through products as provided by atlassian
+you may not install access configure use any commercial components including any apis tools databases other aspects any commercial components separately independently of rest of product whether for production technical support any other purposes otherwise attempt to gain direct access to any portions of commercial components permit anyone else including your customers to do any of these things
+some commercial components may include source code that is provided as part of its standard shipment
+commercial component source code will be governed by terms for commercial components in this supplement not provisions in section your modifications of agreement
+accordingly notwithstanding any other terms of agreement you may not modify any commercial components
+you will be financially responsible to applicable third party licensor commercial component licensor for all damages losses resulting from your your authorized user s breach of this section
+you may not benchmark otherwise analyze performance information for individual commercial component elements
+you understand that applicable commercial component licensor retains all ownership intellectual property rights to commercial component
+commercial component licensors any other third party licensors of any components of products are intended third party beneficiaries of agreement with respect to items they license may enforce agreement directly against you
+however to be clear commercial component licensors do not assume any of atlassian s obligations under agreement
+effective starting april
+this is supplement to atlassian customer agreement agreement is included in agreement
+any capitalized terms used but not defined below have meanings in agreement
+products contain code libraries that we license from third parties
+some of these licenses require us to flow certain terms down to you
+
+open source software in products
+products include components subject to terms conditions of open source software licenses
+to extent applicable we will identify open source software included in product in through product itself
+some of these licenses require us to provide open source software to you on terms of open source license instead of terms of agreement
+in that case terms of open source license will apply you will have rights granted in such licenses to open source software itself such as access to source code right to make modifications right to reverse engineer
+notwithstanding foregoing if you are using products in form provided to you in accordance with your permitted scope of use with no distribution of software to third parties then none of these open source licenses impose any obligations on you beyond what is stated in agreement
+
+combining products with open source software
+requirement of some open source licenses sometimes known as copyleft licenses is that any modifications to open source software combinations of open source software with other software such as by linking must be made available in source code form under terms of copyleft license
+examples of copyleft licenses include gpl lgpl affero cpl cddl eclipse mozilla licenses
+to extent you are separately authorized by atlassian to combine distribute products with any other code you must make sure that your use does not i impose give appearance of imposing any condition obligation on us with respect to our products including without limitation any obligation to distribute our products under open source license ii grant appear to grant to any third party any rights to immunities under our intellectual property proprietary rights in our products
+to be clear you may not combine otherwise modify our products unless we expressly give you right to do so under this agreement
+
+commercial third party code in products
+products also include components that we license commercially from third parties commercial components
+for avoidance of doubt all of restrictions for products in agreement also apply to commercial components
+commercial components are also subject to some additional requirements as set forth below
+you may use commercial components only in conjunction with as part of through products as provided by atlassian
+you may not install access configure use any commercial components including any apis tools databases other aspects any commercial components separately independently of rest of product whether for production technical support any other purposes otherwise attempt to gain direct access to any portions of commercial components permit anyone else including your customers to do any of these things
+some commercial components may include source code that is provided as part of its standard shipment
+commercial component source code will be governed by terms for commercial components in this supplement not provisions in section your modifications of agreement
+accordingly notwithstanding any other terms of agreement you may not modify any commercial components
+you will be financially responsible to applicable third party licensor commercial component licensor for all damages losses resulting from your your authorized user s breach of this section
+you may not benchmark otherwise analyze performance information for individual commercial component elements
+you understand that applicable commercial component licensor retains all ownership intellectual property rights to commercial component
+commercial component licensors any other third party licensors of any components of products are intended third party beneficiaries of agreement with respect to items they license may enforce agreement directly against you
+however to be clear commercial component licensors do not assume any of atlassian s obligations under agreement
+effective starting april
+this is supplement to atlassian customer agreement agreement is included in agreement
+any capitalized terms used but not defined below have meanings in agreement
+products contain code libraries that we license from third parties
+some of these licenses require us to flow certain terms down to you
+
+open source software in products
+products include components subject to terms conditions of open source software licenses
+to extent applicable we will identify open source software included in product in through product itself
+some of these licenses require us to provide open source software to you on terms of open source license instead of terms of agreement
+in that case terms of open source license will apply you will have rights granted in such licenses to open source software itself such as access to source code right to make modifications right to reverse engineer
+notwithstanding foregoing if you are using products in form provided to you in accordance with your permitted scope of use with no distribution of software to third parties then none of these open source licenses impose any obligations on you beyond what is stated in agreement
+
+combining products with open source software
+requirement of some open source licenses sometimes known as copyleft licenses is that any modifications to open source software combinations of open source software with other software such as by linking must be made available in source code form under terms of copyleft license
+examples of copyleft licenses include gpl lgpl affero cpl cddl eclipse mozilla licenses
+to extent you are separately authorized by atlassian to combine distribute products with any other code you must make sure that your use does not i impose give appearance of imposing any condition obligation on us with respect to our products including without limitation any obligation to distribute our products under open source license ii grant appear to grant to any third party any rights to immunities under our intellectual property proprietary rights in our products
+to be clear you may not combine otherwise modify our products unless we expressly give you right to do so under this agreement
+
+commercial third party code in products
+products also include components that we license commercially from third parties commercial components
+for avoidance of doubt all of restrictions for products in agreement also apply to commercial components
+commercial components are also subject to some additional requirements as set forth below
+you may use commercial components only in conjunction with as part of through products as provided by atlassian
+you may not install access configure use any commercial components including any apis tools databases other aspects any commercial components separately independently of rest of product whether for production technical support any other purposes otherwise attempt to gain direct access to any portions of commercial components permit anyone else including your customers to do any of these things
+some commercial components may include source code that is provided as part of its standard shipment
+commercial component source code will be governed by terms for commercial components in this supplement not provisions in section your modifications of agreement
+accordingly notwithstanding any other terms of agreement you may not modify any commercial components
+you will be financially responsible to applicable third party licensor commercial component licensor for all damages losses resulting from your your authorized user s breach of this section
+you may not benchmark otherwise analyze performance information for individual commercial component elements
+you understand that applicable commercial component licensor retains all ownership intellectual property rights to commercial component
+commercial component licensors any other third party licensors of any components of products are intended third party beneficiaries of agreement with respect to items they license may enforce agreement directly against you
+however to be clear commercial component licensors do not assume any of atlassian s obligations under agreement
+effective starting april
+this is supplement to atlassian customer agreement agreement is included in agreement
+any capitalized terms used but not defined below have meanings in agreement
+products contain code libraries that we license from third parties
+some of these licenses require us to flow certain terms down to you
+
+open source software in products
+products include components subject to terms conditions of open source software licenses
+to extent applicable we will identify open source software included in product in through product itself
+some of these licenses require us to provide open source software to you on terms of open source license instead of terms of agreement
+in that case terms of open source license will apply you will have rights granted in such licenses to open source software itself such as access to source code right to make modifications right to reverse engineer
+notwithstanding foregoing if you are using products in form provided to you in accordance with your permitted scope of use with no distribution of software to third parties then none of these open source licenses impose any obligations on you beyond what is stated in agreement
+
+combining products with open source software
+requirement of some open source licenses sometimes known as copyleft licenses is that any modifications to open source software combinations of open source software with other software such as by linking must be made available in source code form under terms of copyleft license
+examples of copyleft licenses include gpl lgpl affero cpl cddl eclipse mozilla licenses
+to extent you are separately authorized by atlassian to combine distribute products with any other code you must make sure that your use does not i impose give appearance of imposing any condition obligation on us with respect to our products including without limitation any obligation to distribute our products under open source license ii grant appear to grant to any third party any rights to immunities under our intellectual property proprietary rights in our products
+to be clear you may not combine otherwise modify our products unless we expressly give you right to do so under this agreement
+
+commercial third party code in products
+products also include components that we license commercially from third parties commercial components
+for avoidance of doubt all of restrictions for products in agreement also apply to commercial components
+commercial components are also subject to some additional requirements as set forth below
+you may use commercial components only in conjunction with as part of through products as provided by atlassian
+you may not install access configure use any commercial components including any apis tools databases other aspects any commercial components separately independently of rest of product whether for production technical support any other purposes otherwise attempt to gain direct access to any portions of commercial components permit anyone else including your customers to do any of these things
+some commercial components may include source code that is provided as part of its standard shipment
+commercial component source code will be governed by terms for commercial components in this supplement not provisions in section your modifications of agreement
+accordingly notwithstanding any other terms of agreement you may not modify any commercial components
+you will be financially responsible to applicable third party licensor commercial component licensor for all damages losses resulting from your your authorized user s breach of this section
+you may not benchmark otherwise analyze performance information for individual commercial component elements
+you understand that applicable commercial component licensor retains all ownership intellectual property rights to commercial component
+commercial component licensors any other third party licensors of any components of products are intended third party beneficiaries of agreement with respect to items they license may enforce agreement directly against you
+however to be clear commercial component licensors do not assume any of atlassian s obligations under agreement

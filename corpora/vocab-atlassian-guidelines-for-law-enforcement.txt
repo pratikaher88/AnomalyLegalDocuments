@@ -1,0 +1,42 @@
+atlassian respects rules laws of jurisdiction in which it operates as well as privacy rights of its customers
+consequently atlassian provides customer information in response to law enforcement requests only when we believe that we are legally required to do so
+consequently to obtain non public customer information law enforcement officials must provide appropriate legal documents required for type of information being sought such as subpoena court order warrant
+to protect our customers rights we scrutinize all requests to ensure that they comply with law
+atlassian will not provide customer content without search warrant equivalent legal obligation supported by probable cause that requires that content be disclosed
+following information may be available in response to enforceable government request
+customer information
+
+bitbucket
+
+hipchat
+
+ondemand
+yes
+atlassian will preserve customer information for days upon valid request
+atlassian will preserve information for additional day period upon receipt of valid request to extend preservation
+if atlassian does not receive formal legal process for preserved information before end of preservation period preserved information may be deleted when preservation period expires
+preservation requests must be sent on official law enforcement letterhead signed must include
+preservation requests may be sent via service methods described below how do i serve data request on atlassian
+preservation request request for data may be sent via email certified mail express courier delivered in person to our corporate headquarters
+atlassian inc attn legal department harrison street san francisco ca usa lawenforcement atlassian com
+requests seeking testimony must be served on our registered agent for service of process
+we do not accept those requests in person via email
+while we agree to accept service of law enforcement requests by these methods neither atlassian nor our customers waive any legal rights based on this accommodation
+each request must include contact information for authorized law enforcement agency official submitting request including
+when requesting customer information please provide as much of following information that is available at time of request
+failure to provide following information may hinder atlassian s ability to respond in timely manner
+yes
+atlassian s policy is to notify customers of requests for their data unless it is prohibited from doing so by statute court order
+law enforcement officials who believe that notification would jeopardize investigation should obtain appropriate court order other process that specifically prohibits customer notification such as order issued pursuant to u s c
+section b
+further if your request places atlassian on notice of ongoing prior violation of our terms of use we will take action to prevent further abuse including account termination other actions that may notify user that we are aware of their misconduct
+if you believe in good faith that taking such actions will jeopardize your ongoing investigation you may request that atlassian defer such action in your request atlassian will take your request under advisement
+it is responsibility of requesting law enforcement official to make this request as it is atlassian s policy to enforce its terms of use
+yes
+u s law authorizes atlassian to respond to requests for customer information from foreign law enforcement agencies that are issued via u s court either by way of mutual legal assistance treaty request letter rogatory
+it is our policy to respond to such u s court ordered requests when properly served
+atlassian reserves right to seek reimbursement for costs associated with responding to law enforcement data requests where appropriate
+atlassian evaluates emergency requests on case by case basis
+if we receive information that gives us good faith belief that there is emergency involving imminent harm to child risk of death serious physical injury to person we may provide information necessary to prevent that harm if we are in position to do so
+you may submit emergency request via email to lawenforcement atlassian com with subject line emergency disclosure request
+please include all of following information

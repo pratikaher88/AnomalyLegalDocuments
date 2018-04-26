@@ -1,0 +1,281 @@
+scope of agreement
+this agreement governs your initial purchase as well as any future purchases made by you that reference this agreement
+this agreement includes our privacy policy our acceptable use policy any orders any other referenced policies attachments
+this agreement applies to atlassian add ons plugins that you purchase from atlassian marketplace
+however it does not apply to add ons plugins from other vendors on atlassian marketplace which are covered under atlassian marketplace terms of use
+types of atlassian products
+this agreement governs atlassian s commercially available downloadable software products currently designated as server data center deployments software b atlassian s hosted cloud based solutions currently designated as cloud deployments hosted services c any related support maintenance services provided by atlassian
+software hosted services together with related documentation are referred to as products
+products their permitted use are further described in atlassian s standard documentation documentation
+section software terms applies specifically to software section hosted services terms applies specifically to hosted services but unless otherwise specified other provisions of this agreement apply to all products
+account registration
+you may need to register for atlassian account in order to place orders access receive any products
+any registration information that you provide to us must be accurate current complete
+you must also update your information so that we may send notices statements other information to you by email through your account
+you are responsible for all actions taken through your accounts
+orders
+directly with atlassian
+atlassian s product ordering documentation purchase flow order will specify your authorized scope of use for products which may include number type of authorized users as defined below b storage capacity for hosted services c numbers of licenses copies instances for software d other restrictions billable units as applicable scope of use
+term order also includes any applicable product support maintenance renewal purchases you make to increase upgrade your scope of use
+reseller orders
+this agreement applies whether you purchase our products directly from atlassian through atlassian experts other authorized resellers each reseller
+if you purchase through reseller your scope of use shall be as stated in order placed by reseller for you reseller is responsible for accuracy of any such order
+resellers are not authorized to make any promises commitments on atlassian s behalf we are not bound by any obligations to you other than what we specify in this agreement
+authorized users
+only specific individuals for whom you have paid required fees whom you designate through applicable product authorized users may access use products
+some products may allow you to designate different types of authorized users in which case pricing functionality may vary according to type of authorized user
+authorized users may be you your affiliates employees representatives consultants contractors agents other third parties who are acting for your benefit on your behalf
+you may also permit your customers to have limited access to certain products as authorized users subject to terms of our customer use addendum
+you may increase number of authorized users permitted to access your instance of product by placing new order in some cases directly through product
+in all cases you must pay applicable fee for increased number of authorized users
+you are responsible for compliance with this agreement by all authorized users
+all use of products by you your authorized users must be within scope of use solely for benefit of you your affiliates
+affiliate means entity which directly indirectly owns controls is owned is controlled by is under common ownership control with party where control means power to direct management affairs of entity ownership means beneficial ownership of if applicable jurisdiction does not allow majority ownership maximum amount permitted under such law more of voting equity securities other equivalent voting interests of entity
+software terms
+your license rights
+subject to terms conditions of this agreement atlassian grants you non exclusive non sublicenseable non transferable license to install use software during applicable license term in accordance with this agreement your applicable scope of use documentation
+term of each software license license term will be specified in your order
+your license term will end upon any termination of this agreement even if it is identified as perpetual if no expiration date is specified in your order
+software requires license key in order to operate which will be delivered as described in section delivery
+number of instances
+unless otherwise specified in your order for each software license that you purchase you may install one production instance of software on systems owned operated by you your third party service providers so long as you remain responsible for their compliance with terms conditions of this agreement
+we also make available developer licenses free of charge for certain of our software offerings to allow you to deploy non production instances such as for staging qa purposes
+details for how to request non production licenses are available on our website
+your modifications
+subject to terms conditions of this agreement including without limitation section combining products with open source software of third party code in atlassian products for any elements of software provided by atlassian in source code form to extent permitted in documentation you may modify such source code solely for purposes of developing bug fixes customizations additional features for software you may also modify documentation to reflect your permitted modifications of software source code particular use of products within your organization
+any modified source code documentation constitutes your modifications
+you may use your modifications solely with respect to your own instances in support of your permitted use of software but you may not distribute code to your modifications to any third party
+notwithstanding anything in this agreement to contrary atlassian has no support warranty indemnification other obligation liability with respect to your modifications their combination interaction use with our products
+you shall indemnify defend hold us harmless from against any all claims costs damages losses liabilities expenses including reasonable attorneys fees costs arising out of in connection with any claim brought against us by third party relating to your modifications including but not limited to any representations warranties you make about your modifications software your breach of this section
+this indemnification obligation is subject to your receiving i prompt written notice of such claim but in any event notice in sufficient time for you to respond without prejudice ii exclusive right to control direct investigation defense settlement of such claim iii all reasonably necessary cooperation of atlassian at your expense
+attribution
+in any use of software you must include following attribution to atlassian on all user interfaces in following format powered by atlassian which must in every case include hyperlink to http www atlassian com which must be in same format as delivered in software
+third party code
+software includes code libraries licensed to us by third parties including open source software
+see third party code in atlassian products for additional provisions regarding our use of third party code
+hosted services terms
+access to hosted services
+subject to terms conditions of this agreement atlassian grants you non exclusive right to access use hosted services during applicable subscription term as defined below in accordance with this agreement your applicable scope of use documentation
+if atlassian offers client software e g desktop mobile application for any hosted service you may use such software solely with hosted service subject to terms conditions of this agreement
+you acknowledge that our hosted services are on line subscription based products that we may make changes to hosted services from time to time
+subscription terms renewals
+hosted services are provided on subscription basis for set term specified in your order subscription term
+except as otherwise specified in your order all subscriptions will automatically renew for periods equal to your initial subscription term you will be charged at then current rates unless you cancel your subscription through your account at my atlassian com
+if you cancel your subscription will terminate at end of then current billing cycle but you will not be entitled to any credits refunds for amounts accrued paid prior to such termination
+credentials
+you must ensure that all authorized users keep their user ids passwords for hosted services strictly confidential not share such information with any unauthorized person
+user ids are granted to individual named persons may not be shared
+you are responsible for any all actions taken using your accounts passwords you agree to immediately notify atlassian of any unauthorized use of which you become aware
+your data
+your data means any data content code video images other materials of any type that you upload submit otherwise transmit to through hosted services
+you will retain all right title interest in to your data in form provided to atlassian
+subject to terms of this agreement you hereby grant to atlassian non exclusive worldwide royalty free right to collect use copy store transmit modify create derivative works of your data in each case solely to extent necessary to provide applicable hosted service to you b for hosted services that enable you to share your data interact with other people to distribute publicly perform display your data as you your authorized users direct enable through hosted service
+atlassian may also access your account instance in order to respond to your support requests
+security
+atlassian implements security procedures to help protect your data from security attacks
+however you understand that use of hosted services necessarily involves transmission of your data over networks that are not owned operated controlled by us we are not responsible for any of your data lost altered intercepted stored across such networks
+we cannot guarantee that our security procedures will be error free that transmissions of your data will always be secure that unauthorized third parties will never be able to defeat our security measures those of our third party service providers
+storage limits
+there may be storage limits associated with particular hosted service
+these limits are described in services descriptions on our websites in documentation for particular hosted service
+atlassian reserves right to charge for additional storage overage fees at rates specified on our website
+we may impose new may modify existing storage limits for hosted services at any time in our discretion with without notice to you
+responsibility for your data
+general
+you must ensure that your use of hosted services all your data is at all times compliant with our acceptable use policy all applicable local state federal international laws regulations laws
+you represent warrant that i you have obtained all necessary rights releases permissions to provide all your data to atlassian to grant rights granted to atlassian in this agreement ii your data its transfer to use by atlassian as authorized by you under this agreement do not violate any laws including without limitation those relating to export control electronic communications rights of any third party including without limitation any intellectual property rights rights of privacy rights of publicity any use collection disclosure authorized herein is not inconsistent with terms of any applicable privacy policies
+other than its security obligations under section security atlassian assumes no responsibility liability for your data you shall be solely responsible for your data consequences of using disclosing storing transmitting it
+sensitive data
+you will not submit to hosted services use hosted services to collect i any personally identifiable information except as necessary for establishment of your atlassian account ii any patient medical other protected health information regulated by hipaa any similar federal state laws rules regulations iii any other information subject to regulation protection under specific laws such as gramm leach bliley act related rules regulations i through iii collectively sensitive data
+you also acknowledge that atlassian is not acting as your business associate subcontractor as such terms are defined used in hipaa that hosted services are not hipaa compliant
+hipaa means health insurance portability accountability act as amended supplemented
+notwithstanding any other provision to contrary atlassian has no liability under this agreement for sensitive data
+indemnity for your data
+you will defend indemnify hold harmless atlassian from against any loss cost liability damage including attorneys fees for which atlassian becomes liable arising from relating to any claim relating to your data including but not limited to any claim brought by third party alleging that your data your use of hosted services in breach of this agreement infringes misappropriates intellectual property rights of third party violates applicable law
+this indemnification obligation is subject to your receiving i prompt written notice of such claim but in any event notice in sufficient time for you to respond without prejudice ii exclusive right to control direct investigation defense settlement of such claim iii all reasonable necessary cooperation of atlassian at your expense
+removals suspension
+atlassian has no obligation to monitor any content uploaded to hosted services
+nonetheless if we deem such action necessary based on your violation of this agreement in response to takedown requests that we receive following our guidelines for reporting copyright trademark violations we may remove your data from hosted services suspend your access to hosted services
+we will generally alert you when we take such action give you reasonable opportunity to cure your breach but if we determine that your actions endanger operation of hosted service other users we may suspend your access immediately without notice
+you will continue to be charged for hosted service during any suspension period
+we have no liability to you for removing deleting your data from suspending your access to any hosted services as described in this section
+deletion at end of subscription term
+we may remove delete your data within reasonable period of time after termination of your subscription term
+service specific terms
+some of our hosted services may be subject to additional terms specific to that service as set forth in our service specific terms
+support maintenance
+atlassian will provide support maintenance services for products described in atlassian support policy support maintenance during period for which you have paid applicable fee
+support maintenance is subject to terms of atlassian support policy will be provided at support level during support term specified in your order
+atlassian support policy may be modified by atlassian from time to time to reflect process improvements changing practices
+support maintenance for software includes access to new releases if when available
+you may use any new releases that we provide to you during valid support term in same way that you use software new releases are included in definition of software in that case
+new releases are bug fixes patches major minor releases any other changes enhancements modifications to software that we make generally commercially available
+tam training services
+we will provide technical account manager tam training services purchased in order in accordance with descriptions conditions for those services set forth in order accompanying service descriptions datasheets ancillary services
+atlassian shall retain all right title interest in to any materials deliverables modifications derivative works developments related to any training services we provide training materials
+any training materials provided to you may be used only in connection with products subject to same use restrictions for products
+if applicable you will reimburse atlassian for reasonable travel lodging expenses as incurred
+tam services are subject to terms of atlassian professional services agreement
+returns financial terms
+return policy
+as part of our commitment to customer satisfaction it is our customary business practice to allow customers to return product within days of payment for any reason no reason to receive refund of amount paid for returned product
+in context of software return means that we will disable license key that allowed software to operate
+in context of hosted services return means that we will disable access to hosted service
+we will not accept returns after day return period
+you understand that atlassian may change this practice in future in accordance with section changes to this agreement
+delivery
+we will deliver applicable license keys in case of software login instructions in case of hosted services to email addresses specified in your order when we have received payment of applicable fees
+all deliveries under this agreement will be electronic
+for avoidance of doubt you are responsible for installation of any software you acknowledge that atlassian has no further delivery obligation with respect to software after delivery of license keys
+payment
+you agree to pay all fees in accordance with each order
+unless otherwise specified in your order you will pay all amounts in u s dollars at time you place your order
+other than as expressly set forth in section return policy section ip indemnification by atlassian all amounts are non refundable non cancelable non creditable
+in making payments you acknowledge that you are not relying on future availability of any products beyond current license term subscription term any product upgrades feature enhancements
+if you add authorized users during your license term subscription term we will charge you for increased number of authorized users pursuant to then currently applicable rates in your next billing cycle
+you agree that we may bill your credit card for renewals additional users unpaid fees as applicable
+if you purchase any products through reseller you owe payment to reseller as agreed between you reseller but you acknowledge that we may terminate your rights to use products if we do not receive our corresponding payment from reseller
+taxes
+your payments under this agreement exclude any taxes duties payable in respect of products in jurisdiction where payment is either made received
+to extent that any such taxes duties are payable by atlassian you must pay to atlassian amount of such taxes duties in addition to any fees owed under this agreement
+notwithstanding foregoing you may have obtained exemption from relevant taxes duties as of time such taxes duties are levied assessed
+in that case you will have right to provide to atlassian any such exemption information atlassian will use reasonable efforts to provide such invoicing documents as may enable you to obtain refund credit for amount so paid from any relevant revenue authority if such refund credit is available
+no charge products
+we may offer certain products to you at no charge including free accounts trial use access to beta versions as defined below no charge products
+your use of no charge products is subject to any additional terms that we specify is only permitted for period designated by us
+you may not use no charge products for competitive analysis similar purposes
+we may terminate your right to use no charge products at any time for any reason in our sole discretion without liability to you
+you understand that any pre release beta products we make available beta versions are still under development may be inoperable incomplete are likely to contain more errors bugs than generally available products
+we make no promises that any beta versions will ever be made generally available
+in some circumstances we may charge fee in order to allow you to access beta versions but beta versions will still remain subject to this section no charge products
+all information regarding characteristics features performance of beta versions constitutes atlassian s confidential information
+to maximum extent permitted by applicable law we disclaim all obligations liabilities with respect to no charge products including any support maintenance warranty indemnity obligations
+restrictions
+except as otherwise expressly permitted in this agreement you will not rent lease reproduce modify adapt create derivative works of distribute sell sublicense transfer provide access to products to third party b use products for benefit of any third party c incorporate any products into product service you provide to third party d interfere with any license key mechanism in products otherwise circumvent mechanisms in products intended to limit your use e reverse engineer disassemble decompile translate otherwise seek to obtain derive source code underlying ideas algorithms file formats non public apis to any products except as permitted by law f remove obscure any proprietary other notices contained in any product g publicly disseminate information regarding performance of products
+your development of add ons
+license to developer guides
+from time to time atlassian may publish sdk s api s associated guidelines developer guides to allow you to develop plugins extensions add ons other software products services that interoperate are integrated with products add ons
+you may distribute your add ons to third parties but only for those products permitted by atlassian only in accordance with developer guides
+conditions to development of add ons
+notwithstanding anything in this agreement to contrary atlassian has no support warranty indemnification other obligation liability with respect to your add ons their combination interaction use with products
+you shall indemnify defend hold us harmless from against any all claims costs damages losses liabilities expenses including reasonable attorneys fees costs arising out of in connection with any claim brought against us by third party relating to your add ons including but not limited to any representations warranties you make about your add ons your breach of this section
+license certifications audits
+at our request you agree to provide signed certification that you are using all products pursuant to terms of this agreement including scope of use
+you agree to allow us our authorized agent to audit your use of products
+we will provide you with at least days advance notice prior to audit audit will be conducted during normal business hours
+we will bear all out of pocket costs that we incur for audit unless audit reveals that you have exceeded scope of use
+you will provide reasonable assistance cooperation access to relevant information in course of any audit at your own cost
+if you exceed your scope of use we may invoice you for any past ongoing excessive use you will pay invoice promptly after receipt
+this remedy is without prejudice to any other remedies available to atlassian at law equity under this agreement
+to extent we are obligated to do so we may share audit results with certain of our third party licensors assign audit rights specified in this section to such licensors
+ownership feedback
+products are made available on limited license access basis no ownership right is conveyed to you irrespective of use of terms such as purchase sale
+atlassian its licensors have retain all right title interest including all intellectual property rights in to products including all no charge products their look feel any all related underlying technology any modifications derivative works of foregoing created by for atlassian including without limitation as they may incorporate feedback atlassian technology
+from time to time you may choose to submit comments information questions data ideas description of processes other information to atlassian including sharing your modifications in course of receiving support maintenance feedback
+atlassian may in connection with any of its products services freely use copy disclose license distribute exploit any feedback in any manner without any obligation royalty restriction based on intellectual property rights otherwise
+no feedback will be considered your confidential information nothing in this agreement limits atlassian s right to independently use develop evaluate market products whether incorporating feedback otherwise
+confidentiality
+except as otherwise set forth in this agreement each party agrees that all code inventions know how business technical financial information disclosed to such party receiving party by disclosing party disclosing party constitute confidential property of disclosing party confidential information provided that it is identified as confidential at time of disclosure
+any atlassian technology any performance information relating to products shall be deemed confidential information of atlassian without any marking further designation
+except as expressly authorized herein receiving party will hold in confidence not use disclose any confidential information
+receiving party s nondisclosure obligation shall not apply to information which receiving party can document i was rightfully in its possession known to it prior to receipt of confidential information ii is has become public knowledge through no fault of receiving party iii is rightfully obtained by receiving party from third party without breach of any confidentiality obligation iv is independently developed by employees of receiving party who had no access to such information
+receiving party may also disclose confidential information if so required pursuant to regulation law court order but only to minimum extent required to comply with such regulation order with advance notice to disclosing party
+receiving party acknowledges that disclosure of confidential information would cause substantial harm for which damages alone would not be sufficient remedy therefore that upon any such disclosure by receiving party disclosing party shall be entitled to appropriate equitable relief in addition to whatever other remedies it might have at law
+for avoidance of doubt this section shall not operate as separate warranty with respect to operation of any product
+term termination
+this agreement is in effect for as long as you have valid license term subscription term term unless sooner terminated as permitted in this agreement
+either party may terminate this agreement before expiration of term if other party materially breaches any of terms of this agreement does not cure breach within thirty days after written notice of breach
+either party may also terminate agreement before expiration of term if other party ceases to operate declares bankruptcy becomes insolvent otherwise unable to meet its financial obligations
+you may terminate this agreement at any time with notice to atlassian but you will not be entitled to any credits refunds as result of convenience termination for prepaid but unused software hosted services subscriptions support maintenance
+except where exclusive remedy may be specified in this agreement exercise by either party of any remedy including termination will be without prejudice to any other remedies it may have under this agreement by law otherwise
+once agreement terminates you your authorized users will no longer have any right to use access any products any information materials that we make available to you under this agreement including atlassian confidential information
+you are required to delete any of foregoing from your systems as applicable including any third party systems operated on your behalf provide written certification to us that you have done so at our request
+following provisions will survive any termination expiration of this agreement sections indemnity for your data payment taxes no charge products disclaimers use restrictions only restrictions conditions to development of add ons license certifications audits ownership feedback confidentiality term termination warranty disclaimer limitation of liability third party vendor products dispute resolution export restrictions general provisions
+warranty disclaimer
+due authority
+each party represents warrants that it has legal power authority to enter into this agreement that if you are entity this agreement each order is entered into by employee agent of such party with all necessary authority to bind such party to terms conditions of this agreement
+warranty disclaimer
+all products are provided as is atlassian its suppliers expressly disclaim any all warranties representations of any kind including any warranty of non infringement title fitness for particular purpose functionality merchantability whether express implied statutory
+you may have other statutory rights but duration of statutorily required warranties if any shall be limited to shortest period permitted by law
+atlassian shall not be liable for delays interruptions service failures other problems inherent in use of internet electronic communications other systems outside reasonable control of atlassian
+to maximum extent permitted by law neither atlassian nor any of its third party suppliers makes any representation warranty guarantee as to reliability timeliness quality suitability truth availability accuracy completeness of any products any content therein generated therewith that use of any products will be secure timely uninterrupted error free b products will operate in combination with any other hardware software system data c products any products services information other material purchased obtained by you through products will meet your requirements expectations d any stored data will be accurate reliable that any stored data will not be lost corrupted e errors defects will be corrected f products any server s that make hosted service available are free of viruses other harmful components
+limitation of liability
+neither party nor its suppliers shall be liable for any loss of use lost inaccurate data failure of security mechanisms interruption of business costs of delay any indirect special incidental reliance consequential damages of any kind including lost profits regardless of form of action whether in contract tort including negligence strict liability otherwise even if informed of possibility of such damages in advance
+neither party s aggregate liability to other shall exceed amount actually paid by you to us for products support maintenance in months immediately preceding claim
+notwithstanding anything else in this agreement our aggregate liability to you in respect of no charge products shall be us
+this section limitation of liability shall not apply to amounts owed by you under any orders either party s express indemnification obligations in this agreement your breach of section restrictions section combining products with open source software of third party code in atlassian products
+to maximum extent permitted by law no suppliers of any third party components included in products will be liable to you for any damages whatsoever
+parties agree that limitations specified in this section limitation of liability will survive apply even if any limited remedy specified in this agreement is found to have failed of its essential purpose
+ip indemnification by atlassian
+we will defend you against any claim brought against you by third party alleging that product when used as authorized under this agreement infringes united states european union patent registered copyright claim we will indemnify you hold you harmless against any damages costs finally awarded by court of competent jurisdiction agreed to settlement by atlassian including reasonable attorneys fees arising out of claim provided that we have received from you prompt written notice of claim but in any event notice in sufficient time for us to respond without prejudice b reasonable assistance in defense investigation of claim including providing us copy of claim all relevant evidence in your possession custody control c exclusive right to control direct investigation defense settlement if applicable of claim
+if your use of product is in our opinion is likely to be enjoined if required by settlement if we determine such actions are reasonably necessary to avoid material liability we may at our option in our discretion i procure license for your continued use of product in accordance with this agreement ii substitute substantially functionally similar product iii terminate your right to continue using product refund in case of software license fee paid by you as reduced to reflect three year straight line depreciation from license purchase date in case of hosted service any prepaid amounts for terminated portion of subscription term
+atlassian s indemnification obligations above do not apply if total aggregate fees received by atlassian with respect to your license to software subscription to hosted services in month period immediately preceding claim is less than us if product is modified by any party other than atlassian but solely to extent alleged infringement is caused by such modification if product is used in combination with any non atlassian product software equipment but solely to extent alleged infringement is caused by such combination to unauthorized use of products to any claim arising as result of y your data circumstances covered by your indemnification obligations in section indemnity for your data z any third party deliverables components contained with products to any unsupported release of software if you settle make any admissions with respect to claim without atlassian s prior written consent
+this section ip indemnification by atlassian states our sole liability your exclusive remedy for any infringement of intellectual property rights in connection with any product other items provided by atlassian under this agreement
+third party vendor products
+atlassian third parties may from time to time make available to you e g through atlassian marketplace third party products services including but not limited to add ons plugins as well as implementation customization training other consulting services
+if you procure any of these third party products services you do so under separate agreement exchange of data solely between you third party vendor
+atlassian does not warrant support non atlassian products services whether not they are designated by atlassian as verified otherwise disclaims all liability for such products services
+if you install enable any third party products services for use with atlassian products you acknowledge that atlassian may allow vendors of those products services to access your data as required for interoperation support of such add ons with atlassian products
+atlassian shall not be responsible for any disclosure modification deletion of your data resulting from any such access by third party add on vendors
+publicity rights
+we may identify you as atlassian customer in our promotional materials
+you may request that we stop doing so by submitting email to sales atlassian com at any time
+please note that it may take us up to days to process your request
+improving our products
+we are always striving to improve our products
+in order to do so we need to measure analyze aggregate how users interact with our products such as usage patterns characteristics of our user base
+we collect use analytics data regarding use of our products as described in our privacy policy
+dispute resolution
+dispute resolution arbitration
+in event of any controversy claim arising out of relating to this agreement parties hereto shall consult negotiate with each other recognizing their mutual interests attempt to reach solution satisfactory to both parties
+if parties do not reach settlement within period of days any unresolved controversy claim arising out of relating to this agreement shall proceed to binding arbitration under rules of arbitration of international chamber of commerce
+parties shall seek to mutually appoint arbitrator
+if parties cannot agree on single arbitrator then there shall be three arbitrators one selected by each party third selected by first two
+arbitration will take place in one of following cities as mutually agreed between parties sydney australia amsterdam netherlands san francisco ca usa
+if parties are unable to agree to one of these cities then arbitration shall proceed in san francisco ca
+all negotiations arbitration proceedings pursuant to this section will be confidential treated as compromise settlement negotiations for purposes of all similar rules codes of evidence of applicable legislation jurisdictions
+language of arbitration shall be english
+governing law jurisdiction
+this agreement will be governed by construed in accordance with applicable laws of state of california usa without giving effect to principles of that state relating to conflicts of laws
+each party irrevocably agrees that any legal action suit proceeding that is not otherwise subject to arbitration provisions of section dispute resolution arbitration must be brought solely exclusively in will be subject to service of process other applicable procedural rules of state federal court in san francisco california usa each party irrevocably submits to sole exclusive personal jurisdiction of courts in san francisco california usa generally unconditionally with respect to any action suit proceeding brought by it against it by other party
+notwithstanding foregoing atlassian may bring claim for equitable relief in any court with proper jurisdiction
+injunctive relief enforcement
+notwithstanding provisions of section dispute resolution arbitration nothing in this agreement shall prevent either party from seeking injunctive relief with respect to violation of intellectual property rights confidentiality obligations enforcement recognition of any award order in any appropriate jurisdiction
+exclusion of un convention ucita
+terms of united nations convention on contracts for sale of goods do not apply to this agreement
+uniform computer information transactions act ucita shall not apply to this agreement regardless of when where adopted
+export restrictions
+products are subject to export restrictions by united states government import restrictions by certain foreign governments you agree to comply with all applicable export import laws regulations in your use of products
+you shall not shall not allow any third party to remove export from united states allow export re export of any part of products any direct product thereof into to national resident of any embargoed terrorist supporting country b to anyone on u s commerce department s table of denial orders u s treasury department s list of specially designated nationals c to any country to which such export re export is restricted prohibited as to which united states government any agency thereof requires export license other governmental approval at time of export re export without first obtaining such license approval d otherwise in violation of any export import restrictions laws regulations of any united states foreign agency authority
+you represent warrant that i you are not located in under control of national resident of any such prohibited country on any such prohibited party list ii that none of your data is controlled under us international traffic in arms regulations
+products are restricted from being used for design development of nuclear chemical biological weapons missile technology without prior permission of united states government
+changes to this agreement
+we may update modify this agreement from time to time including any referenced policies other documents
+if revision meaningfully reduces your rights we will use reasonable efforts to notify you by for example sending email to billing technical contact you designate in applicable order posting on our blog through your atlassian account in product itself
+if we modify agreement during your license term subscription term modified version will be effective upon your next renewal of license term support maintenance term subscription term as applicable
+in this case if you object to updated agreement as your exclusive remedy you may choose not to renew including cancelling any terms set to auto renew
+with respect to no charge products accepting updated agreement is required for you to continue using no charge products
+you may be required to click through updated agreement to show your acceptance
+if you do not agree to updated agreement after it becomes effective you will no longer have right to use no charge products
+for avoidance of doubt any order is subject to version of agreement in effect at time of order
+general provisions
+any notice under this agreement must be given in writing
+we may provide notice to you via email through your account
+our notices to you will be deemed given upon first business day after we send it
+you may provide notice to us by post to atlassian pty ltd c o atlassian inc harrison street san francisco ca usa attn general counsel
+your notices to us will be deemed given upon our receipt
+neither party shall be liable to other for any delay failure to perform any obligation under this agreement except for failure to pay fees if delay failure is due to unforeseen events which are beyond reasonable control of such party such as strike blockade war act of terrorism riot natural disaster failure diminishment of power telecommunications data networks services refusal of license by government agency
+you may not assign this agreement without our prior written consent
+we will not unreasonably withhold our consent if assignee agrees to be bound by terms conditions of this agreement
+we may assign our rights obligations under this agreement in whole in part without your consent
+products are commercial computer software
+if you are agency department other entity of united states government use duplication reproduction release modification disclosure transfer of products any related documentation of any kind including technical data manuals is restricted by terms of this agreement in accordance with federal acquisition regulation for civilian purposes defense federal acquisition regulation supplement for military purposes
+products were developed fully at private expense
+all other use is prohibited
+this agreement is entire agreement between you atlassian relating to products supersedes all prior contemporaneous oral written communications proposals representations with respect to products any other subject matter covered by this agreement
+if any provision of this agreement is held to be void invalid unenforceable illegal other provisions shall continue in full force effect
+this agreement may not be modified amended by you without our written agreement which may be withheld in our complete discretion without any requirement to provide any explanation
+as used herein including its variants means including without limitation its variants
+no failure delay by injured party to this agreement in exercising any right power privilege hereunder shall operate as waiver thereof nor shall any single partial exercise thereof preclude any other further exercise thereof exercise of any right power privilege hereunder at law equity
+parties are independent contractors
+this agreement shall not be construed as constituting either party as partner of other to create any other form of legal association that would give on party express implied right power authority to create any duty obligation of other party

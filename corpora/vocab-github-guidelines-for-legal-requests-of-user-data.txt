@@ -1,0 +1,74 @@
+are you law enforcement officer conducting investigation that may involve user content hosted on github
+maybe you re privacy conscious person who would like to know what information we share with law enforcement under what circumstances
+either way you re on right page
+in these guidelines we provide little background about what github is types of data we have conditions under which we will disclose private user information
+before we get into details however here are few important details you may want to know
+our users trust us with their software projects code often some of their most valuable business personal assets
+maintaining that trust is essential to us which means keeping user data safe secure private
+while overwhelming majority of our users use github s services to create new businesses build new technologies for general betterment of humankind we recognize that with millions of users spread all over world there are bound to be few bad apples in bunch
+in those cases we want to help law enforcement serve their legitimate interest in protecting public
+by providing guidelines for law enforcement personnel we hope to strike balance between often competing interests of user privacy justice
+we hope these guidelines will help to set expectations on both sides as well as to add transparency to github s internal processes
+our users should know that we value their private information that we do what we can to protect it
+at minimum this means only releasing data to third parties when appropriate legal requirements have been satisfied
+by same token we also hope to educate law enforcement professionals about github s systems so that they can more efficiently tailor their data requests target just that information needed to conduct their investigation
+before asking us to disclose data it may be useful to understand how our system is implemented
+github hosts millions of data repositories using git version control system
+repositories on github which may be public private are most commonly used for software development projects but are also often used to work on content of all kinds
+users users are represented in our system as personal github accounts
+each user has personal profile can own multiple repositories
+users can create be invited to join organizations to collaborate on another user s repository
+collaborators collaborator is user with read write access to repository who has been invited to contribute by repository owner
+organizations organizations are group of two more users that typically mirror real world organizations such as businesses projects
+they are administered by users can contain both repositories teams of users
+repositories repository is one of most basic github elements
+they may be easiest to imagine as project s folder
+repository contains all of project files including documentation stores each file s revision history
+repositories can have multiple collaborators at its administrators discretion may be publicly viewable not
+pages github pages are public webpages freely hosted by github that users can easily publish through code stored in their repositories
+if user organization has github page it can usually be found at url such as https username github io they may have webpage mapped to their own custom domain name
+gists gists are snippets of source code other text that users can use to store ideas share with friends
+like regular github repositories gists are created with git so they are automatically versioned forkable downloadable
+gists can either be public secret accessible only through known url
+here is non exhaustive list of kinds of data we maintain about users projects on github
+public account data there is variety of information publicly available on github about users their repositories
+user profiles can be found at url such as https github com username
+user profiles display information about when user created their account as well their public activity on github com social interactions
+public user profiles can also include additional information that user may have chosen to share publicly
+all user public profiles display
+optionally user may also choose to share following information publicly
+private account data github also collects maintains certain private information about users as outlined in our privacy policy
+this may include
+to get sense of type of private account information that github collects you can visit your personal dashboard browse through sections in left hand menubar
+public repository data github is home to millions of public open source software projects
+you can browse almost any public repository for example atom project to get sense for information that github collects maintains about repositories
+this can include
+private repository data github collects maintains same type of data for private repositories that can be seen for public repositories except only specifically invited users may access private repository data
+other data additionally github collects analytics data such as page visits information occasionally volunteered by our users such as communications with our support team survey information site registrations
+it is our policy to notify users about any pending requests regarding their accounts repositories unless we are prohibited by law court order from doing so in rare exigent circumstances
+before disclosing user information we will make reasonable effort to notify any affected account owner s by sending message to their verified email address providing them with copy of subpoena court order warrant so that they can have opportunity to challenge legal process if they wish
+it is our policy to disclose non public user information in connection with civil criminal investigation only with user consent upon receipt of valid subpoena civil investigative demand court order search warrant other similar valid legal process
+github reserves right to object to any requests for non public information
+where github agrees to produce non public information in response to lawful request we will conduct reasonable search for requested information
+here are kinds of information we will agree to produce depending on kind of legal process we are served with
+with user consent github will provide private account information if requested directly to user owner in case of organization account to designated third party with user s written consent once github is satisfied that user has verified his her identity
+with subpoena if served with valid subpoena civil investigative demand similar legal process issued in connection with official criminal civil investigation we can provide certain non public account information which may include
+please note that information available will vary from case to case
+some of information is optional for users to provide
+in other cases we might not have collected retained information
+with court order search warrant we will not disclose account access logs unless compelled to do so by either i court order issued under u s c
+section d upon showing of specific articulable facts showing that there are reasonable grounds to believe that information sought is relevant material to ongoing criminal investigation ii search warrant issued under procedures described in federal rules of criminal procedure equivalent state warrant procedures upon showing of probable cause
+account access logs may include
+only with search warrant we will not disclose private contents of any user account unless compelled to do so under search warrant issued under procedures described in federal rules of criminal procedure equivalent state warrant procedures upon showing of probable cause
+private user account contents may include
+we reserve right to seek reimbursement for administrative costs associated with responding to requests for information as allowed by law
+we will take steps to preserve account records for up to days upon formal request from u s law enforcement in connection with official criminal investigations pending issuance of court order other process
+please serve requests to
+you may also send courtesy copy to legal support github com
+please make your requests as specific narrow as possible including following information
+please allow at least two weeks for us to be able to look into your request
+as united states company based in california github is not required to provide data to foreign governments in response to legal process issued by foreign authorities
+foreign law enforcement officials wishing to request information from github should contact united states department of justice criminal division s office of international affairs
+github will promptly respond to requests that are issued via u s court by way of mutual legal assistance treaty mlat letter rogatory
+do you have other questions comments suggestions
+please contact github support

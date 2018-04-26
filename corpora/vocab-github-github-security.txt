@@ -1,0 +1,36 @@
+we know your code is extremely important to you your business we re very protective of it
+after all github s code is hosted on github too
+please visit our security bug bounty site for information about our responsible disclosure process to submit vulnerability report
+we employ team of server specialists at github to keep our software its dependencies up to date eliminating potential security vulnerabilities
+we employ wide range of monitoring solutions for preventing eliminating attacks to site
+all private data exchanged with github is always transmitted over ssl which is why your dashboard is served over https for instance
+all pushing pulling of private data is done over ssh authenticated with keys over https using your github username password
+ssh login credentials used to push pull can not be used to access shell filesystem
+all users are virtual meaning they have no user account on our machines are access controlled through peer reviewed open source git shell
+every piece of hardware we use has identical copy ready waiting for immediate hot swap in case of hardware software failure
+every line of code we store is saved on minimum of three different servers including off site backup
+we do not retroactively remove repositories from backups when deleted by user as we may need to restore repository for user if it was removed accidentally
+we do not encrypt repositories on disk because it would not be any more secure website git back end would need to decrypt repositories on demand slowing down response times
+any user with shell access to file system would have access to decryption routine thus negating any security it provides
+therefore we focus on making our machines network as secure as possible
+no github employees ever access private repositories unless required to for support reasons
+staff working directly in file store access compressed git database your code is never present as plaintext files like it would be in local clone
+support staff may sign into your account to access settings related to your support issue
+in rare cases staff may need to pull clone of your code this will only be done with your consent
+support staff does not have direct access to clone any repository they will need to temporarily attach their ssh key to your account to pull clone
+when working support issue we do our best to respect your privacy as much as possible we only access files settings needed to resolve your issue
+all cloned repositories are deleted as soon as support issue has been resolved
+we protect your login from brute force attacks with rate limiting
+all passwords are filtered from all our logs are one way encrypted in database using bcrypt
+login information is always sent over ssl
+we also allow you to use two factor authentication fa as additional security measure when accessing your github account
+enabling fa adds security to your account by requiring both your password as well as access to security code on your phone to access your account
+we have full time security staff to help identify prevent new attack vectors
+we always test new features in order to rule out potential attacks such as xss protecting wikis ensuring that pages cannot access cookies
+we also maintain relationships with reputable security firms to perform regular penetration tests ongoing audits of github its code
+we re extremely concerned active about security but we re aware that many companies are not comfortable hosting code outside their firewall
+for these companies we offer github enterprise version of github that can be installed to server within company s network
+when you sign up for paid account on github we do not store any of your card information on our servers
+it s handed off to braintree payment solutions company dedicated to storing your sensitive data on pci compliant servers
+have question concern comment about github security
+please contact github support

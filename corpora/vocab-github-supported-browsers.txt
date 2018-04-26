@@ -1,0 +1,37 @@
+github is designed to support latest web browsers
+we support current versions of chrome firefox safari microsoft edge internet explorer
+we do our best to support firefox s latest extended support release esr
+some features on github may be disabled in older versions require latest version of firefox
+because windows xp is not supported you ll receive error when you try to load github in internet explorer
+for more information see improving github s ssl setup on github blog
+we only support ie running in standards mode
+if you see error message saying your browser is outdated turn off compatibility view
+if you receive outdated browser error message in ie settings have likely been changed to force compatibility view to be used
+you may occasionally encounter unexpected bugs in beta developer builds of our supported browsers
+if you encounter bug on github com in one of these unreleased builds please verify that it also exists in stable version of same browser
+if bug appears to only exist in unstable version you might consider reporting it to browser developer
+github is designed to support latest web browsers
+we support current versions of chrome firefox safari microsoft edge internet explorer
+we do our best to support firefox s latest extended support release esr
+some features on github may be disabled in older versions require latest version of firefox
+because windows xp is not supported you ll receive error when you try to load github in internet explorer
+for more information see improving github s ssl setup on github blog
+we only support ie running in standards mode
+if you see error message saying your browser is outdated turn off compatibility view
+if you receive outdated browser error message in ie settings have likely been changed to force compatibility view to be used
+you may occasionally encounter unexpected bugs in beta developer builds of our supported browsers
+if you encounter bug on github com in one of these unreleased builds please verify that it also exists in stable version of same browser
+if bug appears to only exist in unstable version you might consider reporting it to browser developer
+github is designed to support latest web browsers
+we support current versions of chrome firefox safari microsoft edge internet explorer
+we do our best to support firefox s latest extended support release esr
+some features on github may be disabled in older versions require latest version of firefox
+because windows xp is not supported you ll receive error when you try to load github in internet explorer
+for more information see improving github s ssl setup on github blog
+we only support ie running in standards mode
+if you see error message saying your browser is outdated turn off compatibility view
+if you receive outdated browser error message in ie settings have likely been changed to force compatibility view to be used
+you may occasionally encounter unexpected bugs in beta developer builds of our supported browsers
+if you encounter bug on github com in one of these unreleased builds please verify that it also exists in stable version of same browser
+if bug appears to only exist in unstable version you might consider reporting it to browser developer
+github inc all rights reserved

@@ -1,0 +1,524 @@
+view all products
+purchase product
+view all resources
+create support ticket
+download this entire document as pdf
+this privacy policy explains what information atlassian pty ltd its related entities atlassian collect about you why what we do with that information how we share it how we handle content you place in our products services
+it also explains choices available to you regarding our use of your personal information how you can access update this information
+this privacy policy applies to information that we obtain through your use of atlassian services via device when you otherwise interact with atlassian
+atlassian services include our
+but does not include
+device is any computer used to access atlassian services including without limitation desktop laptop mobile phone tablet other consumer electronic device
+unless otherwise stated our saas products our downloadable products are treated same for purposes of this document
+by registering for using atlassian services you consent to collection transfer processing storage disclosure other uses described in this privacy policy
+add on bundle of code resources configuration files that can be used with atlassian product to add new functionality to change behavior of that product s existing features
+content any information data that you upload submit post create transmit store display in atlassian service
+downloadable products atlassian s downloadable software products mobile applications including add ons created by atlassian that are installed by customers on infrastructure of their choice
+downloadable products do not include add ons created by third parties even when they are accessed through atlassian com available through atlassian marketplace
+information all of different forms of data content information collected by us as described in this privacy policy
+personal information information that may be used to readily identify contact you as individual person such as name address email address phone number
+personal information does not include information that has been anonymized such that it does not allow for ready identification of specific individuals
+saas products atlassian s cloud hosted solutions as well as other atlassian hosted solutions that display link to this privacy policy such as hipchat bitbucket
+for avoidance of doubt if atlassian hosted solution displays link to different privacy policy then that other privacy policy shall apply
+websites atlassian s websites including but not limited to atlassian com marketplace atlassian com answers atlassian com confluence atlassian com support atlassian com hipchat com bitbucket org any related websites sub domains pages
+we may change this privacy policy from time to time
+if we make any changes we will notify you by revising effective starting date at top of this privacy policy
+if we make any material changes we will provide you with additional notice such as by adding notice on atlassian services homepages login screens by sending you email notification
+we encourage you to review our privacy policy whenever you use atlassian services to stay informed about our information practices ways you can help protect your privacy
+if you disagree with any changes to this privacy policy you will need to stop using atlassian services deactivate your account s as outlined below
+we collect following information
+account profile information we collect information about you your company as you register for account create modify your profile make purchases through use access interact with atlassian services including but not limited to when you upload download collaborate on share content
+information we collect includes
+you may provide this information directly when you enter it in atlassian services
+in some cases another user such as system administrator may create account on your behalf may provide your information including personal information most commonly when your company requests that you use our products
+we collect information under direction of our customers often have no direct relationship with individuals whose personal data we process
+if you are employee of one of our customers would no longer like us to process your information please contact your employer
+if you are providing information including personal information about someone else you must have authority to act for them to consent to collection use of their personal information as described in this privacy policy
+content we collect store content that you create input submit post upload transmit store display in process of using our saas products websites
+such content includes any personal information other sensitive information that you choose to include incidentally collected personal information
+other submissions we collect other data that you submit to our websites as you participate in any interactive features of atlassian services participate in survey contest promotion sweepstakes activity event apply for job request customer support communicate with us via third party social media sites otherwise communicate with us
+for example information regarding problem you are experiencing with atlassian product could be submitted to our support services posted in our public forums
+web logs as is true with most websites services delivered over internet we gather certain information store it in log files when you interact with our websites saas products
+this information includes internet protocol ip addresses as well as browser type internet service provider urls of referring exit pages operating system date time stamp information you search for locale language preferences identification numbers associated with your devices your mobile carrier system configuration information
+in case of our saas product urls you accessed therefore included in our log files include usernames as well as elements of content such as jira project names project keys status names jql filters confluence page titles space names as necessary for saas product to perform requested operations
+occasionally we connect personal information to information gathered in our log files as necessary to improve atlassian services for individual customers
+in such case we would treat combined information in accordance with this privacy policy
+analytics information from website saas products we collect analytics information when you use our websites saas products to help us improve our products services
+in saas products this analytics information consists of feature function of atlassian service being used associated license identifier sen domain name username ip address of individual who is using feature function which will include personal information if personal information was incorporated into username sizes original filenames of attachments additional information required to detail operation of function which parts of atlassian services are being affected
+for example
+as shown in examples above analytics information we collect includes elements of content related to function user is performing
+as such analytics information we collect may include personal information sensitive business information that user has included in content that user chose to upload submit post create transmit store display in atlassian service
+as of date this policy went into effect we use google analytics as analytics provider
+to learn more about privacy policy of google analytics refer to google s policies principles
+use google analytics opt out browser add on to prevent analytics information from being sent to google analytics
+analytics information derived from content
+analytics information also consists of data we collect as result of running queries against content across our user base for purposes of generating usage data
+usage data is aggregated data about group category of services features users that does not contain personal information
+for example we may query content to determine most common types of workflows that users use e g
+what percentage of all instances use itil style workflows
+by searching for most common workflow names we may query content to determine most popular job titles for confluence users in order to better understand composition of our user base
+though we may happen upon sensitive personal information as we compile usage data from content across user instances this is byproduct of our efforts to understand broader patterns trends
+it is not concerted effort by us to examine content of any particular customer
+analytics information from downloadable products we collect analytics information when you use our downloadable products to help us improve our products services
+our downloadable products contain feature that sends information about technical operation of downloadable products on your systems system information to us
+system information includes information about server environment in which downloadable product is operating os type version jvm version java environment properties cpu type ram allocation language locale settings database type version disk utilization as well as b user client information for example browser type version native client type version client device specifications e g
+screen resolution os version device type etc
+in addition we collect analytics information from downloadable products that is subset of analytics information described above for websites saas products
+as with websites saas products analytics information we collect includes elements of content related to function user is performing but with important caveat
+with downloadable products before sending information to atlassian s servers we filter analytics information to remove elements that we believe may contain sensitive personal information
+for example we conduct one way hash of usernames hostnames before collecting them we filter any content elements we collect to discard all words except those on list of common business it terminology
+you can disable our collection of analytics information from downloadable products via administrator settings by blocking collection at local network level
+installer analytics software updates license information from downloadable products during installation of our downloadable products installer sends analytics information to atlassian to allow us to understand where in installation process users are experiencing trouble dropping out
+our downloadable products also communicate with atlassian servers for licensing purposes as well as to check for updates patches compatibility with add ons
+examples of information we collect for these purposes include name version of downloadable product server id sen ip address of customer instance
+cookies other tracking technologies atlassian our third party partners such as our advertising analytics partners use various technologies to collect information such as cookies web beacons
+cookies are small data files stored on your hard drive in device memory
+we use cookies to improve customize atlassian services your experience to allow you to access use websites saas products without re entering your username password to count visits understand which areas features of websites saas products are most popular
+you can instruct your browser by changing its options to stop accepting cookies to prompt you before accepting cookie from websites you visit
+if you do not accept cookies however you may not be able to use all aspects of our websites saas products
+atlassian our third party partners also collect information using web beacons also known as tracking pixels
+web beacons are electronic images that may be used in our websites saas products in emails that help us to deliver cookies count visits understand usage campaign effectiveness determine whether email has been opened acted upon
+atlassian our third party partners also use javascript e tags flash cookies html local storage to collect information about your online activities over time across different websites online services
+many browsers include their own management tools for removing html local storage objects
+to manage flash cookies please click here
+you may be able to opt out of receiving personalized advertisements as described below under your choices
+information from third party services we also obtain information from third parties combine that with information we collect through atlassian services
+for example we may have access to certain information from third party social media authentication service if you log into atlassian services through service otherwise provide us with access to information from service
+any access that we may have to such information from third party social authentication service is in accordance with authorization procedures determined by that service
+by authorizing us to connect with third party service you authorize us to access store your name email address es current city profile picture url other information that third party service makes available to us to use disclose it in accordance with this privacy policy
+you should check your privacy settings on these third party services to understand change information sent to us through these services
+general uses we use information we collect about you including personal information to extent applicable for variety of purposes including to
+notwithstanding foregoing we will not use personal information appearing in our analytics logs web logs for any purpose
+use of information collected through our atlassian services shall be limited to purposes disclosed in this policy
+compiling aggregate analytics information because our saas products downloadable products are some of most configurable in market we make extensive use of analytics information including log configuration data to understand how our products are being configured used how they can be improved for benefit of all of our users to develop new products services
+as such we generate usage data as defined above from web logs analytics logs described above including content elements captured in such logs as well as from content stored in websites saas products
+we will not share disclose any of your personal information content with third parties except as described in this policy
+we do not sell your personal information content
+your use when you use atlassian services content you provide will be displayed back to you
+certain features of atlassian services allow you your administrator to make some of your content public in which case it will become readily accessible to anyone
+we urge you to consider sensitivity of any data you input into atlassian services
+collaboration as natural result of using atlassian services you may create content grant permission to other atlassian users to access it for purposes of collaboration
+some of collaboration features of atlassian services display your profile information including personal information included in your profile to users with whom you have shared your content
+where this information is sensitive we urge you to use various security privacy features of atlassian services to limit those who can access such information
+your sharing settings may make any information including some personal information that you submit to atlassian services visible to public unless submitted to restricted area
+access by your system administrator you should be aware that administrator of your instance of atlassian services may be able to
+atlassian community our websites offer publicly accessible community services such as blogs forums bug trackers wikis
+you should be aware that any content you provide in these areas may be read collected used by others who access them
+your posts may remain even after you cancel your account
+to request removal of your personal information from atlassian community please contact us using information listed below
+in some cases we may not be able to remove your personal information in which case we will let you know if we are unable to why
+service providers business partners others we work with third party service providers to provide website application development hosting maintenance back up storage virtual infrastructure payment processing analysis other services for us
+these service providers may have access to process your information for purpose of providing those services for us
+some of our pages utilize white labeling techniques to serve content from our service providers while providing look feel of our site
+please be aware that you are providing your information to these third parties acting on behalf of atlassian
+third party add ons you may choose to make use of third party add ons in conjunction with atlassian services
+third party add ons are software written by third parties to which you grant access privileges to your content which may include your personal information
+when access is granted your content is shared with third party
+third party add on policies procedures are not controlled by atlassian even though third party add on may be available through atlassian services
+third parties who have been granted access to your content through add ons could use this data to contact you market services to you could share your data with other third parties
+this privacy policy does not cover collection use of your data by third party add ons we urge you to consider privacy policies governing third party add ons
+if you object to your personal information being shared with these third parties please uninstall add on in event installed from atlassian marketplace terminate your agreement with third party add on provider in event you have purchased direct integration
+links to third party sites atlassian services may include links to other websites whose privacy practices may differ from ours
+if you submit personal information to any of those sites your information is governed by their privacy policies
+we encourage you to carefully read privacy policy of any website you visit
+social media widgets atlassian services may contain social media features such as twitter tweet button
+these features may collect your ip address which page you are visiting on atlassian services may set cookie to enable feature to function properly
+social media features widgets are either hosted by third party hosted directly on our atlassian services
+your interactions with these features are governed by privacy policy of company providing it
+testimonials we may display personal testimonials of satisfied customers on atlassian services
+with your consent we may post your testimonial along with your name
+if you wish to update delete your testimonial you can contact us using information below
+compliance with laws law enforcement requests protection of our rights we may disclose your information including your personal information to third party if we believe that disclosure is reasonably necessary to comply with any applicable law regulation legal process governmental request b to enforce our agreements policies terms of service c to protect security integrity of atlassian s products services d to protect atlassian our customers public from harm illegal activities e to respond to emergency which we believe in good faith requires us to disclose information to assist in preventing death serious bodily injury of any person
+business transfers we may share transfer your information including your personal information in connection with during negotiations of any merger sale of company assets financing acquisition of all portion of our business to another company
+you will be notified via email prominent notice on atlassian services of any change in ownership uses of your personal information as well as any choices you may have regarding your personal information
+aggregated anonymized data we may also share aggregated anonymized information that does not directly identify you with third parties described above
+with your consent
+we will share your personal information with third parties when we have your consent to do so
+we do not share personal information about you with third parties for their marketing purposes including direct marketing purposes without your permission
+atlassian hosts data with hosting service providers in numerous countries including united states australia
+servers on which personal information is stored are kept in controlled environment
+while we take reasonable efforts to guard your personal information no security system is impenetrable due to inherent nature of internet as open global communications vehicle we cannot guarantee that information during transmission through internet while stored on our systems otherwise in our care will be absolutely safe from intrusion by others such as hackers
+in addition we cannot guarantee that any incidentally collected personal information you choose to store in websites saas products are maintained at levels of protection to meet specific needs obligations you may have relating to that information
+where data is transferred over internet as part of website saas product data is encrypted using industry standard ssl https
+where downloadable products are used responsibility of securing access to data you store in downloadable products rests with you not atlassian
+we strongly recommend that administrators of downloadable products configure ssl to prevent interception of data transmitted over networks to restrict access to databases other storage used to hold data
+you may opt out of receiving promotional communications from atlassian by using unsubscribe link within each email updating your email preferences at my atlassian com within your atlassian service account settings menu emailing us to have your contact information removed from our promotional email list registration database
+although opt out requests are usually processed immediately please allow ten business days for removal request to be processed
+even after you opt out from receiving promotional messages from us you will continue to receive transactional messages from us regarding atlassian s services
+you can opt out of some notification messages in your account settings
+you may be able to opt out of receiving personalized advertisements from companies who are members of network advertising initiative who subscribe to digital advertising alliance s self regulatory principles for online behavioral advertising
+for more information about this practice to understand your options please visit http www aboutads info http www networkadvertising org choices
+you may also use truste s preference manager at http preferences mgr truste com
+you may often correct update amend remove your personal information in your account settings by directing your query to your account administrator
+you may also contact support services contact us by postal mail using address listed below
+we will respond to your request for access within days
+you can often remove content using editing tools associated with that content
+in some cases you may need to contact your administrator to request they remove content
+you can contact us to request removal of personal information from atlassian community services
+you your administrator may be able to deactivate your atlassian services account
+if you can deactivate your own account you can most often do so in your account settings
+otherwise please contact your administrator
+to deactivate organization account please contact support services
+to deactivate account made for you without authorization please contact us at contact information below
+we will retain your account information for as long as your account is active as reasonably useful for commercial purposes as necessary to comply with our legal obligations resolve disputes enforce our agreements
+if your account is managed by administrator that account administrator may have control with regards to how your account information is retained deleted
+atlassian services are not directed to individuals under
+we do not knowingly collect personal information from children under
+if we become aware that child under has provided us with personal information we will take steps to delete such information
+if you become aware that child has provided us with personal information please contact our support services
+if you are visiting from european union other regions with laws governing data collection use please note that you are agreeing to transfer of your personal information to australia united states to us
+by providing your personal information you consent to any transfer processing in accordance with this policy
+truste privacy certification for hipchat
+atlassian s saas product named hipchat hipchat has received truste s privacy seal signifying that this privacy policy our practices have been reviewed for compliance with truste program viewable on validation page available by clicking on truste seal
+if you have any questions concerns about our data use practices pertaining to hipchat you can contact us using contact information located at bottom of this document
+if you have unresolved privacy data use concern pertaining to hipchat that we have not addressed satisfactorily please contact truste here
+please click here for fax postal mail information
+truste program covers our collection use disclosure of information through hipchat s website web application mobile application but not through any software downloaded from our site other hosted products
+e u
+safe harbor for hipchat
+hipchat complies with u s e u
+safe harbor framework u s swiss safe harbor framework as set forth by u s department of commerce regarding collection use retention of personal data from european union member countries
+atlassian has certified that it adheres to safe harbor privacy principles of notice choice onward transfer security data integrity access enforcement with respect to hipchat
+to learn more about safe harbor program to view atlassian s certification for hipchat please visit http www export gov safeharbor
+contact us
+atlassian pty ltd c o atlassian inc harrison street san francisco ca e mail privacy atlassian com
+view all products
+purchase product
+view all resources
+create support ticket
+view all products
+purchase product
+view all resources
+create support ticket
+this privacy policy explains what information atlassian pty ltd its related entities atlassian collect about you why what we do with that information how we share it how we handle content you place in our products services
+it also explains choices available to you regarding our use of your personal information how you can access update this information
+this privacy policy applies to information that we obtain through your use of atlassian services via device when you otherwise interact with atlassian
+atlassian services include our
+but does not include
+device is any computer used to access atlassian services including without limitation desktop laptop mobile phone tablet other consumer electronic device
+unless otherwise stated our saas products our downloadable products are treated same for purposes of this document
+by registering for using atlassian services you consent to collection transfer processing storage disclosure other uses described in this privacy policy
+add on bundle of code resources configuration files that can be used with atlassian product to add new functionality to change behavior of that product s existing features
+content any information data that you upload submit post create transmit store display in atlassian service
+downloadable products atlassian s downloadable software products mobile applications including add ons created by atlassian that are installed by customers on infrastructure of their choice
+downloadable products do not include add ons created by third parties even when they are accessed through atlassian com available through atlassian marketplace
+information all of different forms of data content information collected by us as described in this privacy policy
+personal information information that may be used to readily identify contact you as individual person such as name address email address phone number
+personal information does not include information that has been anonymized such that it does not allow for ready identification of specific individuals
+saas products atlassian s cloud hosted solutions as well as other atlassian hosted solutions that display link to this privacy policy such as hipchat bitbucket
+for avoidance of doubt if atlassian hosted solution displays link to different privacy policy then that other privacy policy shall apply
+websites atlassian s websites including but not limited to atlassian com marketplace atlassian com answers atlassian com confluence atlassian com support atlassian com hipchat com bitbucket org any related websites sub domains pages
+we may change this privacy policy from time to time
+if we make any changes we will notify you by revising effective starting date at top of this privacy policy
+if we make any material changes we will provide you with additional notice such as by adding notice on atlassian services homepages login screens by sending you email notification
+we encourage you to review our privacy policy whenever you use atlassian services to stay informed about our information practices ways you can help protect your privacy
+if you disagree with any changes to this privacy policy you will need to stop using atlassian services deactivate your account s as outlined below
+we collect following information
+account profile information we collect information about you your company as you register for account create modify your profile make purchases through use access interact with atlassian services including but not limited to when you upload download collaborate on share content
+information we collect includes
+you may provide this information directly when you enter it in atlassian services
+in some cases another user such as system administrator may create account on your behalf may provide your information including personal information most commonly when your company requests that you use our products
+we collect information under direction of our customers often have no direct relationship with individuals whose personal data we process
+if you are employee of one of our customers would no longer like us to process your information please contact your employer
+if you are providing information including personal information about someone else you must have authority to act for them to consent to collection use of their personal information as described in this privacy policy
+content we collect store content that you create input submit post upload transmit store display in process of using our saas products websites
+such content includes any personal information other sensitive information that you choose to include incidentally collected personal information
+other submissions we collect other data that you submit to our websites as you participate in any interactive features of atlassian services participate in survey contest promotion sweepstakes activity event apply for job request customer support communicate with us via third party social media sites otherwise communicate with us
+for example information regarding problem you are experiencing with atlassian product could be submitted to our support services posted in our public forums
+web logs as is true with most websites services delivered over internet we gather certain information store it in log files when you interact with our websites saas products
+this information includes internet protocol ip addresses as well as browser type internet service provider urls of referring exit pages operating system date time stamp information you search for locale language preferences identification numbers associated with your devices your mobile carrier system configuration information
+in case of our saas product urls you accessed therefore included in our log files include usernames as well as elements of content such as jira project names project keys status names jql filters confluence page titles space names as necessary for saas product to perform requested operations
+occasionally we connect personal information to information gathered in our log files as necessary to improve atlassian services for individual customers
+in such case we would treat combined information in accordance with this privacy policy
+analytics information from website saas products we collect analytics information when you use our websites saas products to help us improve our products services
+in saas products this analytics information consists of feature function of atlassian service being used associated license identifier sen domain name username ip address of individual who is using feature function which will include personal information if personal information was incorporated into username sizes original filenames of attachments additional information required to detail operation of function which parts of atlassian services are being affected
+for example
+as shown in examples above analytics information we collect includes elements of content related to function user is performing
+as such analytics information we collect may include personal information sensitive business information that user has included in content that user chose to upload submit post create transmit store display in atlassian service
+as of date this policy went into effect we use google analytics as analytics provider
+to learn more about privacy policy of google analytics refer to google s policies principles
+use google analytics opt out browser add on to prevent analytics information from being sent to google analytics
+analytics information derived from content
+analytics information also consists of data we collect as result of running queries against content across our user base for purposes of generating usage data
+usage data is aggregated data about group category of services features users that does not contain personal information
+for example we may query content to determine most common types of workflows that users use e g
+what percentage of all instances use itil style workflows
+by searching for most common workflow names we may query content to determine most popular job titles for confluence users in order to better understand composition of our user base
+though we may happen upon sensitive personal information as we compile usage data from content across user instances this is byproduct of our efforts to understand broader patterns trends
+it is not concerted effort by us to examine content of any particular customer
+analytics information from downloadable products we collect analytics information when you use our downloadable products to help us improve our products services
+our downloadable products contain feature that sends information about technical operation of downloadable products on your systems system information to us
+system information includes information about server environment in which downloadable product is operating os type version jvm version java environment properties cpu type ram allocation language locale settings database type version disk utilization as well as b user client information for example browser type version native client type version client device specifications e g
+screen resolution os version device type etc
+in addition we collect analytics information from downloadable products that is subset of analytics information described above for websites saas products
+as with websites saas products analytics information we collect includes elements of content related to function user is performing but with important caveat
+with downloadable products before sending information to atlassian s servers we filter analytics information to remove elements that we believe may contain sensitive personal information
+for example we conduct one way hash of usernames hostnames before collecting them we filter any content elements we collect to discard all words except those on list of common business it terminology
+you can disable our collection of analytics information from downloadable products via administrator settings by blocking collection at local network level
+installer analytics software updates license information from downloadable products during installation of our downloadable products installer sends analytics information to atlassian to allow us to understand where in installation process users are experiencing trouble dropping out
+our downloadable products also communicate with atlassian servers for licensing purposes as well as to check for updates patches compatibility with add ons
+examples of information we collect for these purposes include name version of downloadable product server id sen ip address of customer instance
+cookies other tracking technologies atlassian our third party partners such as our advertising analytics partners use various technologies to collect information such as cookies web beacons
+cookies are small data files stored on your hard drive in device memory
+we use cookies to improve customize atlassian services your experience to allow you to access use websites saas products without re entering your username password to count visits understand which areas features of websites saas products are most popular
+you can instruct your browser by changing its options to stop accepting cookies to prompt you before accepting cookie from websites you visit
+if you do not accept cookies however you may not be able to use all aspects of our websites saas products
+atlassian our third party partners also collect information using web beacons also known as tracking pixels
+web beacons are electronic images that may be used in our websites saas products in emails that help us to deliver cookies count visits understand usage campaign effectiveness determine whether email has been opened acted upon
+atlassian our third party partners also use javascript e tags flash cookies html local storage to collect information about your online activities over time across different websites online services
+many browsers include their own management tools for removing html local storage objects
+to manage flash cookies please click here
+you may be able to opt out of receiving personalized advertisements as described below under your choices
+information from third party services we also obtain information from third parties combine that with information we collect through atlassian services
+for example we may have access to certain information from third party social media authentication service if you log into atlassian services through service otherwise provide us with access to information from service
+any access that we may have to such information from third party social authentication service is in accordance with authorization procedures determined by that service
+by authorizing us to connect with third party service you authorize us to access store your name email address es current city profile picture url other information that third party service makes available to us to use disclose it in accordance with this privacy policy
+you should check your privacy settings on these third party services to understand change information sent to us through these services
+general uses we use information we collect about you including personal information to extent applicable for variety of purposes including to
+notwithstanding foregoing we will not use personal information appearing in our analytics logs web logs for any purpose
+use of information collected through our atlassian services shall be limited to purposes disclosed in this policy
+compiling aggregate analytics information because our saas products downloadable products are some of most configurable in market we make extensive use of analytics information including log configuration data to understand how our products are being configured used how they can be improved for benefit of all of our users to develop new products services
+as such we generate usage data as defined above from web logs analytics logs described above including content elements captured in such logs as well as from content stored in websites saas products
+we will not share disclose any of your personal information content with third parties except as described in this policy
+we do not sell your personal information content
+your use when you use atlassian services content you provide will be displayed back to you
+certain features of atlassian services allow you your administrator to make some of your content public in which case it will become readily accessible to anyone
+we urge you to consider sensitivity of any data you input into atlassian services
+collaboration as natural result of using atlassian services you may create content grant permission to other atlassian users to access it for purposes of collaboration
+some of collaboration features of atlassian services display your profile information including personal information included in your profile to users with whom you have shared your content
+where this information is sensitive we urge you to use various security privacy features of atlassian services to limit those who can access such information
+your sharing settings may make any information including some personal information that you submit to atlassian services visible to public unless submitted to restricted area
+access by your system administrator you should be aware that administrator of your instance of atlassian services may be able to
+atlassian community our websites offer publicly accessible community services such as blogs forums bug trackers wikis
+you should be aware that any content you provide in these areas may be read collected used by others who access them
+your posts may remain even after you cancel your account
+to request removal of your personal information from atlassian community please contact us using information listed below
+in some cases we may not be able to remove your personal information in which case we will let you know if we are unable to why
+service providers business partners others we work with third party service providers to provide website application development hosting maintenance back up storage virtual infrastructure payment processing analysis other services for us
+these service providers may have access to process your information for purpose of providing those services for us
+some of our pages utilize white labeling techniques to serve content from our service providers while providing look feel of our site
+please be aware that you are providing your information to these third parties acting on behalf of atlassian
+third party add ons you may choose to make use of third party add ons in conjunction with atlassian services
+third party add ons are software written by third parties to which you grant access privileges to your content which may include your personal information
+when access is granted your content is shared with third party
+third party add on policies procedures are not controlled by atlassian even though third party add on may be available through atlassian services
+third parties who have been granted access to your content through add ons could use this data to contact you market services to you could share your data with other third parties
+this privacy policy does not cover collection use of your data by third party add ons we urge you to consider privacy policies governing third party add ons
+if you object to your personal information being shared with these third parties please uninstall add on in event installed from atlassian marketplace terminate your agreement with third party add on provider in event you have purchased direct integration
+links to third party sites atlassian services may include links to other websites whose privacy practices may differ from ours
+if you submit personal information to any of those sites your information is governed by their privacy policies
+we encourage you to carefully read privacy policy of any website you visit
+social media widgets atlassian services may contain social media features such as twitter tweet button
+these features may collect your ip address which page you are visiting on atlassian services may set cookie to enable feature to function properly
+social media features widgets are either hosted by third party hosted directly on our atlassian services
+your interactions with these features are governed by privacy policy of company providing it
+testimonials we may display personal testimonials of satisfied customers on atlassian services
+with your consent we may post your testimonial along with your name
+if you wish to update delete your testimonial you can contact us using information below
+compliance with laws law enforcement requests protection of our rights we may disclose your information including your personal information to third party if we believe that disclosure is reasonably necessary to comply with any applicable law regulation legal process governmental request b to enforce our agreements policies terms of service c to protect security integrity of atlassian s products services d to protect atlassian our customers public from harm illegal activities e to respond to emergency which we believe in good faith requires us to disclose information to assist in preventing death serious bodily injury of any person
+business transfers we may share transfer your information including your personal information in connection with during negotiations of any merger sale of company assets financing acquisition of all portion of our business to another company
+you will be notified via email prominent notice on atlassian services of any change in ownership uses of your personal information as well as any choices you may have regarding your personal information
+aggregated anonymized data we may also share aggregated anonymized information that does not directly identify you with third parties described above
+with your consent
+we will share your personal information with third parties when we have your consent to do so
+we do not share personal information about you with third parties for their marketing purposes including direct marketing purposes without your permission
+atlassian hosts data with hosting service providers in numerous countries including united states australia
+servers on which personal information is stored are kept in controlled environment
+while we take reasonable efforts to guard your personal information no security system is impenetrable due to inherent nature of internet as open global communications vehicle we cannot guarantee that information during transmission through internet while stored on our systems otherwise in our care will be absolutely safe from intrusion by others such as hackers
+in addition we cannot guarantee that any incidentally collected personal information you choose to store in websites saas products are maintained at levels of protection to meet specific needs obligations you may have relating to that information
+where data is transferred over internet as part of website saas product data is encrypted using industry standard ssl https
+where downloadable products are used responsibility of securing access to data you store in downloadable products rests with you not atlassian
+we strongly recommend that administrators of downloadable products configure ssl to prevent interception of data transmitted over networks to restrict access to databases other storage used to hold data
+you may opt out of receiving promotional communications from atlassian by using unsubscribe link within each email updating your email preferences at my atlassian com within your atlassian service account settings menu emailing us to have your contact information removed from our promotional email list registration database
+although opt out requests are usually processed immediately please allow ten business days for removal request to be processed
+even after you opt out from receiving promotional messages from us you will continue to receive transactional messages from us regarding atlassian s services
+you can opt out of some notification messages in your account settings
+you may be able to opt out of receiving personalized advertisements from companies who are members of network advertising initiative who subscribe to digital advertising alliance s self regulatory principles for online behavioral advertising
+for more information about this practice to understand your options please visit http www aboutads info http www networkadvertising org choices
+you may also use truste s preference manager at http preferences mgr truste com
+you may often correct update amend remove your personal information in your account settings by directing your query to your account administrator
+you may also contact support services contact us by postal mail using address listed below
+we will respond to your request for access within days
+you can often remove content using editing tools associated with that content
+in some cases you may need to contact your administrator to request they remove content
+you can contact us to request removal of personal information from atlassian community services
+you your administrator may be able to deactivate your atlassian services account
+if you can deactivate your own account you can most often do so in your account settings
+otherwise please contact your administrator
+to deactivate organization account please contact support services
+to deactivate account made for you without authorization please contact us at contact information below
+we will retain your account information for as long as your account is active as reasonably useful for commercial purposes as necessary to comply with our legal obligations resolve disputes enforce our agreements
+if your account is managed by administrator that account administrator may have control with regards to how your account information is retained deleted
+atlassian services are not directed to individuals under
+we do not knowingly collect personal information from children under
+if we become aware that child under has provided us with personal information we will take steps to delete such information
+if you become aware that child has provided us with personal information please contact our support services
+if you are visiting from european union other regions with laws governing data collection use please note that you are agreeing to transfer of your personal information to australia united states to us
+by providing your personal information you consent to any transfer processing in accordance with this policy
+truste privacy certification for hipchat
+atlassian s saas product named hipchat hipchat has received truste s privacy seal signifying that this privacy policy our practices have been reviewed for compliance with truste program viewable on validation page available by clicking on truste seal
+if you have any questions concerns about our data use practices pertaining to hipchat you can contact us using contact information located at bottom of this document
+if you have unresolved privacy data use concern pertaining to hipchat that we have not addressed satisfactorily please contact truste here
+please click here for fax postal mail information
+truste program covers our collection use disclosure of information through hipchat s website web application mobile application but not through any software downloaded from our site other hosted products
+e u
+safe harbor for hipchat
+hipchat complies with u s e u
+safe harbor framework u s swiss safe harbor framework as set forth by u s department of commerce regarding collection use retention of personal data from european union member countries
+atlassian has certified that it adheres to safe harbor privacy principles of notice choice onward transfer security data integrity access enforcement with respect to hipchat
+to learn more about safe harbor program to view atlassian s certification for hipchat please visit http www export gov safeharbor
+contact us
+atlassian pty ltd c o atlassian inc harrison street san francisco ca e mail privacy atlassian com
+this privacy policy applies to information that we obtain through your use of atlassian services via device when you otherwise interact with atlassian
+atlassian services include our
+but does not include
+device is any computer used to access atlassian services including without limitation desktop laptop mobile phone tablet other consumer electronic device
+unless otherwise stated our saas products our downloadable products are treated same for purposes of this document
+by registering for using atlassian services you consent to collection transfer processing storage disclosure other uses described in this privacy policy
+add on bundle of code resources configuration files that can be used with atlassian product to add new functionality to change behavior of that product s existing features
+content any information data that you upload submit post create transmit store display in atlassian service
+downloadable products atlassian s downloadable software products mobile applications including add ons created by atlassian that are installed by customers on infrastructure of their choice
+downloadable products do not include add ons created by third parties even when they are accessed through atlassian com available through atlassian marketplace
+information all of different forms of data content information collected by us as described in this privacy policy
+personal information information that may be used to readily identify contact you as individual person such as name address email address phone number
+personal information does not include information that has been anonymized such that it does not allow for ready identification of specific individuals
+saas products atlassian s cloud hosted solutions as well as other atlassian hosted solutions that display link to this privacy policy such as hipchat bitbucket
+for avoidance of doubt if atlassian hosted solution displays link to different privacy policy then that other privacy policy shall apply
+websites atlassian s websites including but not limited to atlassian com marketplace atlassian com answers atlassian com confluence atlassian com support atlassian com hipchat com bitbucket org any related websites sub domains pages
+we collect following information
+account profile information we collect information about you your company as you register for account create modify your profile make purchases through use access interact with atlassian services including but not limited to when you upload download collaborate on share content
+information we collect includes
+you may provide this information directly when you enter it in atlassian services
+in some cases another user such as system administrator may create account on your behalf may provide your information including personal information most commonly when your company requests that you use our products
+we collect information under direction of our customers often have no direct relationship with individuals whose personal data we process
+if you are employee of one of our customers would no longer like us to process your information please contact your employer
+if you are providing information including personal information about someone else you must have authority to act for them to consent to collection use of their personal information as described in this privacy policy
+content we collect store content that you create input submit post upload transmit store display in process of using our saas products websites
+such content includes any personal information other sensitive information that you choose to include incidentally collected personal information
+other submissions we collect other data that you submit to our websites as you participate in any interactive features of atlassian services participate in survey contest promotion sweepstakes activity event apply for job request customer support communicate with us via third party social media sites otherwise communicate with us
+for example information regarding problem you are experiencing with atlassian product could be submitted to our support services posted in our public forums
+web logs as is true with most websites services delivered over internet we gather certain information store it in log files when you interact with our websites saas products
+this information includes internet protocol ip addresses as well as browser type internet service provider urls of referring exit pages operating system date time stamp information you search for locale language preferences identification numbers associated with your devices your mobile carrier system configuration information
+in case of our saas product urls you accessed therefore included in our log files include usernames as well as elements of content such as jira project names project keys status names jql filters confluence page titles space names as necessary for saas product to perform requested operations
+occasionally we connect personal information to information gathered in our log files as necessary to improve atlassian services for individual customers
+in such case we would treat combined information in accordance with this privacy policy
+analytics information from website saas products we collect analytics information when you use our websites saas products to help us improve our products services
+in saas products this analytics information consists of feature function of atlassian service being used associated license identifier sen domain name username ip address of individual who is using feature function which will include personal information if personal information was incorporated into username sizes original filenames of attachments additional information required to detail operation of function which parts of atlassian services are being affected
+for example
+as shown in examples above analytics information we collect includes elements of content related to function user is performing
+as such analytics information we collect may include personal information sensitive business information that user has included in content that user chose to upload submit post create transmit store display in atlassian service
+as of date this policy went into effect we use google analytics as analytics provider
+to learn more about privacy policy of google analytics refer to google s policies principles
+use google analytics opt out browser add on to prevent analytics information from being sent to google analytics
+analytics information derived from content
+analytics information also consists of data we collect as result of running queries against content across our user base for purposes of generating usage data
+usage data is aggregated data about group category of services features users that does not contain personal information
+for example we may query content to determine most common types of workflows that users use e g
+what percentage of all instances use itil style workflows
+by searching for most common workflow names we may query content to determine most popular job titles for confluence users in order to better understand composition of our user base
+though we may happen upon sensitive personal information as we compile usage data from content across user instances this is byproduct of our efforts to understand broader patterns trends
+it is not concerted effort by us to examine content of any particular customer
+analytics information from downloadable products we collect analytics information when you use our downloadable products to help us improve our products services
+our downloadable products contain feature that sends information about technical operation of downloadable products on your systems system information to us
+system information includes information about server environment in which downloadable product is operating os type version jvm version java environment properties cpu type ram allocation language locale settings database type version disk utilization as well as b user client information for example browser type version native client type version client device specifications e g
+screen resolution os version device type etc
+in addition we collect analytics information from downloadable products that is subset of analytics information described above for websites saas products
+as with websites saas products analytics information we collect includes elements of content related to function user is performing but with important caveat
+with downloadable products before sending information to atlassian s servers we filter analytics information to remove elements that we believe may contain sensitive personal information
+for example we conduct one way hash of usernames hostnames before collecting them we filter any content elements we collect to discard all words except those on list of common business it terminology
+you can disable our collection of analytics information from downloadable products via administrator settings by blocking collection at local network level
+installer analytics software updates license information from downloadable products during installation of our downloadable products installer sends analytics information to atlassian to allow us to understand where in installation process users are experiencing trouble dropping out
+our downloadable products also communicate with atlassian servers for licensing purposes as well as to check for updates patches compatibility with add ons
+examples of information we collect for these purposes include name version of downloadable product server id sen ip address of customer instance
+cookies other tracking technologies atlassian our third party partners such as our advertising analytics partners use various technologies to collect information such as cookies web beacons
+cookies are small data files stored on your hard drive in device memory
+we use cookies to improve customize atlassian services your experience to allow you to access use websites saas products without re entering your username password to count visits understand which areas features of websites saas products are most popular
+you can instruct your browser by changing its options to stop accepting cookies to prompt you before accepting cookie from websites you visit
+if you do not accept cookies however you may not be able to use all aspects of our websites saas products
+atlassian our third party partners also collect information using web beacons also known as tracking pixels
+web beacons are electronic images that may be used in our websites saas products in emails that help us to deliver cookies count visits understand usage campaign effectiveness determine whether email has been opened acted upon
+atlassian our third party partners also use javascript e tags flash cookies html local storage to collect information about your online activities over time across different websites online services
+many browsers include their own management tools for removing html local storage objects
+to manage flash cookies please click here
+you may be able to opt out of receiving personalized advertisements as described below under your choices
+general uses we use information we collect about you including personal information to extent applicable for variety of purposes including to
+notwithstanding foregoing we will not use personal information appearing in our analytics logs web logs for any purpose
+use of information collected through our atlassian services shall be limited to purposes disclosed in this policy
+compiling aggregate analytics information because our saas products downloadable products are some of most configurable in market we make extensive use of analytics information including log configuration data to understand how our products are being configured used how they can be improved for benefit of all of our users to develop new products services
+as such we generate usage data as defined above from web logs analytics logs described above including content elements captured in such logs as well as from content stored in websites saas products
+we will not share disclose any of your personal information content with third parties except as described in this policy
+we do not sell your personal information content
+your use when you use atlassian services content you provide will be displayed back to you
+certain features of atlassian services allow you your administrator to make some of your content public in which case it will become readily accessible to anyone
+we urge you to consider sensitivity of any data you input into atlassian services
+collaboration as natural result of using atlassian services you may create content grant permission to other atlassian users to access it for purposes of collaboration
+some of collaboration features of atlassian services display your profile information including personal information included in your profile to users with whom you have shared your content
+where this information is sensitive we urge you to use various security privacy features of atlassian services to limit those who can access such information
+your sharing settings may make any information including some personal information that you submit to atlassian services visible to public unless submitted to restricted area
+access by your system administrator you should be aware that administrator of your instance of atlassian services may be able to
+atlassian community our websites offer publicly accessible community services such as blogs forums bug trackers wikis
+you should be aware that any content you provide in these areas may be read collected used by others who access them
+your posts may remain even after you cancel your account
+to request removal of your personal information from atlassian community please contact us using information listed below
+in some cases we may not be able to remove your personal information in which case we will let you know if we are unable to why
+service providers business partners others we work with third party service providers to provide website application development hosting maintenance back up storage virtual infrastructure payment processing analysis other services for us
+these service providers may have access to process your information for purpose of providing those services for us
+some of our pages utilize white labeling techniques to serve content from our service providers while providing look feel of our site
+please be aware that you are providing your information to these third parties acting on behalf of atlassian
+third party add ons you may choose to make use of third party add ons in conjunction with atlassian services
+third party add ons are software written by third parties to which you grant access privileges to your content which may include your personal information
+when access is granted your content is shared with third party
+third party add on policies procedures are not controlled by atlassian even though third party add on may be available through atlassian services
+third parties who have been granted access to your content through add ons could use this data to contact you market services to you could share your data with other third parties
+this privacy policy does not cover collection use of your data by third party add ons we urge you to consider privacy policies governing third party add ons
+if you object to your personal information being shared with these third parties please uninstall add on in event installed from atlassian marketplace terminate your agreement with third party add on provider in event you have purchased direct integration
+links to third party sites atlassian services may include links to other websites whose privacy practices may differ from ours
+if you submit personal information to any of those sites your information is governed by their privacy policies
+we encourage you to carefully read privacy policy of any website you visit
+social media widgets atlassian services may contain social media features such as twitter tweet button
+these features may collect your ip address which page you are visiting on atlassian services may set cookie to enable feature to function properly
+social media features widgets are either hosted by third party hosted directly on our atlassian services
+your interactions with these features are governed by privacy policy of company providing it
+testimonials we may display personal testimonials of satisfied customers on atlassian services
+with your consent we may post your testimonial along with your name
+if you wish to update delete your testimonial you can contact us using information below
+compliance with laws law enforcement requests protection of our rights we may disclose your information including your personal information to third party if we believe that disclosure is reasonably necessary to comply with any applicable law regulation legal process governmental request b to enforce our agreements policies terms of service c to protect security integrity of atlassian s products services d to protect atlassian our customers public from harm illegal activities e to respond to emergency which we believe in good faith requires us to disclose information to assist in preventing death serious bodily injury of any person
+business transfers we may share transfer your information including your personal information in connection with during negotiations of any merger sale of company assets financing acquisition of all portion of our business to another company
+you will be notified via email prominent notice on atlassian services of any change in ownership uses of your personal information as well as any choices you may have regarding your personal information
+aggregated anonymized data we may also share aggregated anonymized information that does not directly identify you with third parties described above
+with your consent
+we will share your personal information with third parties when we have your consent to do so
+atlassian hosts data with hosting service providers in numerous countries including united states australia
+servers on which personal information is stored are kept in controlled environment
+while we take reasonable efforts to guard your personal information no security system is impenetrable due to inherent nature of internet as open global communications vehicle we cannot guarantee that information during transmission through internet while stored on our systems otherwise in our care will be absolutely safe from intrusion by others such as hackers
+in addition we cannot guarantee that any incidentally collected personal information you choose to store in websites saas products are maintained at levels of protection to meet specific needs obligations you may have relating to that information
+where data is transferred over internet as part of website saas product data is encrypted using industry standard ssl https
+where downloadable products are used responsibility of securing access to data you store in downloadable products rests with you not atlassian
+we strongly recommend that administrators of downloadable products configure ssl to prevent interception of data transmitted over networks to restrict access to databases other storage used to hold data
+you may often correct update amend remove your personal information in your account settings by directing your query to your account administrator
+you may also contact support services contact us by postal mail using address listed below
+we will respond to your request for access within days
+you can often remove content using editing tools associated with that content
+in some cases you may need to contact your administrator to request they remove content
+you can contact us to request removal of personal information from atlassian community services
+you your administrator may be able to deactivate your atlassian services account
+if you can deactivate your own account you can most often do so in your account settings
+otherwise please contact your administrator
+to deactivate organization account please contact support services
+to deactivate account made for you without authorization please contact us at contact information below
+we will retain your account information for as long as your account is active as reasonably useful for commercial purposes as necessary to comply with our legal obligations resolve disputes enforce our agreements
+if your account is managed by administrator that account administrator may have control with regards to how your account information is retained deleted
+truste privacy certification for hipchat
+atlassian s saas product named hipchat hipchat has received truste s privacy seal signifying that this privacy policy our practices have been reviewed for compliance with truste program viewable on validation page available by clicking on truste seal
+if you have any questions concerns about our data use practices pertaining to hipchat you can contact us using contact information located at bottom of this document
+if you have unresolved privacy data use concern pertaining to hipchat that we have not addressed satisfactorily please contact truste here
+please click here for fax postal mail information
+truste program covers our collection use disclosure of information through hipchat s website web application mobile application but not through any software downloaded from our site other hosted products
+e u
+safe harbor for hipchat
+hipchat complies with u s e u
+safe harbor framework u s swiss safe harbor framework as set forth by u s department of commerce regarding collection use retention of personal data from european union member countries
+atlassian has certified that it adheres to safe harbor privacy principles of notice choice onward transfer security data integrity access enforcement with respect to hipchat
+to learn more about safe harbor program to view atlassian s certification for hipchat please visit http www export gov safeharbor
+contact us
+atlassian pty ltd c o atlassian inc harrison street san francisco ca e mail privacy atlassian com

@@ -1,0 +1,20 @@
+from flask import Flask,render_template,flash,redirect,url_for,session ,logging,request
+import analyzerSKL
+
+app = Flask(__name__)
+
+@app.route("/")
+def hello():
+    return render_template('totets.html')
+
+
+@app.route('/submit', methods=['POST'])
+def submit():
+    InputFromBrowser=request.form['text']
+
+    output=analyzerSKL.getFinalText(InputFromBrowser)
+
+    return render_template('outputpage.html',text=output)
+
+if __name__ == "__main__":
+    app.run(debug=True)

@@ -1,0 +1,110 @@
+view all products
+purchase product
+view all resources
+create support ticket
+effective starting april
+your use of bitbucket is subject to terms of atlassian customer agreement agreement as well as following additional terms
+any capitalized terms used but not defined below have meanings in agreement
+
+repositories
+data that you upload to bitbucket are stored in repositories you designate whether repositories are public meaning that anyone coming to bitbucket website can view them private meaning that access to those repositories will be limited to those who have permission to access repositories
+for each public repository that you maintain you must indicate license under which you are making contents of repository available to others as well as license under which you will accept contributions to your repository
+
+storage rules
+we do not set pre defined storage limits on your data in bitbucket
+however we do enforce parameters described in bitbucket documentation to ensure that you do not use bitbucket in way that consumes disproportionate amount of system resources cpu s memory disk space bandwidth etc
+that would adversely impact performance operation of bitbucket for other bitbucket users
+similarly since bitbucket is designed to be used as source code repository we reserve right to remove any other content such as music video particularly if content is consuming disproportionate amount of storage
+please note that since we do not maintain access to your repositories any removal of your data under section removals suspension of agreement means removal of entire repository in which offending data resides not just offending portions
+
+accessing repositories
+if you are accessing code in someone else s repository you should carefully read all licenses applicable to that repository before using contributing any code
+you acknowledge that all code made available through bitbucket is responsibility of account owner controlling particular repository
+atlassian is not licensor of any third party code made available through bitbucket takes no responsibility for such code
+
+granting permissions
+be careful about granting permissions to your repositories
+once you grant such permissions we will not be able to prevent those users from taking actions allowed under those permissions even if you don t approve of those actions
+be especially careful about granting administrative access to your repositories as some of those actions may be irreversible
+for example if you grant someone permission that allows them to move content in your repository to another account we will not be able to reach into that other user s account without their permission to recover data as we are not in position to arbitrate disputes among our users
+in that case your only recourse may be requesting takedown under our policy regarding reporting copyright trademark violations pursuing legal action against other user directly
+effective starting may
+your use of hipchat is subject to terms of atlassian customer agreement agreement as well as following additional terms
+any capitalized terms used but not defined below have meanings in agreement
+
+responsibility for user consent
+your administrators may have ability to access monitor use disclose data available to hipchat users within users hipchat accounts including chats chat history file attachments
+you will obtain maintain all required consents from your hipchat users to allow you to access monitor use disclose this data b atlassian to provide you with ability to do so c atlassian to provide hipchat service to you
+
+chat history
+by using hipchat you consent to storage of your chat history by us
+your chat history is saved as default option
+you may change your options through product
+effective starting april
+your use of atlassian cloud is subject to terms of atlassian customer agreement agreement as well as following additional terms
+any capitalized terms used but not defined below have meanings in agreement
+bamboo
+bamboo cloud requires amazon s elastic cloud hosted service ec in order to operate
+ec allows you to use elastic bamboo which dynamically creates runs remote agents in amazon elastic compute cloud
+you must register with amazon web hosted services aws in order to access ec
+to be clear ec is not part of hosted services fees paid to atlassian do not include fees for ec
+if you register for ec you will be charged directly by aws will be solely responsible for payment of all fees to aws
+additional information about bamboo cloud ec is available at following sites
+
+view all products
+purchase product
+view all resources
+create support ticket
+view all products
+purchase product
+view all resources
+create support ticket
+effective starting april
+your use of bitbucket is subject to terms of atlassian customer agreement agreement as well as following additional terms
+any capitalized terms used but not defined below have meanings in agreement
+
+repositories
+data that you upload to bitbucket are stored in repositories you designate whether repositories are public meaning that anyone coming to bitbucket website can view them private meaning that access to those repositories will be limited to those who have permission to access repositories
+for each public repository that you maintain you must indicate license under which you are making contents of repository available to others as well as license under which you will accept contributions to your repository
+
+storage rules
+we do not set pre defined storage limits on your data in bitbucket
+however we do enforce parameters described in bitbucket documentation to ensure that you do not use bitbucket in way that consumes disproportionate amount of system resources cpu s memory disk space bandwidth etc
+that would adversely impact performance operation of bitbucket for other bitbucket users
+similarly since bitbucket is designed to be used as source code repository we reserve right to remove any other content such as music video particularly if content is consuming disproportionate amount of storage
+please note that since we do not maintain access to your repositories any removal of your data under section removals suspension of agreement means removal of entire repository in which offending data resides not just offending portions
+
+accessing repositories
+if you are accessing code in someone else s repository you should carefully read all licenses applicable to that repository before using contributing any code
+you acknowledge that all code made available through bitbucket is responsibility of account owner controlling particular repository
+atlassian is not licensor of any third party code made available through bitbucket takes no responsibility for such code
+
+granting permissions
+be careful about granting permissions to your repositories
+once you grant such permissions we will not be able to prevent those users from taking actions allowed under those permissions even if you don t approve of those actions
+be especially careful about granting administrative access to your repositories as some of those actions may be irreversible
+for example if you grant someone permission that allows them to move content in your repository to another account we will not be able to reach into that other user s account without their permission to recover data as we are not in position to arbitrate disputes among our users
+in that case your only recourse may be requesting takedown under our policy regarding reporting copyright trademark violations pursuing legal action against other user directly
+effective starting may
+your use of hipchat is subject to terms of atlassian customer agreement agreement as well as following additional terms
+any capitalized terms used but not defined below have meanings in agreement
+
+responsibility for user consent
+your administrators may have ability to access monitor use disclose data available to hipchat users within users hipchat accounts including chats chat history file attachments
+you will obtain maintain all required consents from your hipchat users to allow you to access monitor use disclose this data b atlassian to provide you with ability to do so c atlassian to provide hipchat service to you
+
+chat history
+by using hipchat you consent to storage of your chat history by us
+your chat history is saved as default option
+you may change your options through product
+effective starting april
+your use of atlassian cloud is subject to terms of atlassian customer agreement agreement as well as following additional terms
+any capitalized terms used but not defined below have meanings in agreement
+bamboo
+bamboo cloud requires amazon s elastic cloud hosted service ec in order to operate
+ec allows you to use elastic bamboo which dynamically creates runs remote agents in amazon elastic compute cloud
+you must register with amazon web hosted services aws in order to access ec
+to be clear ec is not part of hosted services fees paid to atlassian do not include fees for ec
+if you register for ec you will be charged directly by aws will be solely responsible for payment of all fees to aws
+additional information about bamboo cloud ec is available at following sites
+

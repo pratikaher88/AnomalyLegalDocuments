@@ -1,0 +1,273 @@
+by using github com web site service any services of github inc github you are agreeing to be bound by following terms conditions terms of service
+if you are entering into this agreement on behalf of company other legal entity you represent that you have authority to bind such entity its affiliates all users who access our services through your account to these terms conditions in which case terms you your shall refer to such entity its affiliates users associated with it
+if you do not have such authority if you do not agree with these terms conditions you must not accept this agreement may not use services
+please note that if you are accessing any github service in your capacity as government entity there are special terms that may apply to you
+please see section g below for more details
+if github makes material changes to these terms we will notify you by email by posting notice on our site before changes are effective
+any new features that augment enhance current service including release of new tools resources shall be subject to terms of service
+continued use of service after any such changes shall constitute your consent to such changes
+you can review most current version of terms of service at any time at https github com site terms
+violation of any of terms below will result in termination of your account
+while github prohibits such conduct content on service you understand agree that github cannot be responsible for content posted on service you nonetheless may be exposed to such materials
+you agree to use service at your own risk
+you must be years older to use this service
+you must be human
+accounts registered by bots other automated methods are not permitted
+you must provide your name valid email address any other information requested in order to complete signup process
+your login may only be used by one person single login shared by multiple people is not permitted
+you may create separate logins for as many people as your plan allows
+you are responsible for maintaining security of your account password
+github cannot will not be liable for any loss damage from your failure to comply with this security obligation
+you are responsible for all content posted activity that occurs under your account even when content is posted by others who have accounts under your account
+one person legal entity may not maintain more than one free account
+you may not use service for any illegal unauthorized purpose
+you must not in use of service violate any laws in your jurisdiction including but not limited to copyright trademark laws
+customers may access their github account data via api application program interface
+any use of api including use of api through third party product that accesses github is bound by these terms of service plus following specific terms
+you expressly understand agree that github shall not be liable for any direct indirect incidental special consequential exemplary damages including but not limited to damages for loss of profits goodwill use data other intangible losses even if github has been advised of possibility of such damages resulting from your use of api third party products that access data via api
+abuse excessively frequent requests to github via api may result in temporary permanent suspension of your account s access to api
+github in its sole discretion will determine abuse excessive usage of api
+github will make reasonable attempt via email to warn account owner prior to suspension
+github reserves right at any time to modify discontinue temporarily permanently your access to api any part thereof with without notice
+all paid plans must enter valid payment account
+free accounts are not required to provide payment account information
+upgrade from free plan to any paying plan will immediately bill you
+for monthly payment plans service is billed in advance on monthly basis is non refundable
+there will be no refunds credits for partial months of service upgrade downgrade refunds refunds for months unused with open account
+in order to treat everyone equally no exceptions will be made
+when changing from monthly billing cycle to yearly billing cycle github will bill for full year at next monthly billing date
+all fees are exclusive of all taxes levies duties imposed by taxing authorities you shall be responsible for payment of all such taxes levies duties excluding only united states federal state taxes
+for any upgrade downgrade in plan level while on monthly billing cycle credit card that you provided will automatically be charged new rate on your next billing cycle
+for upgrades downgrades while on yearly plan github will immediately charge refund difference in plan cost prorated for remaining time in your yearly billing cycle
+downgrading your service may cause loss of content features capacity of your account
+github does not accept any liability for such loss
+you are solely responsible for properly canceling your account
+email phone request to cancel your account is not considered cancellation
+you can cancel your account at any time by clicking on account link in global navigation bar at top of screen
+account screen provides simple no questions asked cancellation link
+all of your content will be immediately deleted from service upon cancellation
+this information can not be recovered once your account is cancelled
+if you cancel service before end of your current paid up month your cancellation will take effect immediately you will not be charged again
+github in its sole discretion has right to suspend terminate your account refuse any all current future use of service any other github service for any reason at any time
+such termination of service will result in deactivation deletion of your account your access to your account forfeiture relinquishment of all content in your account
+github reserves right to refuse service to anyone for any reason at any time
+in event that github takes action to suspend terminate account we will make reasonable effort to provide affected account owner with copy of their account contents upon request unless account was suspended terminated due to unlawful conduct
+github reserves right at any time from time to time to modify discontinue temporarily permanently service any part thereof with without notice
+prices of all services including but not limited to monthly subscription plan fees to service are subject to change upon days notice from us
+such notice may be provided at any time by posting changes to github site github com service itself
+github shall not be liable to you to any third party for any modification price change suspension discontinuance of service
+we claim no intellectual property rights over material you provide to service
+your profile materials uploaded remain yours
+however by setting your pages to be viewed publicly you agree to allow others to view your content
+by setting your repositories to be viewed publicly you agree to allow others to view fork your repositories
+github does not pre screen content but github its designee have right but not obligation in their sole discretion to refuse remove any content that is available via service
+you shall defend github against any claim demand suit proceeding made brought against github by third party alleging that your content your use of service in violation of this agreement infringes misappropriates intellectual property rights of third party violates applicable law shall indemnify github for any damages finally awarded against for reasonable attorney s fees incurred by github in connection with any such claim demand suit proceeding provided that github promptly gives you written notice of claim demand suit proceeding b gives you sole control of defense settlement of claim demand suit proceeding provided that you may not settle any claim demand suit proceeding unless settlement unconditionally releases github of all liability c provides to you all reasonable assistance at your expense
+look feel of service is copyright github inc all rights reserved
+you may not duplicate copy reuse any portion of html css javascript visual design elements concepts without express written permission from github
+your use of service is at your sole risk
+service is provided on as is as available basis
+support for github services is only available in english via email
+you understand that github uses third party vendors hosting partners to provide necessary hardware software networking storage related technology required to run service
+you must not modify adapt hack service modify another website so as to falsely imply that it is associated with service github any other github service
+you may use github pages static hosting service solely as permitted intended to host your organization pages personal pages project pages for no other purpose
+you may not use github pages in violation of github s trademark other rights in violation of applicable law
+github reserves right at all times to reclaim any github subdomain without liability to you
+you agree not to reproduce duplicate copy sell resell exploit any portion of service use of service access to service without express written permission by github
+we may but have no obligation to remove content accounts containing content that we determine in our sole discretion are unlawful offensive threatening libelous defamatory pornographic obscene otherwise objectionable violates any party s intellectual property these terms of service
+verbal physical written other abuse including threats of abuse retribution of any github customer employee member officer will result in immediate account termination
+you understand that technical processing transmission of service including your content may be transferred unencrypted involve transmissions over various networks b changes to conform adapt to technical requirements of connecting networks devices
+you must not upload post host transmit unsolicited email smss spam messages
+you must not transmit any worms viruses any code of destructive nature
+if your bandwidth usage significantly exceeds average bandwidth usage as determined solely by github of other github customers we reserve right to immediately disable your account throttle your file hosting until you can reduce your bandwidth consumption
+github does not warrant that i service will meet your specific requirements ii service will be uninterrupted timely secure error free iii results that may be obtained from use of service will be accurate reliable iv quality of any products services information other material purchased obtained by you through service will meet your expectations v any errors in service will be corrected
+you expressly understand agree that github shall not be liable for any direct indirect incidental special consequential exemplary damages including but not limited to damages for loss of profits goodwill use data other intangible losses even if github has been advised of possibility of such damages resulting from i use inability to use service ii cost of procurement of substitute goods services resulting from any goods data information services purchased obtained messages received transactions entered into through from service iii unauthorized access to alteration of your transmissions data iv statements conduct of any third party on service v any other matter relating to service
+failure of github to exercise enforce any right provision of terms of service shall not constitute waiver of such right provision
+terms of service constitutes entire agreement between you github govern your use of service superseding any prior agreements between you github including but not limited to any prior versions of terms of service
+you agree that these terms of service your use of service are governed under california law
+questions about terms of service should be sent to support github com
+if you are government user otherwise accessing using any github service in government capacity this amendment to github terms of service shall apply to you
+map data copyright openstreetmap contributors licensed under open data commons open database license
+map design imagery subject to mapbox terms of service
+last updated march
+by using github com web site service any services of github inc github you are agreeing to be bound by following terms conditions terms of service
+if you are entering into this agreement on behalf of company other legal entity you represent that you have authority to bind such entity its affiliates all users who access our services through your account to these terms conditions in which case terms you your shall refer to such entity its affiliates users associated with it
+if you do not have such authority if you do not agree with these terms conditions you must not accept this agreement may not use services
+please note that if you are accessing any github service in your capacity as government entity there are special terms that may apply to you
+please see section g below for more details
+if github makes material changes to these terms we will notify you by email by posting notice on our site before changes are effective
+any new features that augment enhance current service including release of new tools resources shall be subject to terms of service
+continued use of service after any such changes shall constitute your consent to such changes
+you can review most current version of terms of service at any time at https github com site terms
+violation of any of terms below will result in termination of your account
+while github prohibits such conduct content on service you understand agree that github cannot be responsible for content posted on service you nonetheless may be exposed to such materials
+you agree to use service at your own risk
+you must be years older to use this service
+you must be human
+accounts registered by bots other automated methods are not permitted
+you must provide your name valid email address any other information requested in order to complete signup process
+your login may only be used by one person single login shared by multiple people is not permitted
+you may create separate logins for as many people as your plan allows
+you are responsible for maintaining security of your account password
+github cannot will not be liable for any loss damage from your failure to comply with this security obligation
+you are responsible for all content posted activity that occurs under your account even when content is posted by others who have accounts under your account
+one person legal entity may not maintain more than one free account
+you may not use service for any illegal unauthorized purpose
+you must not in use of service violate any laws in your jurisdiction including but not limited to copyright trademark laws
+customers may access their github account data via api application program interface
+any use of api including use of api through third party product that accesses github is bound by these terms of service plus following specific terms
+you expressly understand agree that github shall not be liable for any direct indirect incidental special consequential exemplary damages including but not limited to damages for loss of profits goodwill use data other intangible losses even if github has been advised of possibility of such damages resulting from your use of api third party products that access data via api
+abuse excessively frequent requests to github via api may result in temporary permanent suspension of your account s access to api
+github in its sole discretion will determine abuse excessive usage of api
+github will make reasonable attempt via email to warn account owner prior to suspension
+github reserves right at any time to modify discontinue temporarily permanently your access to api any part thereof with without notice
+all paid plans must enter valid payment account
+free accounts are not required to provide payment account information
+upgrade from free plan to any paying plan will immediately bill you
+for monthly payment plans service is billed in advance on monthly basis is non refundable
+there will be no refunds credits for partial months of service upgrade downgrade refunds refunds for months unused with open account
+in order to treat everyone equally no exceptions will be made
+when changing from monthly billing cycle to yearly billing cycle github will bill for full year at next monthly billing date
+all fees are exclusive of all taxes levies duties imposed by taxing authorities you shall be responsible for payment of all such taxes levies duties excluding only united states federal state taxes
+for any upgrade downgrade in plan level while on monthly billing cycle credit card that you provided will automatically be charged new rate on your next billing cycle
+for upgrades downgrades while on yearly plan github will immediately charge refund difference in plan cost prorated for remaining time in your yearly billing cycle
+downgrading your service may cause loss of content features capacity of your account
+github does not accept any liability for such loss
+you are solely responsible for properly canceling your account
+email phone request to cancel your account is not considered cancellation
+you can cancel your account at any time by clicking on account link in global navigation bar at top of screen
+account screen provides simple no questions asked cancellation link
+all of your content will be immediately deleted from service upon cancellation
+this information can not be recovered once your account is cancelled
+if you cancel service before end of your current paid up month your cancellation will take effect immediately you will not be charged again
+github in its sole discretion has right to suspend terminate your account refuse any all current future use of service any other github service for any reason at any time
+such termination of service will result in deactivation deletion of your account your access to your account forfeiture relinquishment of all content in your account
+github reserves right to refuse service to anyone for any reason at any time
+in event that github takes action to suspend terminate account we will make reasonable effort to provide affected account owner with copy of their account contents upon request unless account was suspended terminated due to unlawful conduct
+github reserves right at any time from time to time to modify discontinue temporarily permanently service any part thereof with without notice
+prices of all services including but not limited to monthly subscription plan fees to service are subject to change upon days notice from us
+such notice may be provided at any time by posting changes to github site github com service itself
+github shall not be liable to you to any third party for any modification price change suspension discontinuance of service
+we claim no intellectual property rights over material you provide to service
+your profile materials uploaded remain yours
+however by setting your pages to be viewed publicly you agree to allow others to view your content
+by setting your repositories to be viewed publicly you agree to allow others to view fork your repositories
+github does not pre screen content but github its designee have right but not obligation in their sole discretion to refuse remove any content that is available via service
+you shall defend github against any claim demand suit proceeding made brought against github by third party alleging that your content your use of service in violation of this agreement infringes misappropriates intellectual property rights of third party violates applicable law shall indemnify github for any damages finally awarded against for reasonable attorney s fees incurred by github in connection with any such claim demand suit proceeding provided that github promptly gives you written notice of claim demand suit proceeding b gives you sole control of defense settlement of claim demand suit proceeding provided that you may not settle any claim demand suit proceeding unless settlement unconditionally releases github of all liability c provides to you all reasonable assistance at your expense
+look feel of service is copyright github inc all rights reserved
+you may not duplicate copy reuse any portion of html css javascript visual design elements concepts without express written permission from github
+your use of service is at your sole risk
+service is provided on as is as available basis
+support for github services is only available in english via email
+you understand that github uses third party vendors hosting partners to provide necessary hardware software networking storage related technology required to run service
+you must not modify adapt hack service modify another website so as to falsely imply that it is associated with service github any other github service
+you may use github pages static hosting service solely as permitted intended to host your organization pages personal pages project pages for no other purpose
+you may not use github pages in violation of github s trademark other rights in violation of applicable law
+github reserves right at all times to reclaim any github subdomain without liability to you
+you agree not to reproduce duplicate copy sell resell exploit any portion of service use of service access to service without express written permission by github
+we may but have no obligation to remove content accounts containing content that we determine in our sole discretion are unlawful offensive threatening libelous defamatory pornographic obscene otherwise objectionable violates any party s intellectual property these terms of service
+verbal physical written other abuse including threats of abuse retribution of any github customer employee member officer will result in immediate account termination
+you understand that technical processing transmission of service including your content may be transferred unencrypted involve transmissions over various networks b changes to conform adapt to technical requirements of connecting networks devices
+you must not upload post host transmit unsolicited email smss spam messages
+you must not transmit any worms viruses any code of destructive nature
+if your bandwidth usage significantly exceeds average bandwidth usage as determined solely by github of other github customers we reserve right to immediately disable your account throttle your file hosting until you can reduce your bandwidth consumption
+github does not warrant that i service will meet your specific requirements ii service will be uninterrupted timely secure error free iii results that may be obtained from use of service will be accurate reliable iv quality of any products services information other material purchased obtained by you through service will meet your expectations v any errors in service will be corrected
+you expressly understand agree that github shall not be liable for any direct indirect incidental special consequential exemplary damages including but not limited to damages for loss of profits goodwill use data other intangible losses even if github has been advised of possibility of such damages resulting from i use inability to use service ii cost of procurement of substitute goods services resulting from any goods data information services purchased obtained messages received transactions entered into through from service iii unauthorized access to alteration of your transmissions data iv statements conduct of any third party on service v any other matter relating to service
+failure of github to exercise enforce any right provision of terms of service shall not constitute waiver of such right provision
+terms of service constitutes entire agreement between you github govern your use of service superseding any prior agreements between you github including but not limited to any prior versions of terms of service
+you agree that these terms of service your use of service are governed under california law
+questions about terms of service should be sent to support github com
+if you are government user otherwise accessing using any github service in government capacity this amendment to github terms of service shall apply to you
+map data copyright openstreetmap contributors licensed under open data commons open database license
+map design imagery subject to mapbox terms of service
+last updated march
+by using github com web site service any services of github inc github you are agreeing to be bound by following terms conditions terms of service
+if you are entering into this agreement on behalf of company other legal entity you represent that you have authority to bind such entity its affiliates all users who access our services through your account to these terms conditions in which case terms you your shall refer to such entity its affiliates users associated with it
+if you do not have such authority if you do not agree with these terms conditions you must not accept this agreement may not use services
+please note that if you are accessing any github service in your capacity as government entity there are special terms that may apply to you
+please see section g below for more details
+if github makes material changes to these terms we will notify you by email by posting notice on our site before changes are effective
+any new features that augment enhance current service including release of new tools resources shall be subject to terms of service
+continued use of service after any such changes shall constitute your consent to such changes
+you can review most current version of terms of service at any time at https github com site terms
+violation of any of terms below will result in termination of your account
+while github prohibits such conduct content on service you understand agree that github cannot be responsible for content posted on service you nonetheless may be exposed to such materials
+you agree to use service at your own risk
+you must be years older to use this service
+you must be human
+accounts registered by bots other automated methods are not permitted
+you must provide your name valid email address any other information requested in order to complete signup process
+your login may only be used by one person single login shared by multiple people is not permitted
+you may create separate logins for as many people as your plan allows
+you are responsible for maintaining security of your account password
+github cannot will not be liable for any loss damage from your failure to comply with this security obligation
+you are responsible for all content posted activity that occurs under your account even when content is posted by others who have accounts under your account
+one person legal entity may not maintain more than one free account
+you may not use service for any illegal unauthorized purpose
+you must not in use of service violate any laws in your jurisdiction including but not limited to copyright trademark laws
+customers may access their github account data via api application program interface
+any use of api including use of api through third party product that accesses github is bound by these terms of service plus following specific terms
+you expressly understand agree that github shall not be liable for any direct indirect incidental special consequential exemplary damages including but not limited to damages for loss of profits goodwill use data other intangible losses even if github has been advised of possibility of such damages resulting from your use of api third party products that access data via api
+abuse excessively frequent requests to github via api may result in temporary permanent suspension of your account s access to api
+github in its sole discretion will determine abuse excessive usage of api
+github will make reasonable attempt via email to warn account owner prior to suspension
+github reserves right at any time to modify discontinue temporarily permanently your access to api any part thereof with without notice
+all paid plans must enter valid payment account
+free accounts are not required to provide payment account information
+upgrade from free plan to any paying plan will immediately bill you
+for monthly payment plans service is billed in advance on monthly basis is non refundable
+there will be no refunds credits for partial months of service upgrade downgrade refunds refunds for months unused with open account
+in order to treat everyone equally no exceptions will be made
+when changing from monthly billing cycle to yearly billing cycle github will bill for full year at next monthly billing date
+all fees are exclusive of all taxes levies duties imposed by taxing authorities you shall be responsible for payment of all such taxes levies duties excluding only united states federal state taxes
+for any upgrade downgrade in plan level while on monthly billing cycle credit card that you provided will automatically be charged new rate on your next billing cycle
+for upgrades downgrades while on yearly plan github will immediately charge refund difference in plan cost prorated for remaining time in your yearly billing cycle
+downgrading your service may cause loss of content features capacity of your account
+github does not accept any liability for such loss
+you are solely responsible for properly canceling your account
+email phone request to cancel your account is not considered cancellation
+you can cancel your account at any time by clicking on account link in global navigation bar at top of screen
+account screen provides simple no questions asked cancellation link
+all of your content will be immediately deleted from service upon cancellation
+this information can not be recovered once your account is cancelled
+if you cancel service before end of your current paid up month your cancellation will take effect immediately you will not be charged again
+github in its sole discretion has right to suspend terminate your account refuse any all current future use of service any other github service for any reason at any time
+such termination of service will result in deactivation deletion of your account your access to your account forfeiture relinquishment of all content in your account
+github reserves right to refuse service to anyone for any reason at any time
+in event that github takes action to suspend terminate account we will make reasonable effort to provide affected account owner with copy of their account contents upon request unless account was suspended terminated due to unlawful conduct
+github reserves right at any time from time to time to modify discontinue temporarily permanently service any part thereof with without notice
+prices of all services including but not limited to monthly subscription plan fees to service are subject to change upon days notice from us
+such notice may be provided at any time by posting changes to github site github com service itself
+github shall not be liable to you to any third party for any modification price change suspension discontinuance of service
+we claim no intellectual property rights over material you provide to service
+your profile materials uploaded remain yours
+however by setting your pages to be viewed publicly you agree to allow others to view your content
+by setting your repositories to be viewed publicly you agree to allow others to view fork your repositories
+github does not pre screen content but github its designee have right but not obligation in their sole discretion to refuse remove any content that is available via service
+you shall defend github against any claim demand suit proceeding made brought against github by third party alleging that your content your use of service in violation of this agreement infringes misappropriates intellectual property rights of third party violates applicable law shall indemnify github for any damages finally awarded against for reasonable attorney s fees incurred by github in connection with any such claim demand suit proceeding provided that github promptly gives you written notice of claim demand suit proceeding b gives you sole control of defense settlement of claim demand suit proceeding provided that you may not settle any claim demand suit proceeding unless settlement unconditionally releases github of all liability c provides to you all reasonable assistance at your expense
+look feel of service is copyright github inc all rights reserved
+you may not duplicate copy reuse any portion of html css javascript visual design elements concepts without express written permission from github
+your use of service is at your sole risk
+service is provided on as is as available basis
+support for github services is only available in english via email
+you understand that github uses third party vendors hosting partners to provide necessary hardware software networking storage related technology required to run service
+you must not modify adapt hack service modify another website so as to falsely imply that it is associated with service github any other github service
+you may use github pages static hosting service solely as permitted intended to host your organization pages personal pages project pages for no other purpose
+you may not use github pages in violation of github s trademark other rights in violation of applicable law
+github reserves right at all times to reclaim any github subdomain without liability to you
+you agree not to reproduce duplicate copy sell resell exploit any portion of service use of service access to service without express written permission by github
+we may but have no obligation to remove content accounts containing content that we determine in our sole discretion are unlawful offensive threatening libelous defamatory pornographic obscene otherwise objectionable violates any party s intellectual property these terms of service
+verbal physical written other abuse including threats of abuse retribution of any github customer employee member officer will result in immediate account termination
+you understand that technical processing transmission of service including your content may be transferred unencrypted involve transmissions over various networks b changes to conform adapt to technical requirements of connecting networks devices
+you must not upload post host transmit unsolicited email smss spam messages
+you must not transmit any worms viruses any code of destructive nature
+if your bandwidth usage significantly exceeds average bandwidth usage as determined solely by github of other github customers we reserve right to immediately disable your account throttle your file hosting until you can reduce your bandwidth consumption
+github does not warrant that i service will meet your specific requirements ii service will be uninterrupted timely secure error free iii results that may be obtained from use of service will be accurate reliable iv quality of any products services information other material purchased obtained by you through service will meet your expectations v any errors in service will be corrected
+you expressly understand agree that github shall not be liable for any direct indirect incidental special consequential exemplary damages including but not limited to damages for loss of profits goodwill use data other intangible losses even if github has been advised of possibility of such damages resulting from i use inability to use service ii cost of procurement of substitute goods services resulting from any goods data information services purchased obtained messages received transactions entered into through from service iii unauthorized access to alteration of your transmissions data iv statements conduct of any third party on service v any other matter relating to service
+failure of github to exercise enforce any right provision of terms of service shall not constitute waiver of such right provision
+terms of service constitutes entire agreement between you github govern your use of service superseding any prior agreements between you github including but not limited to any prior versions of terms of service
+you agree that these terms of service your use of service are governed under california law
+questions about terms of service should be sent to support github com
+if you are government user otherwise accessing using any github service in government capacity this amendment to github terms of service shall apply to you
+map data copyright openstreetmap contributors licensed under open data commons open database license
+map design imagery subject to mapbox terms of service
+last updated march

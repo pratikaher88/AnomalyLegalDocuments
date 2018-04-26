@@ -1,0 +1,98 @@
+welcome to github s guide to digital millennium copyright act commonly known as dmca
+this page is not meant as comprehensive primer to statute
+however if you ve received dmca takedown notice targeting content you ve posted on github if you re rights holder looking to issue such notice this page will hopefully help to demystify law bit as well as our policies for complying with it
+if you just want to submit notice you can skip to end
+as with all legal matters it is always best to consult with professional about your specific questions situation
+we strongly encourage you to do so before taking any action that might impact your rights
+this guide isn t legal advice shouldn t be taken as such
+in order to understand dmca some of policy lines it draws it s perhaps helpful to consider life before it was enacted
+before dmca internet based service provider like github could be liable for copyright infringement in united states just for hosting its users pictures music videos code
+this was true even if it had no actual knowledge of any infringing content
+this was problem since even single claim of copyright infringement can carry statutory damages of up to
+with potential damages that high multiplied across millions of users cloud computing user generated content sites like youtube facebook github probably never would have existed at least not without passing some of that cost downstream to their users
+dmca attempted to fix this problem by creating so called copyright liability safe harbor for internet service providers hosting allegedly infringing user generated content
+see u s code title section
+essentially so long as service provider follows dmca s notice takedown rules it won t be liable for copyright infringement based on user generated content
+because of this it is important for github to maintain its dmca safe harbor status
+dmca provides two simple straightforward procedures that all github users should know about i takedown notice procedure for copyright holders to request that content be removed ii counter notice procedure for users to get content reenabled when content is taken down by mistake
+dmca takedown notices are used by copyright owners to ask github to take down infringing content
+if you are software designer developer you create copyrighted content every day
+if someone else is using your copyrighted content in unauthorized manner on github you can send us dmca takedown notice to request that infringing content be changed removed
+on other hand counter notices can be used to correct mistakes
+maybe person sending takedown notice does not hold copyright did not realize that you have license made some other mistake in their takedown notice
+since github usually cannot know if there has been mistake dmca counter notice allows you to let us know ask that we put content back up
+dmca framework is bit like passing notes in class
+copyright owner hands github complaint about user
+if it s written correctly we pass complaint along to user
+if user disputes complaint they can pass note back saying so
+github exercises little discretion in process other than determining whether notices meet minimum requirements of dmca
+it is up to parties their lawyers to evaluate merit of their claims bearing in mind that notices must be made under penalty of perjury
+here are basic steps in process
+copyright owner investigates
+copyright owner should always conduct initial investigation to confirm both that they own copyright to original work b that content on github is unauthorized infringing
+example employee of acme web company finds some of company s code in github repository
+acme web company licenses its source code out to several trusted partners
+before sending in take down notice acme should review those licenses its agreements to confirm that code on github is not authorized under any of them
+copyright owner sends notice
+after conducting investigation copyright owner prepares sends takedown notice to github
+assuming takedown notice is sufficiently detailed according to statutory requirements as explained in how to guide we will post notice to our public repository pass link along to affected user
+github asks user to make changes
+if notice alleges that entire contents of repository infringe we will skip to step disable entire repository expeditiously
+otherwise because github cannot disable access to specific files within repository we will contact user who created repository give them approximately hours to delete modify content specified in notice
+we ll notify copyright owner if when we give user chance to make changes
+user notifies github of changes
+if user chooses to make specified changes they must tell us so within approximately hour window
+if they don t we will disable repository as described in step
+if user notifies us that they made changes we will verify that changes have been made then notify copyright owner
+copyright owner revises retracts notice
+if user makes changes copyright owner must review them renew revise their takedown notice if changes are insufficient
+github will not take any further action unless copyright owner contacts us to either renew original takedown notice submit revised one
+if copyright owner is satisfied with changes they may either submit formal retraction else do nothing
+github will interpret silence longer than two weeks as implied retraction of takedown notice
+github may disable access to content
+github will disable user s content if i copyright owner has alleged copyright over user s entire repository as noted in step ii user has not made any changes after being given opportunity to do so as noted in step iii copyright owner has renewed their takedown notice after user had chance to make changes
+if copyright owner chooses instead to revise notice we will go back to step repeat process as if revised notice were new notice
+user may send counter notice
+we encourage users who have had content disabled to consult with lawyer about their options
+if user believes that their content was disabled as result of mistake misidentification they may send us counter notice
+as with original notice we will make sure that counter notice is sufficiently detailed as explained in how to guide
+if it is we will post it to our public repository pass notice back to copyright owner by sending them link
+copyright owner may file legal action
+if copyright owner wishes to keep content disabled after receiving counter notice they will need to initiate legal action seeking court order to restrain user from engaging in infringing activity relating to content on github
+in other words you might get sued
+if copyright owner does not notify github within days that it has initiated legal action github will reenable disabled content
+one of best features of git is ability for users to fork one another s repositories
+what does that mean
+in essence it means that users can make copy of project then make changes to that copy to either push back to main project just keep as their own variation of project
+we call each of these copies fork of original repository which in turn may also be called parent of fork
+github will not automatically disable forks when disabling parent repository
+this is because forks belong to different users may have been altered in significant ways may be licensed used in different way that is protected by fair use doctrine
+github does not conduct any independent investigation into forks
+we expect copyright owners to conduct that investigation if they believe that forks are also infringing expressly include forks in their takedown notice
+we recognize that there are many valid reasons that you may not be able to make changes within approximate hour window we provide before your repository gets disabled
+maybe our message got flagged as spam maybe you were on vacation maybe you don t check that email account regularly maybe you were just busy
+we get it
+if you respond to let us know that you would have liked to make changes but somehow missed first opportunity we will re enable repository one additional time for approximately hours to allow you to make changes
+again you must notify us that you have made changes in order to keep repository enabled after that hour window as noted above in step
+please note that we will only provide this one additional chance
+we believe that transparency is virtue
+public should know what content is being removed from github why
+informed public can notice surface potential issues that would otherwise go unnoticed in opaque system
+we post redacted copies of any legal notices we receive including original notices counter notices retractions at https github com github dmca
+we will not publicly publish your personal contact information we will remove personal information except for usernames in urls before publishing notices
+we will not however redact any other information from your notice unless you specifically ask us to
+here are some examples of published notice counter notice for you to see what they look like
+when we remove content we will post link to related notice in its place
+please also note that although we will not publicly publish unredacted notices we may provide complete unredacted copy of any notices we receive directly to any party whose rights would be affected by it
+it is policy of github in appropriate circumstances in its sole discretion to disable terminate accounts of users who may infringe upon copyrights other intellectual property rights of github others
+if you are ready to submit notice counter notice
+if you poke around internet it is not too hard to find commentary criticism about copyright system in general dmca in particular
+while github acknowledges appreciates important role that dmca has played in promoting innovation online we believe that copyright laws could probably use patch two if not whole new release
+in software we are constantly improving updating our code
+think about how much technology has changed since when dmca was written
+doesn t it just make sense to update these laws that apply to software
+we don t presume to have all answers
+but if you are curious here are few links to scholarly articles blog posts we have found with opinions proposals for reform
+github doesn t necessarily endorse any of viewpoints in those articles
+we provide links to encourage you to learn more form your own opinions then reach out to your elected representative s e g in u s congress e u
+parliament to seek whatever changes you think should be made
